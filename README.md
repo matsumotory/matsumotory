@@ -65,11 +65,11 @@
 - 松本亮介・岡部寿男, __libcgroupとmrubyを使ったWebサーバのリソース制御アーキテクチャ__, [第2回 コンテナ型仮想化の情報交換会](http://atnd.org/events/40915), 2013年10月.
 - 松本亮介・岡部寿男, __リクエスト単位で仮想的にコンピュータリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会研究報告 Vol.2013-IOT-23, No.4](http://id.nii.ac.jp/1001/00095297/), 2013年9月.
 - 津崎善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, __電子メールの大量送信を選択的に制限する中継システム__, 平成25年度情報処理学会関西支部支部大会 E-23, 2013年9月.
-- 松本亮介・岡部寿男, __組み込みスクリプト言語mrubyを利用したWebサーバの機能拡張支援機構__, [情報処理学会研究報告 Vol.2012-IOT-18, No.6](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=82635&item_no=1&page_id=13&block_id=8), 2012年6月.
 - 松本亮介・岡部寿男, __mrubyとWebサーバ__, [オープンソースカンファレンス名古屋2013](http://www.ospn.jp/osc2013-nagoya/), 2013年6月.
 - Ryosuke Matsumoto, Yasuo Okabe, __Design and Implementation of Infrastructure Software for More Sophisticated Web Services__, The 35th IST seminar, 11 April 2013 (in English).
 - 松本亮介・岡部寿男, __mod_mruby__, [Ruby東京プレゼンテーション2013](http://www.digitalfukuoka.jp/events/6), 2013年3月.
 - 松本亮介・岡部寿男, __Webサービスの高度化に耐えうる基盤設計に関する研究__, [京都大学ICTイノベーション2013](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/2013/panel/panel.php?id=20), 2013年2月.
+- 松本亮介・岡部寿男, __組み込みスクリプト言語mrubyを利用したWebサーバの機能拡張支援機構__, [情報処理学会研究報告 Vol.2012-IOT-18, No.6](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=82635&item_no=1&page_id=13&block_id=8), 2012年6月.
 - 松本亮介・岡部寿男, __スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__, [情報処理学会研究報告 - 第16回 インターネットと運用技術（IOT）, Vol.2012-IOT-16 No.13, pp. 1-6](http://id.nii.ac.jp/1001/00081127/), 2012年3月.
 
 ## 学部時の研究
