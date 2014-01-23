@@ -1,11 +1,12 @@
 ## 松本 亮介（まつもと りょうすけ）
 - Twitter   [@matsumotory](https://twitter.com/matsumotory)
 - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
+- GitHub    [matsumoto-r](https://github.com/matsumoto-r)
 - Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
 ## 所属
 - 京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座
-- 岡部研究室
+- [岡部研究室](http://www.net.ist.i.kyoto-u.ac.jp/ja/)
 - 博士課程 2回生
 
 ## 研究テーマ
