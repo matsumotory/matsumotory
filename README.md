@@ -1,23 +1,27 @@
 # 松本 亮介（まつもと りょうすけ）
+- Twitter   [@matsumotory](https://twitter.com/matsumotory)
+- Facebook  [matsumotory](https://www.facebook.com/matsumotory)
+- Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
 # 所属
-- 京都大学 学術情報メディアセンター（岡部研究室）
-- 博士課程
+- 京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座 ネットワークメディア分野
+- 岡部研究室
+- 博士課程 2回生
 
 # 研究テーマ
 - 高集積マルチテナント環境における高性能かつ柔軟に権限分離可能なWebサーバのアーキテクチャに関する研究
-  - OS・Middlewareのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模
-    - Webサーバのセキュリティ・パフォーマンス・運用性・大規模・高集積
-    - Webサーバの開発支援インターフェイス
-    - Kernel・ファイルシステム・cgroups・Linux Capability・セキュアOS
-    - WebサーバとP2P
-    - メール流量の選択的制限
-    - Test-Driven Infrastructure
-    - Immutable Infrastructure
-  - ネットワークセキュリティ
-    - データマイニングによるパケット解析
-    - 変化点検出（外れ値と変化点の検知アルゴリズム）
-- [研究ブログ](http://blog.matsumoto-r.jp/)
+- OS・Middlewareのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模
+  - 各種サーバのリソース管理・アクセス制御
+  - Webサーバのセキュリティ・パフォーマンス・運用性・大規模・高集積
+  - Webサーバの開発支援インターフェイス
+  - Kernel・ファイルシステム・cgroups・Linux Capability・セキュアOS
+  - WebサーバとP2P
+  - メール流量の選択的制限
+  - Test-Driven Infrastructure
+  - Immutable Infrastructure
+- ネットワークセキュリティ
+  - データマイニングによるパケット解析
+  - 変化点検出（外れ値と変化点の検知アルゴリズム）
 
 # 経歴
 - 2012年10月 フリーランスエンジニアとして起業
@@ -70,6 +74,11 @@
 - 松本亮介・岡部寿男, __mod_mruby__, [Ruby東京プレゼンテーション2013](http://www.digitalfukuoka.jp/events/6), 2013年3月.
 - 松本亮介・岡部寿男, __Webサービスの高度化に耐えうる基盤設計に関する研究__, [京都大学ICTイノベーション2013](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/2013/panel/panel.php?id=20), 2013年2月.
 - 松本亮介・岡部寿男, __スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__, [情報処理学会研究報告 - 第16回 インターネットと運用技術（IOT）, Vol.2012-IOT-16 No.13, pp. 1-6](http://id.nii.ac.jp/1001/00081127/), 2012年3月.
+
+## 学部時の研究
+- 松本亮介, __トラフィック特徴量の相関特性を用いた異常検出__, [平成19年度 卒業研究発表会](http://blog.matsumoto-r.jp/?p=70).
+- 松本亮介, __トラフィック特徴量の時系列データにおける相関特性を用いた変化点からの異常検出__, [平成19年度 後期雑誌会](https://speakerdeck.com/matsumoto_r/torahuitukute-zheng-liang-falseshi-xi-lie-detaniokeruxiang-guan-te-xing-woyong-itabian-hua-dian-karafalseyi-chang-jian-chu).
+- 松本亮介, __統計的手法による時系列からの外れ値と変化点の検出について__, [平成19年度 前期雑誌会](http://blog.matsumoto-r.jp/?p=54).
 
 # 自分の作ったソフトウェアに関して言及された雑誌や本、Webニュース等
 - 2013年09月 日経Linux 2013年10月号 まつもとゆきひろの言語の世界
