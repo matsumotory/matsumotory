@@ -16,6 +16,7 @@
   - Webサーバの開発支援インターフェイス
   - Kernel・ファイルシステム・cgroups・Linux Capability・セキュアOS
   - WebサーバとP2P
+  - 次世代HTTPプロトコル（SPDY、HTTP/2.0、QUIC）
   - メール流量の選択的制限
   - Test-Driven Infrastructure
   - Immutable Infrastructure
@@ -115,11 +116,11 @@
 
 ## 公開済みの開発物
 - __増えすぎたのでその他はGithubを見て下さい__
-  - [[Github matsumoto-r](https://github.com/matsumoto-r)
+  - [Github matsumoto-r](https://github.com/matsumoto-r)
 - コンピュータ技術共有サイト
   - [Register Underflow](https://registerunderflow.org)
 - mruby関連
-  -[mrubyライブラリ色々](https://github.com/search?q=%40matsumoto-r+mruby)
+  - [mrubyライブラリ色々](https://github.com/search?q=%40matsumoto-r+mruby)
 - Nginx Module
   - [ngx_mruby](https://github.com/matsumoto-r/ngx_mruby)
 - Apache Module
