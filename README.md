@@ -1,14 +1,14 @@
-# 松本 亮介（まつもと りょうすけ）
+## 松本 亮介（まつもと りょうすけ）
 - Twitter   [@matsumotory](https://twitter.com/matsumotory)
 - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
 - Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
-# 所属
+## 所属
 - 京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座 ネットワークメディア分野
 - 岡部研究室
 - 博士課程 2回生
 
-# 研究テーマ
+## 研究テーマ
 - 高集積マルチテナント環境における高性能かつ柔軟に権限分離可能なWebサーバのアーキテクチャに関する研究
 - OS・Middlewareのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模
   - 各種サーバのリソース管理・アクセス制御
@@ -23,7 +23,7 @@
   - データマイニングによるパケット解析
   - 変化点検出（外れ値と変化点の検知アルゴリズム）
 
-# 経歴
+## 経歴
 - 2012年10月 フリーランスエンジニアとして起業
 - 2012年04月 京都大学 情報学研究科 博士課程 入学
 - 2012年03月 京都大学 学術情報メディアセンター 研究生 満了 
@@ -35,32 +35,32 @@
 - 2003年04月 大阪府立大学 工学部情報工学科 入学
 - 2002年03月 私立 洛星高校 卒業
 
-# 論文・発表・受賞歴
-## 受賞
+## 論文・発表・受賞歴
+### 受賞
 - [情報処理学会 インターネットと運用技術シンポジウム2013（IOTS2013）優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award) 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 - [情報処理学会 インターネットと運用技術シンポジウム2013（IOTS2013）学生奨励賞](http://iot.ipsj.or.jp/iots/2013/award) 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 - 情報処理学会 インターネットと運用技術研究会 第23回（IOT23） 学生奨励賞 松本亮介・岡部寿男, __リクエスト単位で仮想的にコンピュータリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会研究報告 Vol.2013-IOT-23, No.4](http://id.nii.ac.jp/1001/00095297/), 2013年9月.
 - [2013年度 情報処理学会関西支部 支部大会 学生奨励賞](http://kansai.ipsj.or.jp/hyoshou/2013_hyoshou.html) 津崎善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, __電子メールの大量送信を選択的に制限する中継システム__, 平成25年度情報処理学会関西支部支部大会 E-23, 2013年9月.
 - [Ruby Prize 2013 候補者](http://www.ruby.or.jp/ja/news/20130821.html)
 
-## 論文誌論文
+### 論文誌論文
 - 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 - 松本亮介, 川原将司, 松岡輝夫, __大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [情報処理学会論文誌, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013. 
 
-## 国際会議等発表（査読付）
+### 国際会議等発表（査読付）
 - Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 - Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013 (to appear)
 - Ryosuke Matsumoto, Yasuo Okabe, __Access Control Architecture Separating Privilege by a Thread on a Web Server__, The 12th IEEE/IPSJ International Symposium on Applications and the Internet (SAINT2012), pp.178-183, July 2012.
 
-## 国内発表（査読付）
+### 国内発表（査読付）
 - 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月. 
 - 松本亮介, 川原将司, 松岡輝夫, __汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月. 
 
-## 国内発表（査読付）
+### 国内発表（査読付）
 - 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）(]http://id.nii.ac.jp/1001/00096443/), 2013年12月. 
 - 松本亮介, 川原将司, 松岡輝夫, __汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24)](http://id.nii.ac.jp/1001/00078710/), 2011年12月. 
 
-## 口頭発表
+### 口頭発表
 - 宮下剛輔・栗林健太郎・松本亮介， __serverspec: 宣言的記述でサーバの状態をテスト可能な汎用性の高いテストフレームワーク__, 情報処理学会研究報告 - 第24回 インターネットと運用技術（IOT）, 2014年2月.
 - 津﨑善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, __同一の送受信アドレスを持つ大量メールの効率的判定手法__, 信学技報, 2014年2月.
 - 松本亮介, __mrubyテクニカルセッション（パネルディスカッション）__, [Ruby東京プレゼンテーション2014](http://www.digitalfukuoka.jp/events/30?locale=ja), 2014年1月.
@@ -75,12 +75,12 @@
 - 松本亮介・岡部寿男, __Webサービスの高度化に耐えうる基盤設計に関する研究__, [京都大学ICTイノベーション2013](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/2013/panel/panel.php?id=20), 2013年2月.
 - 松本亮介・岡部寿男, __スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__, [情報処理学会研究報告 - 第16回 インターネットと運用技術（IOT）, Vol.2012-IOT-16 No.13, pp. 1-6](http://id.nii.ac.jp/1001/00081127/), 2012年3月.
 
-## 学部時の研究
+### 学部時の研究
 - 松本亮介, __トラフィック特徴量の相関特性を用いた異常検出__, [平成19年度 卒業研究発表会](http://blog.matsumoto-r.jp/?p=70).
 - 松本亮介, __トラフィック特徴量の時系列データにおける相関特性を用いた変化点からの異常検出__, [平成19年度 後期雑誌会](https://speakerdeck.com/matsumoto_r/torahuitukute-zheng-liang-falseshi-xi-lie-detaniokeruxiang-guan-te-xing-woyong-itabian-hua-dian-karafalseyi-chang-jian-chu).
 - 松本亮介, __統計的手法による時系列からの外れ値と変化点の検出について__, [平成19年度 前期雑誌会](http://blog.matsumoto-r.jp/?p=54).
 
-# 自分の作ったソフトウェアに関して言及された雑誌や本、Webニュース等
+## 自分の作ったソフトウェアに関して言及された雑誌や本、Webニュース等
 - 2013年09月 日経Linux 2013年10月号 まつもとゆきひろの言語の世界
 - 2013年07月 日経Linux 2013年08月号 組み込み用Ruby「mruby」でモノ作りを始めよう
 - 2013年06月 まつもとゆきひろ直伝 組込向けRuby mrubyのすべて 総集編
@@ -92,7 +92,7 @@
 - 2012年06月 [第1回 mruby誕生の経緯を明かそう](http://itpro.nikkeibp.co.jp/article/COLUMN/20120622/404824/?s2p)
 - 2012年06月 [まつもとゆきひろ氏に「mruby」の経緯について聞いた（1）](http://techon.nikkeibp.co.jp/article/NEWS/20120620/224023/)
 
-# その他所属
+## その他所属
 - 電子情報通信学会
 - 情報処理学会
 - 軽量Rubyフォーラム特別会員
@@ -117,7 +117,7 @@
 - Cloud Stackユーザー会
 - 日本セキュアOSユーザ会
 
-# 公開済みの開発物
+## 公開済みの開発物
 - __増えすぎたのでその他はGithubを見て下さい__
   - [[Github matsumoto-r](https://github.com/matsumoto-r)
 - コンピュータ技術共有サイト
@@ -145,6 +145,6 @@
   - [qos-control](https://github.com/matsumoto-r/qos-control)
   - [Zabbix-API-Client](https://github.com/matsumoto-r/Zabbix-API-Client)
 
-# 連絡先
+## 連絡先
 - 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
 - Email: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
