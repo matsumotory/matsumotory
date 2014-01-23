@@ -44,18 +44,26 @@
 - [2013年度 情報処理学会関西支部 支部大会 学生奨励賞](http://kansai.ipsj.or.jp/hyoshou/2013_hyoshou.html) 津崎善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, __電子メールの大量送信を選択的に制限する中継システム__, 平成25年度情報処理学会関西支部支部大会 E-23, 2013年9月.
 - [Ruby Prize 2013 候補者](http://www.ruby.or.jp/ja/news/20130821.html)
 
+***
+
 ### 論文誌論文
 - 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 - 松本亮介, 川原将司, 松岡輝夫, __大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [情報処理学会論文誌, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013. 
+
+***
 
 ### 国際会議等発表（査読付）
 - Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 - Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013 (to appear)
 - Ryosuke Matsumoto, Yasuo Okabe, __Access Control Architecture Separating Privilege by a Thread on a Web Server__, The 12th IEEE/IPSJ International Symposium on Applications and the Internet (SAINT2012), pp.178-183, July 2012.
 
+***
+
 ### 国内発表（査読付）
 - 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月. 
 - 松本亮介, 川原将司, 松岡輝夫, __汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月. 
+
+***
 
 ### 口頭発表
 - 宮下剛輔・栗林健太郎・松本亮介， __serverspec: 宣言的記述でサーバの状態をテスト可能な汎用性の高いテストフレームワーク__, 情報処理学会研究報告 - 第24回 インターネットと運用技術（IOT）, 2014年2月.
