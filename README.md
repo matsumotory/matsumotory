@@ -1,4 +1,7 @@
 ## 松本 亮介（まつもと りょうすけ）
+
+学部卒業後、ホスティング系企業に3年間勤務。企業での経験が認められ、京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。
+
 - Twitter   [@matsumotory](https://twitter.com/matsumotory)
 - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
 - GitHub    [matsumoto-r](https://github.com/matsumoto-r)
