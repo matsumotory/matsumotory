@@ -105,6 +105,7 @@
 - 2012年10月 日経Linux 2012年11月号 組込向けRuby mrubyのすべて 第2回
 - 2012年09月 日経Linux 2012年10月号 組込向けRuby mrubyのすべて 第1回
 - 2012年08月 [第1回　Rubyの世界を大きく広げるmruby (増井雄一郎 @masuidrive)](http://www.school.ctc-g.co.jp/columns/masuidrive/masuidrive01.html)
+- 2012年07月 [組み込み開発にも高い生産性を――製造業技術者に“軽量Ruby”「mruby」アピール](http://monoist.atmarkit.co.jp/mn/articles/1207/03/news068.html)
 - 2012年06月 [第1回 mruby誕生の経緯を明かそう](http://itpro.nikkeibp.co.jp/article/COLUMN/20120622/404824/?s2p)
 - 2012年06月 [まつもとゆきひろ氏に「mruby」の経緯について聞いた（1）](http://techon.nikkeibp.co.jp/article/NEWS/20120620/224023/)
 
