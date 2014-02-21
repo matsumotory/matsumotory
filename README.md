@@ -99,6 +99,7 @@
 - 松本亮介, __統計的手法による時系列からの外れ値と変化点の検出について__, [平成19年度 前期雑誌会](http://blog.matsumoto-r.jp/?p=54).
 
 ## 自分の作ったソフトウェアに関して言及された雑誌や本、Webニュース等
+- 2014年02月 [技術評論社 WEB+DB PRESS Vol.79 Webエンジニアのためのmruby入門](http://gihyo.jp/magazine/wdpress/archive/2014/vol79)
 - 2014年01月 [日経BP社 まつもとゆきひろ直伝　組込Ruby「mruby」のすべて 総集編](http://www.amazon.co.jp/%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E3%82%86%E3%81%8D%E3%81%B2%E3%82%8D%E7%9B%B4%E4%BC%9D-%E7%B5%84%E8%BE%BCRuby%E3%80%8Cmruby%E3%80%8D%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-%E7%B7%8F%E9%9B%86%E7%B7%A8-%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E3%82%86%E3%81%8D%E3%81%B2%E3%82%8D-ebook/dp/B00HZGBN58)
 - 2013年09月 日経Linux 2013年10月号 まつもとゆきひろの言語の世界
 - 2013年07月 日経Linux 2013年08月号 組み込み用Ruby「mruby」でモノ作りを始めよう
