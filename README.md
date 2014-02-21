@@ -47,7 +47,7 @@
 ## 論文・発表・受賞歴(2011年12月 ～）
 ### 受賞
 - [__第9回 日本OSS奨励賞__](http://ossforum.jp/ossaward9th2), 松本亮介, 2014年2月.
-- [第６回フクオカRuby大賞 __優秀賞__](http://www.digitalfukuoka.jp/events/21?locale=ja), 松本亮介, __mod_mruby × ngx_mruby: 組込みスクリプト言語mrubyで高速かつ省メモリに拡張可能なWebサーバの機機能拡張支援機構__, [第６回フクオカRuby 大賞](http://www.digitalfukuoka.jp/events/21?locale=ja), 2014年2月.
+- [__第6回 フクオカRuby大賞 優秀賞__](http://www.digitalfukuoka.jp/events/21?locale=ja), 松本亮介, __mod_mruby × ngx_mruby: 組込みスクリプト言語mrubyで高速かつ省メモリに拡張可能なWebサーバの機機能拡張支援機構__, [第６回フクオカRuby 大賞](http://www.digitalfukuoka.jp/events/21?locale=ja), 2014年2月.
 - [情報処理学会 インターネットと運用技術シンポジウム2013（IOTS2013）__優秀論文賞__](http://iot.ipsj.or.jp/iots/2013/award) 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 - [情報処理学会 インターネットと運用技術シンポジウム2013（IOTS2013）__学生奨励賞__](http://iot.ipsj.or.jp/iots/2013/award), 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 - 情報処理学会 インターネットと運用技術研究会 第23回（IOT23） __学生奨励賞__, 松本亮介・岡部寿男, __リクエスト単位で仮想的にコンピュータリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会研究報告 Vol.2013-IOT-23, No.4](http://id.nii.ac.jp/1001/00095297/), 2013年9月.
