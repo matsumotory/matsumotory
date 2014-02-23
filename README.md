@@ -2,7 +2,7 @@
 
 [[English]](http://research-en.matsumoto-r.jp/) [[Japanese]](http://research.matsumoto-r.jp/)
 
-学部卒業後、ホスティング系企業に3年間勤務。企業での経験が認められ、京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。2014年、フクオカRuby大賞 優秀賞、日本OSS奨励賞受賞。
+学部卒業後、ホスティング系企業に3年間勤務。企業での経験が認められ、京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。2013年、IPSJ IOTS2013優秀論文賞、2014年、フクオカRuby大賞 優秀賞、日本OSS奨励賞受賞。
 
 - Twitter   [@matsumotory](https://twitter.com/matsumotory)
 - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
