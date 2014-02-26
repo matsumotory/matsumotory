@@ -4,16 +4,20 @@
 
 学部卒業後、ホスティング系企業に3年間勤務。企業での経験が認められ、京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。[mod_mruby](http://matsumoto-r.github.io/mod_mruby/)、[ngx_mruby](http://matsumoto-r.github.io/ngx_mruby/)の作者。2013年、[IPSJ IOTS2013 優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award)、2014年、[第6回フクオカRuby大賞 優秀賞](http://www.digitalfukuoka.jp/topics/28?locale=ja)、[第9回日本OSS奨励賞](http://www.ossforum.jp/ossaward9th2) 受賞。
 
-- Twitter   [@matsumotory](https://twitter.com/matsumotory)
-- Facebook  [matsumotory](https://www.facebook.com/matsumotory)
-- GitHub    [matsumoto-r](https://github.com/matsumoto-r)
-- Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
-
 ## 所属
 - 2012年4月 ～
   - 京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座
   - [岡部研究室](http://www.net.ist.i.kyoto-u.ac.jp/ja/)
   - 博士課程 2回生
+
+## 連絡先
+- 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
+- Email: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
+
+- Twitter   [@matsumotory](https://twitter.com/matsumotory)
+- Facebook  [matsumotory](https://www.facebook.com/matsumotory)
+- GitHub    [matsumoto-r](https://github.com/matsumoto-r)
+- Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
 ## 研究テーマ
 - OS・Middlewareのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模
@@ -165,7 +169,3 @@
   - [piotop](https://github.com/matsumoto-r/piotop)
   - [qos-control](https://github.com/matsumoto-r/qos-control)
   - [Zabbix-API-Client](https://github.com/matsumoto-r/Zabbix-API-Client)
-
-## 連絡先
-- 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
-- Email: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
