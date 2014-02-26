@@ -12,12 +12,11 @@
 
 ## 連絡先
 - 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
-- Email: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
-
-- Twitter   [@matsumotory](https://twitter.com/matsumotory)
-- Facebook  [matsumotory](https://www.facebook.com/matsumotory)
-- GitHub    [matsumoto-r](https://github.com/matsumoto-r)
-- Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
+  - E-mail    matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
+  - Twitter   [@matsumotory](https://twitter.com/matsumotory)
+  - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
+  - GitHub    [matsumoto-r](https://github.com/matsumoto-r)
+  - Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
 ## 研究テーマ
 - OS・Middlewareのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模
