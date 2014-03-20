@@ -29,7 +29,7 @@ __2015年3月博士課程修了予定のため就活中です。mruby、mod_mrub
   - メール流量の選択的制限
 - 次世代インフラ・プロトコル技術
   - WebサーバとP2P
-  - 次世代HTTPプロトコル（SPDY、HTTP/2.0、QUIC）
+  - 次世代HTTPプロトコル（SPDY、HTTP/2、QUIC）
   - Test-Driven Infrastructure
   - Immutable Infrastructure
 - ネットワークセキュリティ
