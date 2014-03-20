@@ -4,8 +4,6 @@
 
 学部卒業後、ホスティング系企業に3年間勤務。企業での経験が認められ、京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。[mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)の作者。2013年、[IPSJ IOTS2013 優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award)、2014年、[第6回フクオカRuby大賞 優秀賞](http://www.digitalfukuoka.jp/topics/28?locale=ja)、[第9回日本OSS奨励賞](http://www.ossforum.jp/ossaward9th2) 受賞。
 
-__2015年3月博士課程修了予定のため就活中です。mruby、mod_mruby、ngx_mrubyや下記記載の研究を含めたOSS研究・開発活動が業務内で可能な職種がありましたら是非とも下記連絡先までご連絡下さい。__
-
 ## 所属
 - 2012年4月 ～
   - 京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座
