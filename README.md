@@ -22,7 +22,7 @@
   - GitHub    [matsumoto-r](https://github.com/matsumoto-r)
   - Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
-## 研究テーマ
+## 研究テーマ・専門分野
 - OS・Middlewareのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模
   - 各種サーバのリソース管理・アクセス制御
   - Webサーバのセキュリティ・パフォーマンス・運用性・大規模・高集積
