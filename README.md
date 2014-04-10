@@ -12,15 +12,22 @@
 - 2012年10月 〜
   - NWM 代表フリーランスエンジニア
 - 2014年03月 〜
-  - HiganWorks, LLC. 代表兼CTO
+  - [HiganWorks LLC. 業務執行社員 最高技術責任者](http://higanworks.com/)
 
 ## 連絡先
-- 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
-  - E-mail    matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
+- SNS(仕事・研究・その他)
   - Twitter   [@matsumotory](https://twitter.com/matsumotory)
   - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
   - GitHub    [matsumoto-r](https://github.com/matsumoto-r)
   - Blog      [人間とウェブの未来](http://blog.matsumoto-r.jp/)
+
+- 仕事関連
+  - [HiganWorks LLC Web Site](http://higanworks.com/)
+  - E-mail: matsumotory (at) higanworks.com
+
+- 研究関連
+  - 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
+  - E-mail: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
 
 ## 研究テーマ・専門分野
 - OS・Middlewareのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模
