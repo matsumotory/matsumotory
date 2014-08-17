@@ -5,14 +5,14 @@
 学部卒業後、ホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。企業での経験が認められ、京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。[mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)、[Trusterd HTTP/2 Web Server](http://matsumoto-r.github.io/trusterd/)の作者。2013年、[情報処理学会 インターネットと運用技術シンポジウム IPSJ IOTS2013 優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award)、2014年、[第6回フクオカRuby大賞 優秀賞](http://www.digitalfukuoka.jp/topics/28?locale=ja)、[第9回日本OSS奨励賞](http://www.ossforum.jp/ossaward9th2) 受賞。
 
 ## 所属
+- 2014年03月 〜
+  - [HiganWorks LLC. 業務執行社員 最高技術責任者](http://higanworks.com/)
+- 2012年10月 〜
+  - NWM 代表フリーランスエンジニア
 - 2012年04月 ～
   - 京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座
   - [岡部研究室](http://www.net.ist.i.kyoto-u.ac.jp/ja/)
   - 博士課程 3回生
-- 2012年10月 〜
-  - NWM 代表フリーランスエンジニア
-- 2014年03月 〜
-  - [HiganWorks LLC. 業務執行社員 最高技術責任者](http://higanworks.com/)
 
 ## 連絡先
 - SNS(仕事・研究・その他)
