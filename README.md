@@ -78,6 +78,7 @@
 ***
 
 ### 国際会議等発表（査読付）
+- Ryosuke Matsumoto, __Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014 (to appear).
 - Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 - Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013 (to appear)
 - Ryosuke Matsumoto, Yasuo Okabe, __Access Control Architecture Separating Privilege by a Thread on a Web Server__, The 12th IEEE/IPSJ International Symposium on Applications and the Internet (SAINT2012), pp.178-183, July 2012.
@@ -91,7 +92,6 @@
 ***
 
 ### 口頭発表
-- 松本亮介, __リクエスト単位で仮想的にコンピュータリソースを分離するWebサーバのリソース制御アーキテクチャ__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014 (to appear).
 - 松本亮介, __[今どきのWEBホスティングの高負荷対策](https://speakerdeck.com/matsumoto_r/jin-dokifalsewebhosuteingufalsegao-fu-he-dui-ce-hosting-casual-talk-number-1)__, [Hosting Casual Talks #1 at 株式会社はてな](http://www.zusaar.com/event/8427003), 2014年6月.
 - 宮下剛輔・栗林健太郎・松本亮介，__serverspec: 宣言的記述でサーバの状態をテスト可能な汎用性の高いテストフレームワーク__, [情報処理学会研究報告インターネットと運用技術（IOT）, 2014-IOT-24(15), 1-6](http://id.nii.ac.jp/1001/00098598/), 2014年2月.
 - 津﨑善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, __同一の送受信アドレスを持つ大量メールの効率的判定手法__, [信学技報, vol. 113, no. 443, IA2013-86, pp. 43-48](http://www.ieice.org/ken/paper/20140227jBKQ/), 2014年2月.
