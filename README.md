@@ -19,7 +19,7 @@
   - Twitter   [@matsumotory](https://twitter.com/matsumotory)
   - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
   - GitHub    [matsumoto-r](https://github.com/matsumoto-r)
-  - Blog      [人間とウェブの未来](http://matsumoto-r.hatenablog.com/)
+  - Blog      [人間とウェブの未来](http://hb.matsumoto-r.jp/)
   - 旧Blog    [旧・人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
 - 仕事関連
