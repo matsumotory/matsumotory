@@ -22,11 +22,7 @@
   - Blog      [人間とウェブの未来](http://hb.matsumoto-r.jp/)
   - 旧Blog    [旧・人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
-- 仕事関連
-  - [HiganWorks LLC Web Site](http://higanworks.com/)
-  - E-mail: matsumotory (at) higanworks.com
-
-- 研究関連
+- 仕事・研究関連
   - 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
   - E-mail: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
 
