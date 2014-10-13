@@ -58,6 +58,7 @@
 
 ## 論文・発表・受賞歴(2011年12月 ～）
 ### 受賞
+- [Ruby Prize 2014 最終ノミネート](http://www.ruby.or.jp/ja/news/20141010.html)
 - [2014年度 情報処理学会 山下記念研究賞](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi)
 - [Ruby Prize 2014 候補者](http://www.ruby.or.jp/rubyprize2014/nominees.html)
 - [__第9回 日本OSS奨励賞__](http://www.ossforum.jp/ossaward9th2), 松本亮介, 2014年2月.
