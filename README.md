@@ -58,10 +58,10 @@
 
 ## 論文・発表・受賞歴(2012年4月 ～）
 ### 受賞
-- [__Ruby Prize 2014 最終ノミネート__](http://www.ruby.or.jp/ja/news/20141010.html)
-- [__2014年度 情報処理学会 山下記念研究賞__](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi)
-- [__Ruby Prize 2014 候補者__](http://www.ruby.or.jp/rubyprize2014/nominees.html)
-- [__第9回 日本OSS奨励賞__](http://www.ossforum.jp/ossaward9th2), 松本亮介, 2014年2月.
+- [__Ruby Prize 2014 最終ノミネート__](http://www.ruby.or.jp/ja/news/20141010.html), 松本亮介, HTTPサーバソフトウェアにおけるmruby活用を具現化した功績を評価, 2014年10月.
+- [__2014年度 情報処理学会 山下記念研究賞__](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi), 松本亮介, mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構, 2014年10月.
+- [__Ruby Prize 2014 候補者__](http://www.ruby.or.jp/rubyprize2014/nominees.html), 松本亮介, HTTPサーバソフトウェアにおけるmruby活用を具現化した功績を評価, 2014年8月.
+- [__第9回 日本OSS奨励賞__](http://www.ossforum.jp/ossaward9th2), 松本亮介, 博士課程在学中から研究成果をOSSとして公開するなどOSSの開発普及に貢献, 2014年2月.
 - [__第6回 フクオカRuby大賞 優秀賞__](http://www.digitalfukuoka.jp/topics/28?locale=ja), 松本亮介, __mod_mruby × ngx_mruby: 組込みスクリプト言語mrubyで高速かつ省メモリに拡張可能なWebサーバの機機能拡張支援機構__, [第６回フクオカRuby 大賞](http://www.digitalfukuoka.jp/events/21?locale=ja), 2014年2月.
 - [情報処理学会 インターネットと運用技術シンポジウム2013（IOTS2013）__優秀論文賞__](http://iot.ipsj.or.jp/iots/2013/award) 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 - [情報処理学会 インターネットと運用技術シンポジウム2013（IOTS2013）__学生奨励賞__](http://iot.ipsj.or.jp/iots/2013/award), 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
