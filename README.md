@@ -59,7 +59,7 @@
 
 ## 論文・発表・受賞歴(2012年4月 ～）
 ### 受賞
-- [__Ruby Prize 2014 最終ノミネート__](http://www.ruby.or.jp/ja/news/20141010.html), 松本亮介, HTTPサーバソフトウェアにおけるmruby活用を具現化した功績を評価, 2014年10月.
+1. [__Ruby Prize 2014 最終ノミネート__](http://www.ruby.or.jp/ja/news/20141010.html), 松本亮介, HTTPサーバソフトウェアにおけるmruby活用を具現化した功績を評価, 2014年10月.
 - [__2014年度 情報処理学会 山下記念研究賞__](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi), 松本亮介, mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構, 2014年10月.
 - [__Ruby Prize 2014 候補者__](http://www.ruby.or.jp/rubyprize2014/nominees.html), 松本亮介, HTTPサーバソフトウェアにおけるmruby活用を具現化した功績を評価, 2014年8月.
 - [__第9回 日本OSS奨励賞__](http://www.ossforum.jp/ossaward9th2), 松本亮介, 博士課程在学中から研究成果をOSSとして公開するなどOSSの開発普及に貢献, 2014年2月.
@@ -73,14 +73,14 @@
 ***
 
 ### 論文誌論文
-- 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
+1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
 - 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 - 松本亮介, 川原将司, 松岡輝夫, __大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [情報処理学会論文誌, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013.
 
 ***
 
 ### 国際会議等発表（査読付）
-- Ryosuke Matsumoto, __Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014 (to appear).
+1. Ryosuke Matsumoto, __Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014 (to appear).
 - Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 - Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013 (to appear)
 - Ryosuke Matsumoto, Yasuo Okabe, __Access Control Architecture Separating Privilege by a Thread on a Web Server__, The 12th IEEE/IPSJ International Symposium on Applications and the Internet (SAINT2012), pp.178-183, July 2012.
@@ -88,13 +88,13 @@
 ***
 
 ### 国内発表（査読付）
-- 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
+1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 - 松本亮介, 川原将司, 松岡輝夫, __汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月.
 
 ***
 
 ### 口頭発表
-- 松本亮介, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWeb サーバの機能拡張支援機構__, [Embedded Technology 2014スペシャルセッションC-2](http://www.jasa.or.jp/et/ET2014/conf/confpage-c02.html), 2014年11月.
+1. 松本亮介, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWeb サーバの機能拡張支援機構__, [Embedded Technology 2014スペシャルセッションC-2](http://www.jasa.or.jp/et/ET2014/conf/confpage-c02.html), 2014年11月.
 - 松本亮介, __[今どきのWEBホスティングの高負荷対策](https://speakerdeck.com/matsumoto_r/jin-dokifalsewebhosuteingufalsegao-fu-he-dui-ce-hosting-casual-talk-number-1)__, [Hosting Casual Talks #1 at 株式会社はてな](http://www.zusaar.com/event/8427003), 2014年6月.
 - 宮下剛輔・栗林健太郎・松本亮介，__serverspec: 宣言的記述でサーバの状態をテスト可能な汎用性の高いテストフレームワーク__, [情報処理学会研究報告インターネットと運用技術（IOT）, 2014-IOT-24(15), 1-6](http://id.nii.ac.jp/1001/00098598/), 2014年2月.
 - 津﨑善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, __同一の送受信アドレスを持つ大量メールの効率的判定手法__, [信学技報, vol. 113, no. 443, IA2013-86, pp. 43-48](http://www.ieice.org/ken/paper/20140227jBKQ/), 2014年2月.
