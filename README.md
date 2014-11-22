@@ -72,7 +72,7 @@
 ***
 
 ### 論文誌論文
-- 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11](), to appear.
+- 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
 - 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 - 松本亮介, 川原将司, 松岡輝夫, __大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [情報処理学会論文誌, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013.
 
@@ -93,7 +93,7 @@
 ***
 
 ### 口頭発表
-- 松本亮介, __mod_mruby・ngx_mruby__, [Embedded Technology 2014 / 組込み総合技術展（トークセッション）](http://www.jasa.or.jp/et/ET2014/index.html), 2014年11月(to appear).
+- 松本亮介, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWeb サーバの機能拡張支援機構__, [Embedded Technology 2014スペシャルセッションC-2](http://www.jasa.or.jp/et/ET2014/conf/confpage-c02.html), 2014年11月.
 - 松本亮介, __[今どきのWEBホスティングの高負荷対策](https://speakerdeck.com/matsumoto_r/jin-dokifalsewebhosuteingufalsegao-fu-he-dui-ce-hosting-casual-talk-number-1)__, [Hosting Casual Talks #1 at 株式会社はてな](http://www.zusaar.com/event/8427003), 2014年6月.
 - 宮下剛輔・栗林健太郎・松本亮介，__serverspec: 宣言的記述でサーバの状態をテスト可能な汎用性の高いテストフレームワーク__, [情報処理学会研究報告インターネットと運用技術（IOT）, 2014-IOT-24(15), 1-6](http://id.nii.ac.jp/1001/00098598/), 2014年2月.
 - 津﨑善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, __同一の送受信アドレスを持つ大量メールの効率的判定手法__, [信学技報, vol. 113, no. 443, IA2013-86, pp. 43-48](http://www.ieice.org/ken/paper/20140227jBKQ/), 2014年2月.
