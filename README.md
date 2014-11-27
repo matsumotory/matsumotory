@@ -2,7 +2,7 @@
 
 [[English]](http://research-en.matsumoto-r.jp/) [[Japanese]](http://research.matsumoto-r.jp/)
 
-学部卒業後、ホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。企業での経験が認められ、京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。[mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)、[Trusterd HTTP/2 Web Server](http://matsumoto-r.github.io/trusterd/)の作者。2013年、[情報処理学会 インターネットと運用技術シンポジウム IPSJ IOTS2013 優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award)、2014年、[第6回フクオカRuby大賞 優秀賞](http://www.digitalfukuoka.jp/topics/28?locale=ja)、[第9回日本OSS奨励賞](http://www.ossforum.jp/ossaward9th2) 、[2014年度 情報処理学会 山下記念研究賞](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi)受賞。Serverspec論文を共著で執筆など、[技術者向けの論文指導](https://github.com/mizzy/serverspec-thesis/pulls?q=is%3Aclosed+is%3Apr)も行う。
+2008年3月学部卒業後、ホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。企業での経験が認められ、2012年4月より京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。[mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)、[Trusterd HTTP/2 Web Server](http://matsumoto-r.github.io/trusterd/)の作者。2013年、[情報処理学会 インターネットと運用技術シンポジウム IPSJ IOTS2013 優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award)、2014年、[第6回フクオカRuby大賞 優秀賞](http://www.digitalfukuoka.jp/topics/28?locale=ja)、[第9回日本OSS奨励賞](http://www.ossforum.jp/ossaward9th2) 、[2014年度 情報処理学会 山下記念研究賞](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi)受賞。Serverspec論文を共著で執筆など、[技術者向けの論文指導](https://github.com/mizzy/serverspec-thesis/pulls?q=is%3Aclosed+is%3Apr)も行う。
 
 ## 所属
 - 2015年04月 〜
@@ -57,8 +57,8 @@
 - 2003年04月 大阪府立大学 工学部情報工学科 入学
 - 2002年03月 私立 洛星高校 卒業
 
-## 論文・発表・受賞歴(2012年4月 ～）
-### 受賞
+## 論文・発表・受賞歴(博士課程入学の2012年4月 ～）
+### 受賞(博士課程入学の2012年4月 ～）
 1. [__Ruby Prize 2014 最終ノミネート__](http://www.ruby.or.jp/ja/news/20141010.html), 松本亮介, HTTPサーバソフトウェアにおけるmruby活用を具現化した功績を評価, 2014年10月.
 - [__2014年度 情報処理学会 山下記念研究賞__](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi), 松本亮介, mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構, 2014年10月.
 - [__Ruby Prize 2014 候補者__](http://www.ruby.or.jp/rubyprize2014/nominees.html), 松本亮介, HTTPサーバソフトウェアにおけるmruby活用を具現化した功績を評価, 2014年8月.
@@ -72,14 +72,14 @@
 
 ***
 
-### 論文誌論文
+### 論文誌論文(博士課程入学の2012年4月 ～）
 1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
 - 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 - 松本亮介, 川原将司, 松岡輝夫, __大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [情報処理学会論文誌, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013.
 
 ***
 
-### 国際会議等発表（査読付）
+### 国際会議等発表（査読付）(博士課程入学の2012年4月 ～）
 1. Ryosuke Matsumoto, __Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014 (to appear).
 - Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 - Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013 (to appear)
@@ -87,13 +87,13 @@
 
 ***
 
-### 国内発表（査読付）
+### 国内発表（査読付）(博士課程入学の2012年4月 ～）
 1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 - 松本亮介, 川原将司, 松岡輝夫, __汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月.
 
 ***
 
-### 口頭発表
+### 口頭発表(博士課程入学の2012年4月 ～）
 1. 松本亮介, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWeb サーバの機能拡張支援機構__, [Embedded Technology 2014スペシャルセッションC-2](http://www.jasa.or.jp/et/ET2014/conf/confpage-c02.html), 2014年11月.
 - 松本亮介, __[今どきのWEBホスティングの高負荷対策](https://speakerdeck.com/matsumoto_r/jin-dokifalsewebhosuteingufalsegao-fu-he-dui-ce-hosting-casual-talk-number-1)__, [Hosting Casual Talks #1 at 株式会社はてな](http://www.zusaar.com/event/8427003), 2014年6月.
 - 宮下剛輔・栗林健太郎・松本亮介，__serverspec: 宣言的記述でサーバの状態をテスト可能な汎用性の高いテストフレームワーク__, [情報処理学会研究報告インターネットと運用技術（IOT）, 2014-IOT-24(15), 1-6](http://id.nii.ac.jp/1001/00098598/), 2014年2月.
@@ -135,7 +135,7 @@
 - 2012年06月 [第1回 mruby誕生の経緯を明かそう](http://itpro.nikkeibp.co.jp/article/COLUMN/20120622/404824/?s2p)
 - 2012年06月 [まつもとゆきひろ氏に「mruby」の経緯について聞いた（1）](http://techon.nikkeibp.co.jp/article/NEWS/20120620/224023/)
 
-## その他所属
+## その他所属・コミュニティ活動
 - 電子情報通信学会
 - 情報処理学会
 - 軽量Rubyフォーラム特別会員
