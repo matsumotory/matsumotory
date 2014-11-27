@@ -68,7 +68,7 @@
 - [__情報処理学会 インターネットと運用技術シンポジウム2013（IOTS2013）学生奨励賞__](http://iot.ipsj.or.jp/iots/2013/award), 松本亮介, 岡部 寿男, mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 - __情報処理学会 インターネットと運用技術研究会 第23回（IOT23） 学生奨励賞__, 松本亮介・岡部寿男, リクエスト単位で仮想的にコンピュータリソースを分離するWebサーバのリソース制御アーキテクチャ, [情報処理学会研究報告 Vol.2013-IOT-23, No.4](http://id.nii.ac.jp/1001/00095297/), 2013年9月.
 - [__2013年度 情報処理学会関西支部 支部大会 学生奨励賞__](http://kansai.ipsj.or.jp/hyoshou/2013_hyoshou.html), 津崎善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, 電子メールの大量送信を選択的に制限する中継システム, 平成25年度情報処理学会関西支部支部大会 E-23, 2013年9月.
-- [__Ruby Prize 2013 候補者__](http://www.ruby.or.jp/ja/news/20130821.html)
+- [__Ruby Prize 2013 候補者__](http://www.ruby.or.jp/ja/news/20130821.html), 松本亮介, Contribution to mruby core and mrbgen. Ryosuke is currently working on development mod_mruby and ngx_mruby which expansion module for the Apache server. He also conducts research on possibility mruby as the DSL language, 2013年8月.
 
 ***
 
