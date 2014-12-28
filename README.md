@@ -75,11 +75,11 @@
 
 IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
 -------------------|-------------------|----------------------------
-[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/iots2014_best_paper.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/iots2014_best_paper.png)|[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/9thjapanossaward.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/9thjapanossaward.png)|[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
+[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/iots2014_best_paper.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/iots2014_best_paper.png)|[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/9thjapanossaward.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/9thjapanossaward.png)|[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)
 
 第6回 フクオカRuby大賞 優秀賞|
 -----------------------------|
-[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/6thfukuokarubyaward.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|
+[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/6thfukuokarubyaward.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/6thfukuokarubyaward.png)|
 
 ***
 
