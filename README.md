@@ -71,6 +71,12 @@
 - [__2013年度 情報処理学会関西支部 支部大会 学生奨励賞__](http://kansai.ipsj.or.jp/hyoshou/2013_hyoshou.html), 津崎善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, 電子メールの大量送信を選択的に制限する中継システム, 平成25年度情報処理学会関西支部支部大会 E-23, 2013年9月.
 - [__Ruby Prize 2013 候補者__](http://www.ruby.or.jp/ja/news/20130821.html), 松本亮介, Contribution to mruby core and mrbgen. Ryosuke is currently working on development mod_mruby and ngx_mruby which expansion module for the Apache server. He also conducts research on possibility mruby as the DSL language, 2013年8月.
 
+### 賞状
+ITOS2013 優秀論文賞|第6回 フクオカRuby大賞 優秀賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
+-------------------|-----------------------------|-------------------|----------------------------
+![itos2013](images/large_images/iots2014_best_paper.png)|![fukuokaruby](images/large_images/6thfukuokarubyaward.png)|![japanoss](images/large_images/9thjapanossaward.png)|![rubyprize](images/large_images/RubyPrize2014FinalNominee.png)
+
+
 ***
 
 ### 論文誌論文(博士課程入学の2012年4月 ～）
