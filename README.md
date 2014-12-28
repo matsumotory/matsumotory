@@ -77,7 +77,7 @@
 -------------------|----------------------------
 [<img src="https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/9thjapanossaward.png" width="247" height="351">](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/9thjapanossaward.png)|[<img src="https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png" width="247" height="351">)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
 
-ITOS2013 優秀論文賞|第6回 フクオカRuby大賞 優秀賞
+IOTS2013 優秀論文賞|第6回 フクオカRuby大賞 優秀賞
 -------------------|-----------------------------
 [<img src="https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/iots2014_best_paper.png" width="247" height="351">](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/iots2014_best_paper.png)|[<img src="https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/6thfukuokarubyaward.png" width="351" height="248">](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|
 
