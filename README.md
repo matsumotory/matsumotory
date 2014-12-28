@@ -74,7 +74,7 @@
 ### 賞状
 ITOS2013 優秀論文賞|第6回 フクオカRuby大賞 優秀賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
 -------------------|-----------------------------|-------------------|----------------------------
-![itos2013](images/large_images/iots2014_best_paper.png)|![fukuokaruby](images/large_images/6thfukuokarubyaward.png)|![japanoss](images/large_images/9thjapanossaward.png)|![rubyprize](images/large_images/RubyPrize2014FinalNominee.png)
+![itos2013](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/iots2014_best_paper.png)|![fukuokaruby](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|![japanoss](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/9thjapanossaward.png)|![rubyprize](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
 
 
 ***
