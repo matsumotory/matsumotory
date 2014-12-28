@@ -72,10 +72,13 @@
 - [__Ruby Prize 2013 候補者__](http://www.ruby.or.jp/ja/news/20130821.html), 松本亮介, Contribution to mruby core and mrbgen. Ryosuke is currently working on development mod_mruby and ngx_mruby which expansion module for the Apache server. He also conducts research on possibility mruby as the DSL language, 2013年8月.
 
 ### 賞状
-ITOS2013 優秀論文賞|第6回 フクオカRuby大賞 優秀賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
--------------------|-----------------------------|-------------------|----------------------------
-![itos2013](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/iots2014_best_paper.png)|![fukuokaruby](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|![japanoss](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/9thjapanossaward.png)|![rubyprize](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
+ITOS2013 優秀論文賞|第6回 フクオカRuby大賞 優秀賞
+-------------------|-----------------------------
+![itos2013](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/iots2014_best_paper.png)|![fukuokaruby](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/6thfukuokarubyaward.png)|
 
+第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
+-------------------|----------------------------
+![japanoss](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/9thjapanossaward.png)|![rubyprize](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)
 
 ***
 
