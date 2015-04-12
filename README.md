@@ -26,7 +26,10 @@
   - Blog      [人間とウェブの未来](http://hb.matsumoto-r.jp/)
   - 旧Blog    [旧・人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
-- 仕事・研究関連
+- 仕事
+  - E-mail: matsumotory (at) pepabo.com
+
+- 研究関連
   - 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
   - E-mail: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
 
@@ -48,7 +51,7 @@
 - 高集積マルチテナント環境における高性能かつ柔軟に権限分離可能なWebサーバのアーキテクチャに関する研究
 
 ## 経歴
-- 2015年04月 GMOペパボ株式会社 入社（予定）
+- 2015年04月 GMOペパボ株式会社 入社
 - 2015年03月 京都大学 情報学研究科 博士後期課程 研究指導認定退学
 - 2014年12月 HiganWorks, LLC.の代表兼CTOを退任
 - 2014年03月 HiganWorks, LLC.の代表兼CTOに就任
