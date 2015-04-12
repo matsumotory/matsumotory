@@ -11,26 +11,23 @@
 ## 所属
 - 2015年04月 〜
   - [GMOペパボ株式会社 技術基盤チーム アドバンスドシニアエンジニア](http://pepabo.com/)
-
 - 2012年04月 ～
   - 京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座
   - [岡部研究室](http://www.net.ist.i.kyoto-u.ac.jp/ja/)
   - 研究指導認定退学 __博士論文執筆中__
 
 ## 連絡先
-- SNS(仕事・研究・その他)
+- 仕事
+  - E-mail: matsumotory (at) pepabo.com
+- 研究関連
+  - 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
+  - E-mail: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
+- SNS
   - Twitter   [@matsumotory](https://twitter.com/matsumotory)
   - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
   - GitHub    [matsumoto-r](https://github.com/matsumoto-r)
   - Blog      [人間とウェブの未来](http://hb.matsumoto-r.jp/)
   - 旧Blog    [旧・人間とウェブの未来](http://blog.matsumoto-r.jp/)
-
-- 仕事
-  - E-mail: matsumotory (at) pepabo.com
-
-- 研究関連
-  - 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
-  - E-mail: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
 
 ## 研究テーマ・専門分野
 - OS・Middlewareのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模
