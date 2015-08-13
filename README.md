@@ -115,6 +115,12 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
+1. 松本亮介, __[Middleware Configuration as Code](https://speakerdeck.com/matsumoto_r/middleware-configuration-as-code)__, [第68回 Ruby関西 勉強会](https://rubykansai.doorkeeper.jp/events/25948), 2015年8月.
+1. 松本亮介, __[たったひとつの教訓](https://speakerdeck.com/matsumoto_r/tatutahitotufalsejiao-xun)__, [Webオペレーション研修 キャリアキーノート](), 2015年7月.
+1. 松本亮介, __[ペパボのインターネット基盤技術研究・開発の活動](https://speakerdeck.com/matsumoto_r/pepabofalseintanetutoji-pan-ji-shu-yan-jiu-kai-fa-falsehuo-dong)__, [第2回ペパボテックカンファレンス【福岡】](http://pepabo.connpass.com/event/16457/), 2015年7月.
+1. 松本亮介, __[Theインターネット](https://speakerdeck.com/matsumoto_r/the-intanetuto)__, [2015年新卒研修座学】](), 2015年5月.
+1. 松本亮介, __[The座学](https://speakerdeck.com/matsumoto_r/the-zuo-xue)__, [2015年新卒研修座学】](), 2015年5月.
+1. 松本亮介, __[Webオペレーションエンジニアのアウトプットと開発力](https://speakerdeck.com/matsumoto_r/inhuratimujiao-yu-weboperesiyonenziniafalse-autopututotokai-fa-li)__, [2015年インフラエンジニア教育](), 2015年4月.
 1. 松本亮介, __[研究者と技術者とmruby](https://speakerdeck.com/matsumoto_r/yan-jiu-zhe-toji-shu-zhe-tomruby-xue-sheng-niyoruosskai-fa-toifalsebesiyon)__, [Rubyビジネスセミナー大阪　コミュニティーが先導する関西のイノベーション](http://rubyassociation.doorkeeper.jp/events/18493), 2015年1月.
 - 松本亮介, __[Trusterd: mrubyで振る舞いを記述可能な高速に動作する次世代HTTP/2 Webサーバ](https://speakerdeck.com/matsumoto_r/2-web-server-scripting-with-mruby)__, [第７回フクオカRuby 大賞](http://www.digitalfukuoka.jp/events/45), 2015年1月.
 - 松本亮介, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWeb サーバの機能拡張支援機構__, [Embedded Technology 2014スペシャルセッションC-2](http://www.jasa.or.jp/et/ET2014/conf/confpage-c02.html), 2014年11月.
