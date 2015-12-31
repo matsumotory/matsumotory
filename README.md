@@ -117,6 +117,8 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
+1. 松本亮介, __人工知能はWEBサーバーの暗闇を救う__, [IPSJ-ONE 2016](http://ipsj-one.org/), 2016年3月(to appear). 
+1. 松本亮介, __rcon and capcon internals__, [第9回 コンテナ型仮想化の情報交換会＠福岡](http://ct-study.connpass.com/event/23455/), 2016年1月(to appear). 
 1. 松本亮介, __[mruby in HTTP server, connect HTTP/1 and HTTP/2 servers](https://speakerdeck.com/matsumoto_r/mruby-in-http-server)__, [第1回 Hacker Tackle](https://hackertackle.github.io/#about), 2015年9月.
 1. 松本亮介, __[Middleware Configuration as Code](https://speakerdeck.com/matsumoto_r/middleware-configuration-as-code)__, [第68回 Ruby関西 勉強会](https://rubykansai.doorkeeper.jp/events/25948), 2015年8月.
 1. 松本亮介, __[たったひとつの教訓](https://speakerdeck.com/matsumoto_r/tatutahitotufalsejiao-xun)__, [Webオペレーション研修 キャリアキーノート](), 2015年7月.
