@@ -61,6 +61,7 @@
 
 ## 論文・発表・受賞歴
 ### 受賞(博士課程入学の2012年4月 ～）
+1. [__第8回 フクオカRuby大賞 奨励賞__](http://www.digitalfukuoka.jp/topics/76?locale=ja), 松本亮介, HTTPサーバを支えるmruby, 2016年2月.
 - [__Ruby Prize 2015 候補者__](http://www.ruby.or.jp/ja/news/20150911.html), 松本亮介, 松本氏は昨年度のRubyPrizeファイナルノミネート後も精力的に mruby 組み込みの Web サーバーの開発を続けてます。今年はさらに HTTP/2 サーバーである h2o に mruby handler を組み込むなど、RubyPrize にふさわしい, 2015年9月.
 1. [__第7回 フクオカRuby大賞 企業賞（IIJ GIO賞）__](http://www.digitalfukuoka.jp/topics/68?locale=ja), 松本亮介, Trusterd: 高性能かつmrubyで設定をプログラマブルに記述可能な次世代HTTP/2 Webサーバ, 2015年3月.
 1. [__Ruby Prize 2014 最終ノミネート__](http://www.ruby.or.jp/ja/news/20141010.html), 松本亮介, HTTPサーバソフトウェアにおけるmruby活用を具現化した功績を評価, 2014年10月.
