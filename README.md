@@ -2,7 +2,7 @@
 
 [[English]](http://research-en.matsumoto-r.jp/) [[Japanese]](http://research.matsumoto-r.jp/)
 
-<img src="https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/profile/image.jpg" width=125 height=125 align=right style="padding:10px;">
+<img src="https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/profile/icon.jpeg" width=125 height=125 align=right style="padding:10px;">
 
 2008年3月学部卒業後、ホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。企業での経験が認められ、2012年4月より京都大学大学院情報学研究科において修士課程を飛ばして博士課程から入学。OS・Middleware・HTTPに関する研究に従事。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。
 
@@ -116,7 +116,8 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
 1. 松本亮介, __rcon and capcon internals__, [第9回 コンテナ型仮想化の情報交換会＠福岡](http://ct-study.connpass.com/event/23455/), 2016年4月(to appear). 
-1. 松本亮介, __人工知能はWEBサーバーの暗闇を救う__, [IPSJ-ONE 2016](http://ipsj-one.org/), 2016年3月(to appear). 
+1. 松本亮介, __エンジニアトークセッション「ペパボ福岡でたずさわる最高のエンジニアリング」__, [ペパボ福岡で働く～エンジニア・ディレクター向けトーク＆相談会　in大阪～](https://www.wantedly.com/projects/47215), 2016年3月. 
+1. 松本亮介, __[人工知能はWEBサーバーの暗闇を救う](https://speakerdeck.com/matsumoto_r/jpsj-one-2016-matsumotory)__, [IPSJ-ONE 2016](http://ipsj-one.org/), 2016年3月. 
 1. 松本亮介, __[ペパボ福岡の技術的強み なぜ今エンジニアはペパボ福岡で働くべきなのか](https://speakerdeck.com/matsumoto_r/pepabofu-gang-falseji-shu-de-qiang-mi)__, [【人気都市・福岡で働く！】移住にまつわるエトセトラ〜エンジニア・ディレクター向けトーク＆相談会〜](hhttp://pepabo.connpass.com/event/25558/), 2016年2月. 
 1. 松本亮介, __[HTTP/2とmrubyの活用 HTTP/2時代のサーバ設定になぜmrubyが必要か](https://speakerdeck.com/matsumoto_r/2tomrubyfalsehuo-yong)__, [第2回技術共有会](), 2016年1月.
 1. 松本亮介, __[PFSを考慮したTLS終端とngx_mrubyによる大量ドメイン設定の効率化 nginxにおける大量ドメインの証明書を動的に処理する方法](https://speakerdeck.com/matsumoto_r/pfswokao-lu-sitatlszhong-duan-tongx-mrubyniyoruda-liang-domeinshe-ding-falsexiao-lu-hua)__, [第1回技術共有会](), 2016年1月.
