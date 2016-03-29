@@ -116,6 +116,8 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
 1. 松本亮介, __rcon and capcon internals__, [第9回 コンテナ型仮想化の情報交換会＠福岡](http://ct-study.connpass.com/event/23455/), 2016年4月(to appear). 
+1. 松本亮介, __なめらかなシステム： 人工知能はホスティングサービスの暗闇を救う__, [GMO HosCon -Hosting Conference- @渋谷](http://gmohoscon.connpass.com/event/29233/), 2016年4月(to appear). 
+1. 松本亮介, __GMOグループトークセッション：国内シェア54％を支えるGMOホスティングの裏側__, [GMO HosCon -Hosting Conference- @渋谷](http://gmohoscon.connpass.com/event/29233/), 2016年4月(to appear). 
 1. 松本亮介, __エンジニアトークセッション「ペパボ福岡でたずさわる最高のエンジニアリング」__, [ペパボ福岡で働く～エンジニア・ディレクター向けトーク＆相談会　in大阪～](https://www.wantedly.com/projects/47215), 2016年3月. 
 1. 松本亮介, __[人工知能はWEBサーバーの暗闇を救う](https://speakerdeck.com/matsumoto_r/jpsj-one-2016-matsumotory)__, [IPSJ-ONE 2016](http://ipsj-one.org/), 2016年3月. 
 1. 松本亮介, __[ペパボ福岡の技術的強み なぜ今エンジニアはペパボ福岡で働くべきなのか](https://speakerdeck.com/matsumoto_r/pepabofu-gang-falseji-shu-de-qiang-mi)__, [【人気都市・福岡で働く！】移住にまつわるエトセトラ〜エンジニア・ディレクター向けトーク＆相談会〜](hhttp://pepabo.connpass.com/event/25558/), 2016年2月. 
