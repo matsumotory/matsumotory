@@ -119,6 +119,7 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
+1. 松本亮介, __なめらかなシステム： 生命の観点からWebシステムを解釈する__, [e-ZUKA Tech Night](http://ezukatechnight.com/), 2016年5月(to appear). 
 1. 松本亮介, __ロリポップ！で目指すPHPのためのセキュリティと性能要件を同時に満たすサーバホスティング技術__, [PHPカンファレンス福岡2016](http://phpcon.fukuoka.jp/), 2016年5月(to appear). 
 1. 松本亮介, __セキュリティと性能要件を同時に満たすサーバホスティング技術の最新動向__, [第39回インターネット技術第163委員会研究会　-ITRC meet39-](http://www.itrc.net/meet39/program/), 2016年5月(to appear). 
 1. 松本亮介, __rcon and capcon internals__, [第9回 コンテナ型仮想化の情報交換会＠福岡](http://ct-study.connpass.com/event/23455/), 2016年4月(to appear). 
