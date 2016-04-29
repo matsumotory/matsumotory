@@ -1,4 +1,4 @@
-## 松本 亮介（まつもと りょうすけ）
+# 松本 亮介（まつもと りょうすけ）
 
 [[English]](http://research-en.matsumoto-r.jp/) [[Japanese]](http://research.matsumoto-r.jp/)
 
