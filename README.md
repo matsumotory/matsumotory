@@ -123,6 +123,7 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ### 口頭発表(博士課程入学の2012年4月 ～）
 1. 松本亮介, __TBD__, ペパボ・はてな技術大会＠福岡, 2016年7月(to appear). 
 1. 松本亮介, __TBD__, はてな・ペパボ技術大会＠京都, 2016年7月(to appear). 
+1. 松本亮介, __キャリアキーノート2016__, 新卒研修キャリアキーノート, 2016年6月(to appear).
 1. 松本亮介, __[ロリポップ！で目指すPHPのためのセキュリティと性能要件を同時に満たすサーバホスティング技術](https://speakerdeck.com/matsumoto_r/loli-next)__, [PHPカンファレンス福岡2016](http://phpcon.fukuoka.jp/), 2016年5月. 
 1. 松本亮介, __[なめらかなシステムのアイデアと概要設計： 生命の観点からWebシステムを解釈する](https://speakerdeck.com/matsumoto_r/namerakad-idea-design)__, [e-ZUKA Tech Night](http://ezukatechnight.com/), 2016年5月. 
 1. 松本亮介, __[セキュリティと性能要件を同時に満たすサーバホスティング技術の最新動向](https://speakerdeck.com/matsumoto_r/virtualhosting-security-performance-operasion)__, [第39回インターネット技術第163委員会研究会　-ITRC meet39-](http://www.itrc.net/meet39/program/), 2016年5月. 
