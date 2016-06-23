@@ -14,6 +14,15 @@
 
 [mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)、[Trusterd HTTP/2 Web Server](http://matsumoto-r.github.io/trusterd/)の作者。Serverspec論文を共著で執筆など、[技術者向けの論文指導](https://github.com/mizzy/serverspec-thesis/pulls?q=is%3Aclosed+is%3Apr)も行う。
 
+- 略歴（ショートバージョン）
+
+現場の技術を知るため修士に行かずにホスティング系企業に就職したのち、異例の修士飛ばしで京都
+大学大学院の博士課程に入学。インターネット基盤技術の研究に取り組み、mod_mrubyやngx_mruby
+などのOSSを始めとした多数のOSSへの貢献や学術的成果を修める。2015年よりGMOペパボ株式会
+社にて、サーバのセキュリティ・リソース管理・運用技術改善などを中心に、OSやミドルウェアなど
+に関する研究開発を行っている。第9回OSS奨励賞の受賞や情報処理学会IPSJ-ONEにおいて時流に乗
+る日本の若手トップ研究者19名に選出される。
+
 ## 所属
 - 2015年04月 〜
   - [GMOペパボ株式会社 技術基盤チーム シニア・プリンシパルエンジニア](http://pepabo.com/)
