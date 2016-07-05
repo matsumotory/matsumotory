@@ -133,8 +133,9 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
-1. 松本亮介, __TBD__, ペパボ・はてな技術大会＠福岡, 2016年7月(to appear). 
-1. 松本亮介, __TBD__, はてな・ペパボ技術大会＠京都, 2016年7月(to appear). 
+1. 松本亮介, __自律制御しながら動的平衡状態の系を作るWebシステムとその未来__, [軽量Ruby普及・実用化促進フォーラム2016](http://www.digitalfukuoka.jp/events/111?locale=ja), 2016年8月(to appear).
+1. 松本亮介, __自律制御するWebサービス基盤の権限分離と性能の両立__, ペパボ・はてな技術大会＠福岡, 2016年7月(to appear). 
+1. 松本亮介, __[Webサービス基盤の自律制御と動的平衡性](https://speakerdeck.com/matsumoto_r/web-autonomy-homeostasis)__, はてな・ペパボ技術大会＠京都, 2016年7月. 
 1. 松本亮介, __[技術者と研究者の狭間で得たたったひとつの教訓 2016](https://speakerdeck.com/matsumoto_r/career-keynote-2016)__, 新卒研修キャリアキーノート2016, 2016年6月.
 1. 松本亮介, __[ロリポップ！で目指すPHPのためのセキュリティと性能要件を同時に満たすサーバホスティング技術](https://speakerdeck.com/matsumoto_r/loli-next)__, [PHPカンファレンス福岡2016](http://phpcon.fukuoka.jp/), 2016年5月. 
 1. 松本亮介, __[なめらかなシステムのアイデアと概要設計： 生命の観点からWebシステムを解釈する](https://speakerdeck.com/matsumoto_r/namerakad-idea-design)__, [e-ZUKA Tech Night](http://ezukatechnight.com/), 2016年5月. 
