@@ -126,6 +126,9 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 学会誌・商業誌等解説
+1. 松本亮介・栗林健太郎, __[AI最前線の現場から【GMOペパボ】「なめらかなシステム」の取り組み](https://thinkit.co.jp/article/9884)__, [連載: 
+ディープラーニング・人工知能 最前線 2016](https://thinkit.co.jp/series/5690), 2016年7月.
+1. 松本亮介・栗林健太郎, __[「GMOペパボ研究所」設立、ガチな学術研究でホスティングサービス差別化、所長・栗林健太郎氏、主席研究員・松本亮介氏](http://internet.watch.impress.co.jp/docs/interview/1008446.html)__, [INTERNET Watch トピック 業界動向 企業 インタビュー](http://internet.watch.impress.co.jp/), 2016年7月.
 1. 松本亮介, __[【特別企画】
 快適・低価格・安全を実現した"次世代ホスティング"の秘密に迫る!](http://news.mynavi.jp/kikaku/2016/05/26/001/)__, [マイナビニュースIT企業 セキュリティ特別企画](http://news.mynavi.jp/kikaku/2016/05/26/001/), 2016年5月.
 1. 松本亮介, __楽しもうOSS開発 mrubyで学んだ貢献の流儀と情熱__, [WEB+DB PRESS Vol.85, pp.98-107, 技術評論社](http://gihyo.jp/magazine/wdpress/archive/2015/vol85), 2015年2月24日.
