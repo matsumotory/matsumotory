@@ -126,6 +126,7 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 学会誌・商業誌等解説
+1. 松本亮介・栗林健太郎, __[ＧＭＯペパボ、ＡＩでサーバー運営効率高める次世代型システム開発へ](https://www.nikkan.co.jp/articles/view/00396089)__, 日刊工業新聞 ロボットニュース, 2016年8月．
 1. 松本亮介・栗林健太郎, __[AI最前線の現場から【GMOペパボ】「なめらかなシステム」の取り組み](https://thinkit.co.jp/article/9884)__, [連載: 
 ディープラーニング・人工知能 最前線 2016](https://thinkit.co.jp/series/5690), 2016年7月.
 1. 松本亮介・栗林健太郎, __[「GMOペパボ研究所」設立、ガチな学術研究でホスティングサービス差別化、所長・栗林健太郎氏、主席研究員・松本亮介氏](http://internet.watch.impress.co.jp/docs/interview/1008446.html)__, [INTERNET Watch トピック 業界動向 企業 インタビュー](http://internet.watch.impress.co.jp/), 2016年7月.
