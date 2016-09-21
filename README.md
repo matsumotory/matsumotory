@@ -50,7 +50,7 @@
   - E-mail: matsumotory (at) pepabo.com
 - 研究関連
   - 〒606-8501 京都市左京区吉田本町 本部構内 総合研究５号館 4階 406号室
-  - E-mail: matsumoto_r (at) net.ist.i.kyoto-u.ac.jp
+  - E-mail: 	matsumoto.ryosuke.s10 (at) kyoto-u.jp
 - SNS
   - Twitter   [@matsumotory](https://twitter.com/matsumotory)
   - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
