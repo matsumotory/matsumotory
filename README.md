@@ -129,7 +129,7 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 1. 松本亮介, __[探しに行こう自分の場所 - 企業と学術研究の交差点で、高みを目指す](https://lne.st/2016/12/01/books201612/)__, リバネス情報誌 学部・院生のための研究キャリア・就活情報誌『incu・be』vol.35, 2016年12月．
 1. 松本亮介, __[人工知能がウエブサーバの異常状態を見つけ、サーバ管理者を救う～これってもはや生命？](http://www.milive-plus.net/gakumon16100501/)__, 河合塾みらいぶプラス, 2016年10月．
 1. 松本亮介, __[自らを管理できる、生命のように見えるインターネット技術の研究開発に挑む 松本亮介先生インタビュー](http://www.milive-plus.net/gakumon161005/02/)__, 河合塾みらいぶプラス, 2016年10月．
-1. 松本亮介・栗林健太郎, __[ＧＭＯペパボ、ＡＩでサーバー運営効率高める次世代型システム開発へ](https://www.nikkan.co.jp/articles/view/00396089)__, 日刊工業新聞 ロボットニュース, 2016年8月．
+1. 松本亮介, 栗林健太郎, __[ＧＭＯペパボ、ＡＩでサーバー運営効率高める次世代型システム開発へ](https://www.nikkan.co.jp/articles/view/00396089)__, 日刊工業新聞 ロボットニュース, 2016年8月．
 1. 松本亮介・栗林健太郎, __[AI最前線の現場から【GMOペパボ】「なめらかなシステム」の取り組み](https://thinkit.co.jp/article/9884)__, [連載: 
 ディープラーニング・人工知能 最前線 2016](https://thinkit.co.jp/series/5690), 2016年7月.
 1. 松本亮介・栗林健太郎, __[「GMOペパボ研究所」設立、ガチな学術研究でホスティングサービス差別化、所長・栗林健太郎氏、主席研究員・松本亮介氏](http://internet.watch.impress.co.jp/docs/interview/1008446.html)__, [INTERNET Watch トピック 業界動向 企業 インタビュー](http://internet.watch.impress.co.jp/), 2016年7月.
@@ -140,7 +140,9 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
-1. 松本亮介, __自律制御しながら動的平衡状態の系を作るWebシステムとその未来__, [軽量Ruby普及・実用化促進フォーラム2016](http://www.digitalfukuoka.jp/events/111?locale=ja), 2016年8月(to appear).
+1. 松本亮介, 栗林健太郎, __[特徴量抽出と変化点検出に基づくWebサーバリソースの自律制御アーキテクチャ](http://id.nii.ac.jp/1001/00176067/)__, [インターネットと運用技術シンポジウム2016論文集（IOTS2016）](http://www.iot.ipsj.or.jp/iots/2016), Vol.2016, pp.101,  2016年12月.
+1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](https://speakerdeck.com/matsumoto_r/studies-on-highly-integrated-multi-tenant-architecture-for-web-servers)__, 京都大学大学院情報学研究科博士課程予備審査, 2016年8月.
+1. 松本亮介, __[自律制御しながら動的平衡状態の系を作るWebシステムとその未来](https://speakerdeck.com/matsumoto_r/a-future-of-dimensionless-autonomous-system)__, [軽量Ruby普及・実用化促進フォーラム2016](http://www.digitalfukuoka.jp/events/111?locale=ja), 2016年8月.
 1. 松本亮介, __[ペパボ研究所創設について](https://speakerdeck.com/matsumoto_r/start-pepaken)__, [HosCon - GMO Hosting Conference - @福岡](http://gmohoscon.connpass.com/event/34514/), 2016年7月.
 1. 松本亮介, __自律制御するWebサービス基盤の権限分離と性能の両立__, [ペパボ・はてな技術大会＠福岡](http://pepabo.connpass.com/event/33522/), 2016年7月(to appear). 
 1. 松本亮介, __[Webサービス基盤の自律制御と動的平衡性](https://speakerdeck.com/matsumoto_r/web-autonomy-homeostasis)__, [はてな・ペパボ技術大会＠京都](http://hatena.connpass.com/event/33521/), 2016年7月. 
