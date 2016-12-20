@@ -140,8 +140,8 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
-1. 松本亮介, __[FastContainerアーキテクチャ概論]()__, [GMOペパボ　ホスティング技術カンファレンス＠大阪～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/45986/), 2016年12月.(to appear)
-1. 松本亮介, __[FastContainerアーキテクチャ概論]()__, [GMOペパボ　ホスティング技術カンファレンス＠東京～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/44809/), 2016年12月.(to appear)
+1. 松本亮介, __[FastContainerアーキテクチャ概論](https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications)__, [GMOペパボ　ホスティング技術カンファレンス＠大阪～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/45986/), 2016年12月.
+1. 松本亮介, __[FastContainerアーキテクチャ概論](https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications)__, [GMOペパボ　ホスティング技術カンファレンス＠東京～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/44809/), 2016年12月.
 1. 松本亮介, 栗林健太郎, __[特徴量抽出と変化点検出に基づくWebサーバリソースの自律制御アーキテクチャ](http://id.nii.ac.jp/1001/00176067/)__, [インターネットと運用技術シンポジウム2016論文集（IOTS2016）](http://www.iot.ipsj.or.jp/iots/2016), Vol.2016, pp.101,  2016年12月.
 1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](https://speakerdeck.com/matsumoto_r/studies-on-highly-integrated-multi-tenant-architecture-for-web-servers)__, 京都大学大学院情報学研究科博士課程予備審査, 2016年8月.
 1. 松本亮介, __[自律制御しながら動的平衡状態の系を作るWebシステムとその未来](https://speakerdeck.com/matsumoto_r/a-future-of-dimensionless-autonomous-system)__, [軽量Ruby普及・実用化促進フォーラム2016](http://www.digitalfukuoka.jp/events/111?locale=ja), 2016年8月.
