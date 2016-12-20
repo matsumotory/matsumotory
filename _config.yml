@@ -1,0 +1,8 @@
+title: 松本亮介の研究・開発業績ページ
+description: my research and development archivements
+google_analytics: UA-21658890-4
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
