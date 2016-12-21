@@ -4,7 +4,7 @@
 
 ## 略歴
 
-![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/profile/icon.jpeg width=125 height=125 align=right style="border: solid 1px #666")
+![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/profile/icon.jpeg)
 
 2008年3月学部卒業後、現場の技術を知らずに修士で研究することに不安を感じ、修士には行かずにホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。その後、再度大学院で研究を再開しようとするが、企業での経験が認められ、2012年4月より京都大学大学院情報学研究科 知能情報学専攻において[修士課程を飛ばして博士課程から入学(専攻において修士飛ばしは前例無し)](http://blog.matsumoto-r.jp/?p=2255)。
 
