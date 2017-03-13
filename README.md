@@ -4,7 +4,7 @@
 
 ## 略歴
 
-![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/profile/icon.jpeg)
+![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/profile/icon.jpeg)
 
 2008年3月学部卒業後、現場の技術を知らずに修士で研究することに不安を感じ、修士には行かずにホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。その後、再度大学院で研究を再開しようとするが、企業での経験が認められ、2012年4月より京都大学大学院情報学研究科 知能情報学専攻において[修士課程を飛ばして博士課程から入学(専攻において修士飛ばしは前例無し)](http://blog.matsumoto-r.jp/?p=2255)。
 
@@ -12,7 +12,7 @@
 
 2015年4月より現在、GMOペパボ株式会社でOS・Middleware・HTTPに関する研究、及び、事業で実践できるレベルまで作りこむことを目標に取り組んでいる。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。[2016年に情報処理学会において時流に乗る日本の若手トップ研究者19名に選ばれ、IPSJ-ONEにも登壇](http://ipsj-one.org/)。情報処理学会IOT研究会運営委員。
 
-[mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)、[Trusterd HTTP/2 Web Server](http://matsumoto-r.github.io/trusterd/)の作者。Serverspec論文を共著で執筆など、[技術者向けの論文指導](https://github.com/mizzy/serverspec-thesis/pulls?q=is%3Aclosed+is%3Apr)も行う。
+[mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)、[Trusterd HTTP/2 Web Server](http://matsumotory.github.io/trusterd/)の作者。Serverspec論文を共著で執筆など、[技術者向けの論文指導](https://github.com/mizzy/serverspec-thesis/pulls?q=is%3Aclosed+is%3Apr)も行う。
 
 - 略歴（ショートバージョン）
 
@@ -54,7 +54,7 @@
 - SNS
   - Twitter   [@matsumotory](https://twitter.com/matsumotory)
   - Facebook  [matsumotory](https://www.facebook.com/matsumotory)
-  - GitHub    [matsumoto-r](https://github.com/matsumoto-r)
+  - GitHub    [matsumoto-r](https://github.com/matsumotory)
   - Blog      [人間とウェブの未来](http://hb.matsumoto-r.jp/)
   - 旧Blog    [旧・人間とウェブの未来](http://blog.matsumoto-r.jp/)
 
@@ -97,11 +97,11 @@
 
 IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
 -------------------|-------------------|----------------------------
-[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/iots2014_best_paper.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/iots2014_best_paper.png)|[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/9thjapanossaward.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/9thjapanossaward.png)|[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
+[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/iots2014_best_paper.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/iots2014_best_paper.png)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/9thjapanossaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/9thjapanossaward.png)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
 
 第6回 フクオカRuby大賞 優秀賞|
 -----------------------------|
-[![](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/small_images/6thfukuokarubyaward.png)](https://raw.githubusercontent.com/matsumoto-r/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|
+[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/6thfukuokarubyaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|
 
 ***
 
@@ -242,28 +242,28 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 
 ## 公開済みの開発物
 - __増えすぎたのでその他はGithubを見て下さい__
-  - [Github matsumoto-r](https://github.com/matsumoto-r)
+  - [Github matsumotory](https://github.com/matsumotory)
 - コンピュータ技術共有サイト
   - [Register Underflow](https://registerunderflow.org)
 - mruby関連
-  - [mrubyライブラリ色々](https://github.com/search?q=%40matsumoto-r+mruby)
+  - [mrubyライブラリ色々](https://github.com/search?q=%40matsumotory+mruby)
 - Nginx Module
-  - [ngx_mruby](https://github.com/matsumoto-r/ngx_mruby)
+  - [ngx_mruby](https://github.com/matsumotory/ngx_mruby)
 - Apache Module
-  - [mod_mruby](https://github.com/matsumoto-r/mod_mruby)
-  - [mod_request_dumper](https://github.com/matsumoto-r/mod_request_dumper)
+  - [mod_mruby](https://github.com/matsumotory/mod_mruby)
+  - [mod_request_dumper](https://github.com/matsumotory/mod_request_dumper)
   - [mod_process_security](https://modules.apache.org/search.php?id=2595)
   - [mod_resource_checker](https://modules.apache.org/search.php?id=2559)
   - [mod_vlimit](https://modules.apache.org/search.php?id=2570)
   - [mod_lalimit](https://modules.apache.org/search.php?id=2568)
   - [mod_vlimitconn](https://modules.apache.org/search.php?id=2558)
-  - [resource Lib for mod_lua](https://github.com/matsumoto-r/lua-get-resources)
+  - [resource Lib for mod_lua](https://github.com/matsumotory/lua-get-resources)
 - Apache HTTP Server patch
   - scoreboard patch
   - mod_vhost_alias pacth
   - mod_ruid2 patch
 - Operation Tools
-  - [resources-managed-tools](https://github.com/matsumoto-r/resources-managed-tools)
-  - [piotop](https://github.com/matsumoto-r/piotop)
-  - [qos-control](https://github.com/matsumoto-r/qos-control)
-  - [Zabbix-API-Client](https://github.com/matsumoto-r/Zabbix-API-Client)
+  - [resources-managed-tools](https://github.com/matsumotory/resources-managed-tools)
+  - [piotop](https://github.com/matsumotory/piotop)
+  - [qos-control](https://github.com/matsumotory/qos-control)
+  - [Zabbix-API-Client](https://github.com/matsumotory/Zabbix-API-Client)
