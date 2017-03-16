@@ -4,8 +4,6 @@
 
 ## 略歴
 
-<img src="https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/profile/icon.jpeg" width=125 height=125 align=right style="border: solid 1px #666">
-
 2008年3月学部卒業後、現場の技術を知らずに修士で研究することに不安を感じ、修士には行かずにホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。その後、再度大学院で研究を再開しようとするが、企業での経験が認められ、2012年4月より京都大学大学院情報学研究科 知能情報学専攻において[修士課程を飛ばして博士課程から入学(専攻において修士飛ばしは前例無し)](http://blog.matsumoto-r.jp/?p=2255)。
 
 3年間学術研究に取り組み、2013年、[情報処理学会 インターネットと運用技術シンポジウム IPSJ IOTS2013 優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award)、2014年、[第6回フクオカRuby大賞 優秀賞](http://www.digitalfukuoka.jp/topics/28?locale=ja)、[第9回日本OSS奨励賞](http://www.ossforum.jp/ossaward9th2) 、[2014年度 情報処理学会 山下記念研究賞](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi)、[RubyPrize2014 最終ノミネート](http://www.ruby.or.jp/ja/news/20141010.html)など、その他受賞多数。
