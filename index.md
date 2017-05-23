@@ -140,6 +140,8 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
+1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[FastContainer: Webアプリケーションコンテナの起動をリアクティブに決定するコンテナ管理アーキテクチャ]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38](), 2017年6月(to appear).
+1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[高集積マルチテナントWebサーバの大規模証明書管理]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178889/), 2017年5月.
 1. 松本亮介, 田平 康朗, 山下 和彦, 栗林 健太郎, __[特徴量抽出と変化点検出に基づくWebサーバの高集積マルチテナント方式におけるリソースの自律制御アーキテクチャ]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-36(26), 1-8](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=177815&item_no=1&page_id=13&block_id=8), (2017-02-24).
 1. 松本亮介, __[FastContainerアーキテクチャ概論](https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications)__, [GMOペパボ　ホスティング技術カンファレンス＠大阪～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/45986/), 2016年12月.
 1. 松本亮介, __[FastContainerアーキテクチャ概論](https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications)__, [GMOペパボ　ホスティング技術カンファレンス＠東京～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/44809/), 2016年12月.
