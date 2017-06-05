@@ -101,6 +101,10 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 -----------------------------|
 [![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/6thfukuokarubyaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|
 
+2014年度 情報処理学会 山下記念研究賞|京都大学博士（情報学）証明書|第7回 フクオカRuby大賞 企業賞
+-------------------|-------------------|----------------------------
+[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/yamashita.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/yamashita.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/doctor-cert.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/doctor-cert.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/fukuoka-iij-award.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/fukuoka-iij-award.jpg)
+
 ***
 
 ### 論文誌論文(博士課程入学の2012年4月 ～）
