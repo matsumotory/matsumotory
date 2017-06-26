@@ -118,7 +118,7 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 1. Ryosuke Matsumoto, __[The future of mruby in HTTP Server](https://speakerdeck.com/matsumoto_r/the-future-of-mruby-in-http-server-rubykaigi-2015)__, [RubyKaigi 2015](http://rubykaigi.org/2015), Dec 2015.
 1. Ryosuke Matsumoto, __Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014.
 1. Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
-1. Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013 (to appear)
+1. Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013.
 1. Ryosuke Matsumoto, Yasuo Okabe, __Access Control Architecture Separating Privilege by a Thread on a Web Server__, The 12th IEEE/IPSJ International Symposium on Applications and the Internet (SAINT2012), pp.178-183, July 2012.
 
 ***
@@ -144,8 +144,10 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
-1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[FastContainer: Webアプリケーションコンテナの起動をリアクティブに決定するコンテナ管理アーキテクチャ]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38](), 2017年6月(to appear).
+1. 松本亮介, 近藤 宇智朗, 三宅 悠介, 力武 健次, 栗林 健太郎, __[FastContainer: Webアプリケーションコンテナの起動をリアクティブに決定するコンテナ管理アーキテクチャ]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00182376/), 2017年6月.
+1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, __[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.13, pp.1-8](http://id.nii.ac.jp/1001/00182375/), 2017年6月.
 1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[高集積マルチテナントWebサーバの大規模証明書管理]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178889/), 2017年5月.
+1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, __[特徴抽出器の学習と購買履歴を必要としない類似画像による関連商品検索システム]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178892/), 2017年5月.
 1. 松本亮介, 田平 康朗, 山下 和彦, 栗林 健太郎, __[特徴量抽出と変化点検出に基づくWebサーバの高集積マルチテナント方式におけるリソースの自律制御アーキテクチャ]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-36(26), 1-8](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=177815&item_no=1&page_id=13&block_id=8), (2017-02-24).
 1. 松本亮介, __[FastContainerアーキテクチャ概論](https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications)__, [GMOペパボ　ホスティング技術カンファレンス＠大阪～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/45986/), 2016年12月.
 1. 松本亮介, __[FastContainerアーキテクチャ概論](https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications)__, [GMOペパボ　ホスティング技術カンファレンス＠東京～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/44809/), 2016年12月.
@@ -153,7 +155,7 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](https://speakerdeck.com/matsumoto_r/studies-on-highly-integrated-multi-tenant-architecture-for-web-servers)__, 京都大学大学院情報学研究科博士課程予備審査, 2016年8月.
 1. 松本亮介, __[自律制御しながら動的平衡状態の系を作るWebシステムとその未来](https://speakerdeck.com/matsumoto_r/a-future-of-dimensionless-autonomous-system)__, [軽量Ruby普及・実用化促進フォーラム2016](http://www.digitalfukuoka.jp/events/111?locale=ja), 2016年8月.
 1. 松本亮介, __[ペパボ研究所創設について](https://speakerdeck.com/matsumoto_r/start-pepaken)__, [HosCon - GMO Hosting Conference - @福岡](http://gmohoscon.connpass.com/event/34514/), 2016年7月.
-1. 松本亮介, __自律制御するWebサービス基盤の権限分離と性能の両立__, [ペパボ・はてな技術大会＠福岡](http://pepabo.connpass.com/event/33522/), 2016年7月(to appear). 
+1. 松本亮介, __自律制御するWebサービス基盤の権限分離と性能の両立__, [ペパボ・はてな技術大会＠福岡](http://pepabo.connpass.com/event/33522/), 2016年7月.
 1. 松本亮介, __[Webサービス基盤の自律制御と動的平衡性](https://speakerdeck.com/matsumoto_r/web-autonomy-homeostasis)__, [はてな・ペパボ技術大会＠京都](http://hatena.connpass.com/event/33521/), 2016年7月. 
 1. 松本亮介, __[技術者と研究者の狭間で得たたったひとつの教訓 2016](https://speakerdeck.com/matsumoto_r/career-keynote-2016)__, 新卒研修キャリアキーノート2016, 2016年6月.
 1. 松本亮介, __[ロリポップ！で目指すPHPのためのセキュリティと性能要件を同時に満たすサーバホスティング技術](https://speakerdeck.com/matsumoto_r/loli-next)__, [PHPカンファレンス福岡2016](http://phpcon.fukuoka.jp/), 2016年5月. 
