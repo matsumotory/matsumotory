@@ -146,7 +146,7 @@
 1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](https://speakerdeck.com/matsumoto_r/studies-on-highly-integrated-multi-tenant-architecture-for-web-servers)__, 京都大学大学院情報学研究科博士課程予備審査, 2016年8月.
 1. 松本亮介, __[自律制御しながら動的平衡状態の系を作るWebシステムとその未来](https://speakerdeck.com/matsumoto_r/a-future-of-dimensionless-autonomous-system)__, [軽量Ruby普及・実用化促進フォーラム2016](http://www.digitalfukuoka.jp/events/111?locale=ja), 2016年8月.
 1. 松本亮介, __[ペパボ研究所創設について](https://speakerdeck.com/matsumoto_r/start-pepaken)__, [HosCon - GMO Hosting Conference - @福岡](http://gmohoscon.connpass.com/event/34514/), 2016年7月.
-1. 松本亮介, __自律制御するWebサービス基盤の権限分離と性能の両立__, [ペパボ・はてな技術大会＠福岡](http://pepabo.connpass.com/event/33522/), 2016年7月.
+1. 松本亮介, __[自律制御するWebサービス基盤の権限分離と性能の両立](https://speakerdeck.com/matsumoto_r/pepabo-web-priv-autonomous)__, [ペパボ・はてな技術大会＠福岡](http://pepabo.connpass.com/event/33522/), 2016年7月.
 1. 松本亮介, __[Webサービス基盤の自律制御と動的平衡性](https://speakerdeck.com/matsumoto_r/web-autonomy-homeostasis)__, [はてな・ペパボ技術大会＠京都](http://hatena.connpass.com/event/33521/), 2016年7月. 
 1. 松本亮介, __[技術者と研究者の狭間で得たたったひとつの教訓 2016](https://speakerdeck.com/matsumoto_r/career-keynote-2016)__, 新卒研修キャリアキーノート2016, 2016年6月.
 1. 松本亮介, __[ロリポップ！で目指すPHPのためのセキュリティと性能要件を同時に満たすサーバホスティング技術](https://speakerdeck.com/matsumoto_r/loli-next)__, [PHPカンファレンス福岡2016](http://phpcon.fukuoka.jp/), 2016年5月. 
