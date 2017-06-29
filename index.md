@@ -91,20 +91,6 @@
 1. [__2013年度 情報処理学会関西支部 支部大会 学生奨励賞__](http://kansai.ipsj.or.jp/hyoshou/2013_hyoshou.html), 津崎善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, 電子メールの大量送信を選択的に制限する中継システム, 平成25年度情報処理学会関西支部支部大会 E-23, 2013年9月.
 1. [__Ruby Prize 2013 候補者__](http://www.ruby.or.jp/ja/news/20130821.html), 松本亮介, Contribution to mruby core and mrbgen. Ryosuke is currently working on development mod_mruby and ngx_mruby which expansion module for the Apache server. He also conducts research on possibility mruby as the DSL language, 2013年8月.
 
-### 賞状
-
-IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
--------------------|-------------------|----------------------------
-[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/iots2014_best_paper.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/iots2014_best_paper.png)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/9thjapanossaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/9thjapanossaward.png)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
-
-第6回 フクオカRuby大賞 優秀賞|
------------------------------|
-[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/6thfukuokarubyaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|
-
-2014年度 情報処理学会 山下記念研究賞|京都大学博士（情報学）証明書|第7回 フクオカRuby大賞 企業賞
--------------------|-------------------|----------------------------
-[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/yamashita.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/yamashita.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/doctor-cert.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/doctor-cert.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/fukuoka-iij-award.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/fukuoka-iij-award.jpg)
-
 ***
 
 ### 論文誌論文(博士課程入学の2012年4月 ～）
@@ -204,6 +190,20 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 1. 松本亮介・岡部寿男, __Webサービスの高度化に耐えうる基盤設計に関する研究__, [京都大学ICTイノベーション2013](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/2013/panel/panel.php?id=20), 2013年2月.
 1. 松本亮介・岡部寿男, __組み込みスクリプト言語mrubyを利用したWebサーバの機能拡張支援機構__, [情報処理学会研究報告 Vol.2012-IOT-18, No.6](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=82635&item_no=1&page_id=13&block_id=8), 2012年6月.
 1. 松本亮介・岡部寿男, __スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__, [情報処理学会研究報告 - 第16回 インターネットと運用技術（IOT）, Vol.2012-IOT-16 No.13, pp. 1-6](http://id.nii.ac.jp/1001/00081127/), 2012年3月.
+
+## 賞状
+
+IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
+-------------------|-------------------|----------------------------
+[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/iots2014_best_paper.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/iots2014_best_paper.png)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/9thjapanossaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/9thjapanossaward.png)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
+
+第6回 フクオカRuby大賞 優秀賞|
+-----------------------------|
+[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/6thfukuokarubyaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|
+
+2014年度 情報処理学会 山下記念研究賞|京都大学博士（情報学）証明書|第7回 フクオカRuby大賞 企業賞
+-------------------|-------------------|----------------------------
+[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/yamashita.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/yamashita.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/doctor-cert.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/doctor-cert.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/fukuoka-iij-award.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/fukuoka-iij-award.jpg)
 
 ## 学部時の研究
 - 松本亮介, __トラフィック特徴量の相関特性を用いた異常検出__, [平成19年度 卒業研究発表会](http://blog.matsumoto-r.jp/?p=70).
