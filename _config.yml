@@ -1,8 +1,32 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
 title: 松本亮介の研究・開発業績ページ
 description: my research and development archivements
 google_analytics: UA-21658890-4
 show_downloads: true
-theme: jekyll-theme-cayman
+markdown: kramdown
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Gems
 gems:
-  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-gist
