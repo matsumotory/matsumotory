@@ -191,7 +191,12 @@ layout: default
 1. 松本亮介・岡部寿男, __組み込みスクリプト言語mrubyを利用したWebサーバの機能拡張支援機構__, [情報処理学会研究報告 Vol.2012-IOT-18, No.6](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=82635&item_no=1&page_id=13&block_id=8), 2012年6月.
 1. 松本亮介・岡部寿男, __スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__, [情報処理学会研究報告 - 第16回 インターネットと運用技術（IOT）, Vol.2012-IOT-16 No.13, pp. 1-6](http://id.nii.ac.jp/1001/00081127/), 2012年3月.
 
-## 賞状
+## 学部時の研究
+- 松本亮介, __トラフィック特徴量の相関特性を用いた異常検出__, [平成19年度 卒業研究発表会](http://blog.matsumoto-r.jp/?p=70).
+- 松本亮介, __トラフィック特徴量の時系列データにおける相関特性を用いた変化点からの異常検出__, [平成19年度 後期雑誌会](https://speakerdeck.com/matsumoto_r/torahuitukute-zheng-liang-falseshi-xi-lie-detaniokeruxiang-guan-te-xing-woyong-itabian-hua-dian-karafalseyi-chang-jian-chu).
+- 松本亮介, __統計的手法による時系列からの外れ値と変化点の検出について__, [平成19年度 前期雑誌会](http://blog.matsumoto-r.jp/?p=54).
+
+## 賞状・その他記念
 
 IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
 -------------------|-------------------|----------------------------
@@ -205,77 +210,3 @@ IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミ
 -------------------|-------------------|----------------------------
 [![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/yamashita.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/yamashita.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/doctor-cert.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/doctor-cert.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/fukuoka-iij-award.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/fukuoka-iij-award.jpg)
 
-## 学部時の研究
-- 松本亮介, __トラフィック特徴量の相関特性を用いた異常検出__, [平成19年度 卒業研究発表会](http://blog.matsumoto-r.jp/?p=70).
-- 松本亮介, __トラフィック特徴量の時系列データにおける相関特性を用いた変化点からの異常検出__, [平成19年度 後期雑誌会](https://speakerdeck.com/matsumoto_r/torahuitukute-zheng-liang-falseshi-xi-lie-detaniokeruxiang-guan-te-xing-woyong-itabian-hua-dian-karafalseyi-chang-jian-chu).
-- 松本亮介, __統計的手法による時系列からの外れ値と変化点の検出について__, [平成19年度 前期雑誌会](http://blog.matsumoto-r.jp/?p=54).
-
-## 自分の作ったソフトウェアに関して言及された雑誌や本、Webニュース等
-- 2014年06月 [技術評論社 Ruby徹底攻略 (WEB+DB PRESS plus)](http://gihyo.jp/book/2014/978-4-7741-6534-9?ard=1403533595)
-- 2014年04月 [KADOKAWA/アスキー・メディアワークス Chef活用ガイド コードではじめる構成管理](http://ascii.asciimw.jp/books/books/detail/978-4-04-891985-2.shtml)
-- 2014年02月 [技術評論社 WEB+DB PRESS Vol.79 Webエンジニアのためのmruby入門](http://gihyo.jp/magazine/wdpress/archive/2014/vol79)
-- 2014年01月 [日経BP社 まつもとゆきひろ直伝　組込Ruby「mruby」のすべて 総集編](http://www.amazon.co.jp/%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E3%82%86%E3%81%8D%E3%81%B2%E3%82%8D%E7%9B%B4%E4%BC%9D-%E7%B5%84%E8%BE%BCRuby%E3%80%8Cmruby%E3%80%8D%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-%E7%B7%8F%E9%9B%86%E7%B7%A8-%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E3%82%86%E3%81%8D%E3%81%B2%E3%82%8D-ebook/dp/B00HZGBN58)
-- 2013年09月 日経Linux 2013年10月号 まつもとゆきひろの言語の世界
-- 2013年07月 日経Linux 2013年08月号 組み込み用Ruby「mruby」でモノ作りを始めよう
-- 2013年06月 まつもとゆきひろ直伝 組込向けRuby mrubyのすべて 総集編
-- 2013年02月 日経Linux 2013年03月号 組込向けRuby mrubyのすべて 第5回
-- 2012年10月 [RubyでiOSアプリ開発！ MobiRubyの増井さんに話を聞いた](http://el.jibun.atmarkit.co.jp/rails/2012/10/rubyios-mobirub-9547.html)
-- 2012年10月 日経Linux 2012年11月号 組込向けRuby mrubyのすべて 第2回
-- 2012年09月 日経Linux 2012年10月号 組込向けRuby mrubyのすべて 第1回
-- 2012年08月 [第1回　Rubyの世界を大きく広げるmruby (増井雄一郎 @masuidrive)](http://www.school.ctc-g.co.jp/columns/masuidrive/masuidrive01.html)
-- 2012年07月 [組み込み開発にも高い生産性を――製造業技術者に“軽量Ruby”「mruby」アピール](http://monoist.atmarkit.co.jp/mn/articles/1207/03/news068.html)
-- 2012年06月 [第1回 mruby誕生の経緯を明かそう](http://itpro.nikkeibp.co.jp/article/COLUMN/20120622/404824/?s2p)
-- 2012年06月 [まつもとゆきひろ氏に「mruby」の経緯について聞いた（1）](http://techon.nikkeibp.co.jp/article/NEWS/20120620/224023/)
-
-## その他所属・コミュニティ活動
-- 電子情報通信学会
-- 情報処理学会
-- 軽量Rubyフォーラム特別会員
-- ZABBIX-JPユーザー会（運営スタッフ兼コミッタ）
-- Apache HTTP Server Development Main Discussion List
-- Apache HTTP Server Bug Reports List
-- Apache Source Change Reports
-- Apache Con
-- Third-Party Module Authors' List
-- Apache Module Registry
-- APR Development Mailing List
-- APR Automated Commit Notification Mailing List
-- linux-kernel Mailing Lists
-- linux-kernel-announce Mailing Lists
-- linux-c-programming Mailing Lists
-- LFS Mailing Lists
-- Zabbix-users
-- Apacheユーザー会
-- Hadoopユーザー会
-- Eucalyptusユーザー会
-- Open Stackユーザー会
-- Cloud Stackユーザー会
-- 日本セキュアOSユーザ会
-
-## 公開済みの開発物
-- __増えすぎたのでその他はGithubを見て下さい__
-  - [Github matsumotory](https://github.com/matsumotory)
-- コンピュータ技術共有サイト
-  - [Register Underflow](https://registerunderflow.org)
-- mruby関連
-  - [mrubyライブラリ色々](https://github.com/search?q=%40matsumotory+mruby)
-- Nginx Module
-  - [ngx_mruby](https://github.com/matsumotory/ngx_mruby)
-- Apache Module
-  - [mod_mruby](https://github.com/matsumotory/mod_mruby)
-  - [mod_request_dumper](https://github.com/matsumotory/mod_request_dumper)
-  - [mod_process_security](https://modules.apache.org/search.php?id=2595)
-  - [mod_resource_checker](https://modules.apache.org/search.php?id=2559)
-  - [mod_vlimit](https://modules.apache.org/search.php?id=2570)
-  - [mod_lalimit](https://modules.apache.org/search.php?id=2568)
-  - [mod_vlimitconn](https://modules.apache.org/search.php?id=2558)
-  - [resource Lib for mod_lua](https://github.com/matsumotory/lua-get-resources)
-- Apache HTTP Server patch
-  - scoreboard patch
-  - mod_vhost_alias pacth
-  - mod_ruid2 patch
-- Operation Tools
-  - [resources-managed-tools](https://github.com/matsumotory/resources-managed-tools)
-  - [piotop](https://github.com/matsumotory/piotop)
-  - [qos-control](https://github.com/matsumotory/qos-control)
-  - [Zabbix-API-Client](https://github.com/matsumotory/Zabbix-API-Client)
