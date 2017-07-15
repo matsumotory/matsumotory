@@ -4,15 +4,13 @@ layout: default
 
 # 松本 亮介（まつもと りょうすけ）
 
-[[English]](http://research-en.matsumoto-r.jp/) [[Japanese]](http://research.matsumoto-r.jp/)
-
 ## 略歴
 
-- ロングバージョン
+####  ロングバージョン
 
 京都大学博士（情報学）。2008年3月学部卒業後、修士には行かずにホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。その後、再度大学院で研究を再開しようとするが、企業での経験が認められ、2012年4月より京都大学大学院情報学研究科 知能情報学専攻において[修士課程を飛ばして博士課程から入学(専攻において修士飛ばしは前例無し)](http://blog.matsumoto-r.jp/?p=2255)。3年間学術研究に取り組み、2013年、[情報処理学会 インターネットと運用技術シンポジウム IPSJ IOTS2013 優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award)、2014年、[第6回フクオカRuby大賞 優秀賞](http://www.digitalfukuoka.jp/topics/28?locale=ja)、[第9回日本OSS奨励賞](http://www.ossforum.jp/ossaward9th2) 、[2014年度 情報処理学会 山下記念研究賞](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi)、[RubyPrize2014 最終ノミネート](http://www.ruby.or.jp/ja/news/20141010.html)など、その他受賞多数。2015年4月より現在、GMOペパボ株式会社に入社後、OS・Middleware・HTTPに関する研究、及び、事業で実践できるレベルまで作りこむことを目標に取り組んでいる。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。[2016年に情報処理学会において時流に乗る日本の若手トップ研究者19名に選ばれ、IPSJ-ONEにも登壇](http://ipsj-one.org/)。2016年7月よりペパボ研究所主席研究員。情報処理学会IOT研究会運営委員。[mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)、[Trusterd HTTP/2 Web Server](http://matsumotory.github.io/trusterd/)の作者。Serverspec論文を共著で執筆など、[技術者向けの論文指導](https://github.com/mizzy/serverspec-thesis/pulls?q=is%3Aclosed+is%3Apr)も行う。
 
-- ショートバージョン
+#### ショートバージョン
 
 京都大学博士（情報学）。現場の技術を知るため修士に行かずにホスティング系企業に就職したのち、異例の修士飛ばしで京都
 大学大学院の博士課程に入学。インターネット基盤技術の研究に取り組み、mod_mrubyやngx_mruby
@@ -72,6 +70,13 @@ layout: default
   - データマイニングによるパケット解析
   - 変化点検出（外れ値と変化点の検知アルゴリズム）
 - 高集積マルチテナント環境における高性能かつ柔軟に権限分離可能なWebサーバのアーキテクチャに関する研究
+
+***
+
+## 博士学位論文 京都大学博士(情報学)
+- 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](http://rand.pepabo.com/article/2017/05/24/doctor-matsumotory/)__, 2017年度 京都大学大学院情報学研究科 博士論文学位審査公聴会 2017年5月京都大学博士(情報学)学位取得, 2017年5月.
+
+***
 
 ## 論文・発表・受賞歴
 
@@ -191,10 +196,14 @@ layout: default
 1. 松本亮介・岡部寿男, __組み込みスクリプト言語mrubyを利用したWebサーバの機能拡張支援機構__, [情報処理学会研究報告 Vol.2012-IOT-18, No.6](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=82635&item_no=1&page_id=13&block_id=8), 2012年6月.
 1. 松本亮介・岡部寿男, __スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__, [情報処理学会研究報告 - 第16回 インターネットと運用技術（IOT）, Vol.2012-IOT-16 No.13, pp. 1-6](http://id.nii.ac.jp/1001/00081127/), 2012年3月.
 
+***
+
 ## 学部時の研究
-- 松本亮介, __トラフィック特徴量の相関特性を用いた異常検出__, [平成19年度 卒業研究発表会](http://blog.matsumoto-r.jp/?p=70).
+- 松本亮介, __トラフィック特徴量の相関特性を用いた異常検出__, [平成19年度 卒業研究発表会](http://blog.matsumoto-r.jp/?p=70).], 2008年
 - 松本亮介, __トラフィック特徴量の時系列データにおける相関特性を用いた変化点からの異常検出__, [平成19年度 後期雑誌会](https://speakerdeck.com/matsumoto_r/torahuitukute-zheng-liang-falseshi-xi-lie-detaniokeruxiang-guan-te-xing-woyong-itabian-hua-dian-karafalseyi-chang-jian-chu).
 - 松本亮介, __統計的手法による時系列からの外れ値と変化点の検出について__, [平成19年度 前期雑誌会](http://blog.matsumoto-r.jp/?p=54).
+
+***
 
 ## 賞状・その他記念
 
