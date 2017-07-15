@@ -6,11 +6,11 @@ layout: default
 
 ## 略歴
 
-####  ロングバージョン
+###  ロングバージョン
 
 京都大学博士（情報学）。2008年3月学部卒業後、修士には行かずにホスティング系企業で3年間大規模ホスティングサービスの運用・運用設計・OSやミドルウェアの研究・開発に従事。その後、再度大学院で研究を再開しようとするが、企業での経験が認められ、2012年4月より京都大学大学院情報学研究科 知能情報学専攻において[修士課程を飛ばして博士課程から入学(専攻において修士飛ばしは前例無し)](http://blog.matsumoto-r.jp/?p=2255)。3年間学術研究に取り組み、2013年、[情報処理学会 インターネットと運用技術シンポジウム IPSJ IOTS2013 優秀論文賞](http://iot.ipsj.or.jp/iots/2013/award)、2014年、[第6回フクオカRuby大賞 優秀賞](http://www.digitalfukuoka.jp/topics/28?locale=ja)、[第9回日本OSS奨励賞](http://www.ossforum.jp/ossaward9th2) 、[2014年度 情報処理学会 山下記念研究賞](http://www.ipsj.or.jp/award/yamasita2014-detail.html#ubi)、[RubyPrize2014 最終ノミネート](http://www.ruby.or.jp/ja/news/20141010.html)など、その他受賞多数。2015年4月より現在、GMOペパボ株式会社に入社後、OS・Middleware・HTTPに関する研究、及び、事業で実践できるレベルまで作りこむことを目標に取り組んでいる。特にWebサーバのセキュリティ・リソース管理・運用技術改善・パフォーマンス・大規模対応や次世代HTTPプロトコルに興味を持つ。[2016年に情報処理学会において時流に乗る日本の若手トップ研究者19名に選ばれ、IPSJ-ONEにも登壇](http://ipsj-one.org/)。2016年7月よりペパボ研究所主席研究員。情報処理学会IOT研究会運営委員。[mod_mruby](http://mod.mruby.org/)、[ngx_mruby](http://ngx.mruby.org/)、[Trusterd HTTP/2 Web Server](http://matsumotory.github.io/trusterd/)の作者。Serverspec論文を共著で執筆など、[技術者向けの論文指導](https://github.com/mizzy/serverspec-thesis/pulls?q=is%3Aclosed+is%3Apr)も行う。
 
-#### ショートバージョン
+### ショートバージョン
 
 京都大学博士（情報学）。現場の技術を知るため修士に行かずにホスティング系企業に就職したのち、異例の修士飛ばしで京都
 大学大学院の博士課程に入学。インターネット基盤技術の研究に取り組み、mod_mrubyやngx_mruby
