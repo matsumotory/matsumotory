@@ -128,9 +128,9 @@ layout: default
 1. 松本亮介, __[人工知能がウエブサーバの異常状態を見つけ、サーバ管理者を救う～これってもはや生命？](http://www.milive-plus.net/gakumon16100501/)__, 河合塾みらいぶプラス, 2016年10月．
 1. 松本亮介, __[自らを管理できる、生命のように見えるインターネット技術の研究開発に挑む 松本亮介先生インタビュー](http://www.milive-plus.net/gakumon161005/02/)__, 河合塾みらいぶプラス, 2016年10月．
 1. 松本亮介, 栗林健太郎, __[ＧＭＯペパボ、ＡＩでサーバー運営効率高める次世代型システム開発へ](https://www.nikkan.co.jp/articles/view/00396089)__, 日刊工業新聞 ロボットニュース, 2016年8月．
-1. 松本亮介・栗林健太郎, __[AI最前線の現場から【GMOペパボ】「なめらかなシステム」の取り組み](https://thinkit.co.jp/article/9884)__, [連載: 
+1. 松本亮介, 栗林健太郎, __[AI最前線の現場から【GMOペパボ】「なめらかなシステム」の取り組み](https://thinkit.co.jp/article/9884)__, [連載: 
 ディープラーニング・人工知能 最前線 2016](https://thinkit.co.jp/series/5690), 2016年7月.
-1. 松本亮介・栗林健太郎, __[「GMOペパボ研究所」設立、ガチな学術研究でホスティングサービス差別化、所長・栗林健太郎氏、主席研究員・松本亮介氏](http://internet.watch.impress.co.jp/docs/interview/1008446.html)__, [INTERNET Watch トピック 業界動向 企業 インタビュー](http://internet.watch.impress.co.jp/), 2016年7月.
+1. 松本亮介, 栗林健太郎, __[「GMOペパボ研究所」設立、ガチな学術研究でホスティングサービス差別化、所長・栗林健太郎氏、主席研究員・松本亮介氏](http://internet.watch.impress.co.jp/docs/interview/1008446.html)__, [INTERNET Watch トピック 業界動向 企業 インタビュー](http://internet.watch.impress.co.jp/), 2016年7月.
 1. 松本亮介, __[【特別企画】
 快適・低価格・安全を実現した"次世代ホスティング"の秘密に迫る!](http://news.mynavi.jp/kikaku/2016/05/26/001/)__, [マイナビニュースIT企業 セキュリティ特別企画](http://news.mynavi.jp/kikaku/2016/05/26/001/), 2016年5月.
 1. 松本亮介, __楽しもうOSS開発 mrubyで学んだ貢献の流儀と情熱__, [WEB+DB PRESS Vol.85, pp.98-107, 技術評論社](http://gihyo.jp/magazine/wdpress/archive/2015/vol85), 2015年2月24日.
