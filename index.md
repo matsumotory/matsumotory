@@ -121,6 +121,7 @@ layout: default
 ***
 
 ### 学会誌・商業誌等解説
+1. 松本亮介, __[100号記念選書 TOPエンジニアを支える1冊 超豪華23名！](http://gihyo.jp/magazine/wdpress/archive/2017/vol100)__, [WEB+DB PRESS Vol.100, pp.2-7, 技術評論社](http://gihyo.jp/magazine/wdpress/archive/2017/vol100), 2017年8月24日.
 1. 松本亮介, Think IT 編集部, __[エンジニアのためのAI入門 第2部 事例編：AI最前線の現場から ～業界別AIへの取り組み GMOペパボ AIでWebシステムを自律制御する「なめらかなシステム」の取り組み](http://book.impress.co.jp/books/1116101165)__, インプレス Think IT 編集部, 2017年7月.
 1. 松本亮介, __[レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)__, はてなニュース Web・IT, 2017年1月.
 1. 松本亮介, __[探しに行こう自分の場所 - 企業と学術研究の交差点で、高みを目指す](https://lne.st/2016/12/01/books201612/)__, リバネス情報誌 学部・院生のための研究キャリア・就活情報誌『incu・be』vol.35, 2016年12月．
