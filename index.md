@@ -141,15 +141,17 @@ layout: default
 
 ### 助成金・研究費等
 
-1. 松本亮介, 近藤宇智朗, mrubyを利用した軽量コンテナクラウド基盤の研究開発を介したmrubyの大規模・高負荷テスト, [Rubyアソシエーション開発助成金2017](http://www.ruby.or.jp/ja/news/20170804), 2017年10月. (申請中）
+1. 松本亮介, 近藤宇智朗, mrubyを利用した軽量コンテナクラウド基盤の研究開発を介したmrubyの大規模・高負荷テスト, [Rubyアソシエーション開発助成金2017](http://www.ruby.or.jp/ja/news/20170804), 2017年10月.
 1. 松本亮介, 近藤宇智朗, 小田知央, 軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築, 国立情報学研究所 NIIクラウド実証実験, 2017年7月.
 
 ***
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
 
-1. 松本亮介, __[WebホスティングシステムにおけるTOCTOU問題とその対応]()__, [第一回 Webシステムアーキテクチャ研究会](), 2017年12月. (to appear)
+1. 松本亮介, __[Dimension-less Autonomous Operating System]()__, [第一回 Webシステムアーキテクチャ研究会](), 2017年12月. (to appear)
+1. 松本亮介, __[第2部：福岡で活躍するエンジニア4名によるパネルディスカッション]()__, [はてな×さくら「エンジニア大忘年会」](http://hatenanews.com/articles/2017/11/17/110000), 2017年12月. (to appear)
 1. 松本亮介, __[200万ドメインのHTTPS化を見据えた大規模証明書管理アーキテクチャ]()__, [2017年 CKP-QGPOP合同研究会](), 2017年12月. (to appear)
+1. 松本亮介, , 小田 知央, 笠原 義晃, 嶋吉 隆夫, 岡村 耕二, __[精緻に解析可能な恒常性のあるメール基盤の設計]()__, [2017年 CKP-QGPOP合同研究会](), 2017年12月. (to appear)
 1. 松本亮介, __[200万ドメインのHTTPS化を見据えたmrubyによる大規模証明書管理アーキテクチャ - サーバ台数を100分の1にする技術](https://speakerdeck.com/matsumoto_r/2-millions-cert-by-mruby)__, [福岡Ruby会議02](http://regional.rubykaigi.org/fukuoka02/), 2017年11月.
 1. 松本亮介, __[研究者とエンジニアが交わるその先へ](https://speakerdeck.com/matsumoto_r/a-futer-of-where-researchers-and-engines-intersect)__, 公立はこだて未来大学 ITアーキテクチャ特論, 2017年11月.
 1. 松本亮介, __[なぜ論文を書くのか](https://speakerdeck.com/matsumoto_r/why-read-write-paper)__, エンジニア研修座学, 2017年10月.
