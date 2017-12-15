@@ -116,8 +116,8 @@ layout: default
 ***
 
 ### 国内発表（査読付）(博士課程入学の2012年4月 ～）
-1. 松本亮介, 近藤宇智朗, 三宅悠介, 力武健次, 栗林健太郎, __FastContainer: 実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ__, [インターネットと運用技術シンポジウム2017論文集，2017，89-97（2017-11-30）](http://id.nii.ac.jp/1001/00184613/), 2017年12月.
-1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
+1. 松本亮介, 近藤宇智朗, 三宅悠介, 力武健次, 栗林健太郎, __[FastContainer: 実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-shi-xing-huan-jing-falsebian-hua-nisu-zao-kushi-ying-dekiruheng-chang-xing-wochi-tusisutemuakitekutiya)__, [インターネットと運用技術シンポジウム2017論文集，2017，89-97（2017-11-30）](http://id.nii.ac.jp/1001/00184613/), 2017年12月.
+1. 松本亮介, 岡部 寿男, __[mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構](https://speakerdeck.com/matsumoto_r/mod-mruby-sukuriputoyan-yu-degao-su-katusheng-memorinikuo-zhang-ke-neng-nawebsabafalseji-neng-kuo-zhang-zhi-yuan-ji-gou)__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 1. 松本亮介, 川原将司, 松岡輝夫, __汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月.
 
 ***
@@ -148,10 +148,10 @@ layout: default
 
 ### 口頭発表(博士課程入学の2012年4月 ～）
 
-1. 松本亮介, __[Dimension-less Autonomous Operating System]()__, [第一回 Webシステムアーキテクチャ研究会](), 2017年12月. (to appear)
-1. 松本亮介, __[第2部：福岡で活躍するエンジニア4名によるパネルディスカッション]()__, [はてな×さくら「エンジニア大忘年会」](http://hatenanews.com/articles/2017/11/17/110000), 2017年12月. (to appear)
-1. 松本亮介, __[200万ドメインのHTTPS化を見据えた大規模証明書管理アーキテクチャ]()__, [2017年 CKP-QGPOP合同研究会](), 2017年12月. (to appear)
-1. 松本亮介, , 小田 知央, 笠原 義晃, 嶋吉 隆夫, 岡村 耕二, __[精緻に解析可能な恒常性のあるメール基盤の設計]()__, [2017年 CKP-QGPOP合同研究会](), 2017年12月. (to appear)
+1. 松本亮介, __[実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ]()__, [第一回 Webシステムアーキテクチャ研究会](), 2017年12月. (to appear)
+1. 松本亮介, __[第2部：福岡で活躍するエンジニア4名によるパネルディスカッション](https://sakura-kyushu.doorkeeper.jp/events/67315)__, [はてな×さくら「エンジニア大忘年会」](http://hatenanews.com/articles/2017/11/17/110000), 2017年12月.
+1. 松本亮介, __[200万ドメインのHTTPS化を見据えた大規模証明書管理アーキテクチャ](https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls)__, [2017年 CKP-QGPOP合同研究会](), 2017年12月.
+1. 松本亮介, , 小田 知央, 笠原 義晃, 嶋吉 隆夫, 岡村 耕二, __[精緻に解析可能な恒常性のあるメール基盤の設計](https://speakerdeck.com/matsumoto_r/ckp-qgpop-auntonmous-mail)__, [2017年 CKP-QGPOP合同研究会](), 2017年12月.
 1. 松本亮介, __[200万ドメインのHTTPS化を見据えたmrubyによる大規模証明書管理アーキテクチャ - サーバ台数を100分の1にする技術](https://speakerdeck.com/matsumoto_r/2-millions-cert-by-mruby)__, [福岡Ruby会議02](http://regional.rubykaigi.org/fukuoka02/), 2017年11月.
 1. 松本亮介, __[研究者とエンジニアが交わるその先へ](https://speakerdeck.com/matsumoto_r/a-futer-of-where-researchers-and-engines-intersect)__, 公立はこだて未来大学 ITアーキテクチャ特論, 2017年11月.
 1. 松本亮介, __[なぜ論文を書くのか](https://speakerdeck.com/matsumoto_r/why-read-write-paper)__, エンジニア研修座学, 2017年10月.
