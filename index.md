@@ -169,7 +169,7 @@ layout: default
 
 ### 口頭発表
 
-1. 松本亮介, __[実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ]()__, [第一回 Webシステムアーキテクチャ研究会](), 2017年12月. (to appear)
+1. 松本亮介, __[実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](http://hb.matsumoto-r.jp/entry/2017/12/25/102234)__, [第一回 Webシステムアーキテクチャ研究会](http://websystemarchitecture.hatenablog.jp/entry/2017/12/17/133301), 2017年12月.
 1. 松本亮介, __[第2部：福岡で活躍するエンジニア4名によるパネルディスカッション](https://sakura-kyushu.doorkeeper.jp/events/67315)__, [はてな×さくら「エンジニア大忘年会」](http://hatenanews.com/articles/2017/11/17/110000), 2017年12月.
 1. 松本亮介, __[200万ドメインのHTTPS化を見据えた大規模証明書管理アーキテクチャ](https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls)__, [2017年 CKP-QGPOP合同研究会](), 2017年12月.
 1. 松本亮介, , 小田 知央, 笠原 義晃, 嶋吉 隆夫, 岡村 耕二, __[精緻に解析可能な恒常性のあるメール基盤の設計](https://speakerdeck.com/matsumoto_r/ckp-qgpop-auntonmous-mail)__, [2017年 CKP-QGPOP合同研究会](), 2017年12月.
