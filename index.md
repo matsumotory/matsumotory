@@ -78,6 +78,7 @@ layout: default
 
 ### 受賞(博士課程入学の2012年4月 ～）
 
+1. [__はてなブログ大賞2017__](http://blog.hatenablog.com/entry/2017/12/26/150000), 松本亮介, [エンジニアリングや研究開発について思うこと](http://hb.matsumoto-r.jp/entry/2017/09/18/001913), 2017年12月.
 1. [__第8回 フクオカRuby大賞 奨励賞__](http://www.digitalfukuoka.jp/topics/76?locale=ja), 松本亮介, HTTPサーバを支えるmruby, 2016年2月.
 1. [__Ruby Prize 2015 候補者__](http://www.ruby.or.jp/ja/news/20150911.html), 松本亮介, 松本氏は昨年度のRubyPrizeファイナルノミネート後も精力的に mruby 組み込みの Web サーバーの開発を続けてます。今年はさらに HTTP/2 サーバーである h2o に mruby handler を組み込むなど、RubyPrize にふさわしい, 2015年9月.
 1. [__第7回 フクオカRuby大賞 企業賞（IIJ GIO賞）__](http://www.digitalfukuoka.jp/topics/68?locale=ja), 松本亮介, Trusterd: 高性能かつmrubyで設定をプログラマブルに記述可能な次世代HTTP/2 Webサーバ, 2015年3月.
@@ -95,16 +96,13 @@ layout: default
 ***
 
 ### 博士学位論文 京都大学博士(情報学)
-- 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](http://rand.pepabo.com/article/2017/05/24/doctor-matsumotory/)__, 2017年度 京都大学大学院情報学研究科 博士論文学位審査公聴会 2017年5月京都大学博士(情報学)学位取得, 2017年5月.
+1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](http://rand.pepabo.com/article/2017/05/24/doctor-matsumotory/)__, [2017年度 京都大学大学院情報学研究科 博士論文学位審査公聴会 2017年5月京都大学博士(情報学)学位取得](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/225954), 2017年.
 
 ***
 
-### 論文誌招待論文
-
-1. 松本亮介, 栗林 健太郎, 岡部寿男, Webサーバの高集積マルチテナントアーキテクチャと運用技術, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.-](), 2018年1月. (to appear)
-
 ### 論文誌論文
 1. 松本亮介, 栗林 健太郎, 岡部寿男, __リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会論文誌, Vol.59, No.3, pp.-](), 2018年3月. (to appear)
+1. 松本亮介, 栗林 健太郎, 岡部寿男, __招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術__, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.-](), 2018年1月. (to appear)
 1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
 1. 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 1. 松本亮介, 川原将司, 松岡輝夫, __大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [情報処理学会論文誌, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013.
@@ -144,6 +142,8 @@ layout: default
 ***
 
 ### 学会誌・商業誌等解説
+
+1. 松本亮介, __[企業におけるエンジニアリングと研究開発](https://geek-out.jp/column/entry/2017/12/28/110000)__, [エンジニア向け求人フィード型転職サイトGeekOut](https://geek-out.jp/), 2017年12月.
 1. 松本亮介, __[100号記念選書 TOPエンジニアを支える1冊 超豪華23名！](http://gihyo.jp/magazine/wdpress/archive/2017/vol100)__, [WEB+DB PRESS Vol.100, pp.2-7, 技術評論社](http://gihyo.jp/magazine/wdpress/archive/2017/vol100), 2017年8月24日.
 1. 松本亮介, __[エンジニアのためのAI入門 第2部 事例編：AI最前線の現場から ～業界別AIへの取り組み GMOペパボ AIでWebシステムを自律制御する「なめらかなシステム」の取り組み](http://book.impress.co.jp/books/1116101165)__, インプレス Think IT 編集部, 2017年7月.
 1. 松本亮介, __[レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)__, はてなニュース Web・IT, 2017年1月.
@@ -162,8 +162,9 @@ layout: default
 
 ### 助成金・研究費等
 
-1. 松本亮介, 近藤宇智朗, __[mrubyを利用した軽量コンテナクラウド基盤の研究開発を介したmrubyの大規模・高負荷テスト](http://www.ruby.or.jp/ja/news/20171206)__, [Rubyアソシエーション開発助成金2017](http://www.ruby.or.jp/ja/news/20170804), 2017年10月.
-1. 松本亮介, 近藤宇智朗, __[小田知央, 軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築]()__, 国立情報学研究所 NIIクラウド実証実験, 2017年7月.
+1. 松本亮介, 小田知央, 近藤宇智朗, 笠原義晃, 岡村耕二, 嶋吉隆夫, 金子晃介, mrubyを利用した軽量コンテナクラウド基盤の研究開発を介したmrubyの大規模・高負荷テスト, [2017年度Ruby Association開発助成](http://www.ruby.or.jp/ja/news/20171206), 2017年10月.
+1. 松本亮介, 小田知央, 近藤宇智朗, 笠原義晃, 岡村耕二, 嶋吉隆夫, 金子晃介, 軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築, 国立情報学研究所 NIIクラウド実証実験, 2017年7月.
+
 
 ***
 
@@ -172,7 +173,7 @@ layout: default
 1. 松本亮介, __[実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](http://hb.matsumoto-r.jp/entry/2017/12/25/102234)__, [第一回 Webシステムアーキテクチャ研究会](http://websystemarchitecture.hatenablog.jp/entry/2017/12/17/133301), 2017年12月.
 1. 松本亮介, __[第2部：福岡で活躍するエンジニア4名によるパネルディスカッション](https://sakura-kyushu.doorkeeper.jp/events/67315)__, [はてな×さくら「エンジニア大忘年会」](http://hatenanews.com/articles/2017/11/17/110000), 2017年12月.
 1. 松本亮介, __[200万ドメインのHTTPS化を見据えた大規模証明書管理アーキテクチャ](https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls)__, [2017年 CKP-QGPOP合同研究会](), 2017年12月.
-1. 松本亮介, , 小田 知央, 笠原 義晃, 嶋吉 隆夫, 岡村 耕二, __[精緻に解析可能な恒常性のあるメール基盤の設計](https://speakerdeck.com/matsumoto_r/ckp-qgpop-auntonmous-mail)__, [2017年 CKP-QGPOP合同研究会](), 2017年12月.
+1. 松本亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 岡村 耕二, __[精緻に解析可能な恒常性のあるメール基盤の設計](https://speakerdeck.com/matsumoto_r/ckp-qgpop-auntonmous-mail)__, [2017年 CKP-QGPOP合同研究会](), 2017年12月.
 1. 松本亮介, __[200万ドメインのHTTPS化を見据えたmrubyによる大規模証明書管理アーキテクチャ - サーバ台数を100分の1にする技術](https://speakerdeck.com/matsumoto_r/2-millions-cert-by-mruby)__, [福岡Ruby会議02](http://regional.rubykaigi.org/fukuoka02/), 2017年11月.
 1. 松本亮介, __[研究者とエンジニアが交わるその先へ](https://speakerdeck.com/matsumoto_r/a-futer-of-where-researchers-and-engines-intersect)__, 公立はこだて未来大学 ITアーキテクチャ特論, 2017年11月.
 1. 松本亮介, __[なぜ論文を書くのか](https://speakerdeck.com/matsumoto_r/why-read-write-paper)__, エンジニア研修座学, 2017年10月.
@@ -187,6 +188,7 @@ layout: default
 1. 松本亮介, __[ユーザー体感を向上するWebサービス基盤技術に関する研究](https://speakerdeck.com/matsumoto_r/pepaken-infra-rand)__, __[ペパボ研究所 社内発表会]()__, 2017年7月.
 1. 松本亮介, __[ユーザー体感を向上するWebサービス基盤技術に関する研究](https://speakerdeck.com/matsumoto_r/pepaken-infra-rand)__, 九州大学サイバーセキュリティセンター向け研究紹介, 2017年6月.
 1. 松本亮介, __[ペパボ研究所 キャリアキーノート2017 技術者と研究者の狭間で得たたったひとつの教訓](https://speakerdeck.com/matsumoto_r/pepaken-career-keynote-2017)__, 2017年度GMOペパボ新卒研修, 2017年5月.
+1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](https://speakerdeck.com/matsumoto_r/studies-on-highly-integrated-multi-tenant-architecture-for-web-servers-1)__, 京都大学大学院情報学研究科博士課程公聴会, 2017年4月.
 1. 松本亮介, __[エンジニアの生き方いろいろ ～なぜ僕たちはコードを書いて生きるのか～](http://ascii.jp/elem/000/001/486/1486996/)__, [官民協働型スタートアップ施設「FUKUOKA growth next」のオープニングイベント エンジニアセッション](https://growth-next.com/event/812), 2017年4月.
 1. 松本亮介, __[FastContainerアーキテクチャ概論](https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications)__, [GMOペパボ　ホスティング技術カンファレンス＠大阪～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/45986/), 2016年12月.
 1. 松本亮介, __[FastContainerアーキテクチャ概論](https://speakerdeck.com/matsumoto_r/reactive-stateless-and-mortal-architecture-for-web-applications)__, [GMOペパボ　ホスティング技術カンファレンス＠東京～破壊的イノベーションをおこす革新的技術～](https://pepabo.connpass.com/event/44809/), 2016年12月.
