@@ -168,7 +168,15 @@ layout: default
 
 ***
 
-### 口頭発表
+### 口頭発表（国外）
+
+1. Ryosuke Matsumoto, __[The future of mruby in HTTP Server](https://speakerdeck.com/matsumoto_r/the-future-of-mruby-in-http-server-rubykaigi-2015)__, [RubyKaigi 2015](http://rubykaigi.org/2015), Dec 2015.
+1. Ryosuke Matsumoto, __Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014.
+1. Ryosuke Matsumoto, Yasuo Okabe, __Design and Implementation of Infrastructure Software for More Sophisticated Web Services__, The 35th IST seminar, 11 April 2013.
+
+***
+
+### 口頭発表（国内）
 
 1. 松本亮介, __[実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](http://hb.matsumoto-r.jp/entry/2017/12/25/102234)__, [第一回 Webシステムアーキテクチャ研究会](http://websystemarchitecture.hatenablog.jp/entry/2017/12/17/133301), 2017年12月.
 1. 松本亮介, __[第2部：福岡で活躍するエンジニア4名によるパネルディスカッション](https://sakura-kyushu.doorkeeper.jp/events/67315)__, [はてな×さくら「エンジニア大忘年会」](http://hatenanews.com/articles/2017/11/17/110000), 2017年12月.
@@ -211,7 +219,6 @@ layout: default
 1. 松本亮介, __[ペパボ福岡の技術的強み なぜ今エンジニアはペパボ福岡で働くべきなのか](https://speakerdeck.com/matsumoto_r/pepabofu-gang-falseji-shu-de-qiang-mi)__, [【人気都市・福岡で働く！】移住にまつわるエトセトラ〜エンジニア・ディレクター向けトーク＆相談会〜](hhttp://pepabo.connpass.com/event/25558/), 2016年2月. 
 1. 松本亮介, __[HTTP/2とmrubyの活用 HTTP/2時代のサーバ設定になぜmrubyが必要か](https://speakerdeck.com/matsumoto_r/2tomrubyfalsehuo-yong)__, [第2回技術共有会](), 2016年1月.
 1. 松本亮介, __[PFSを考慮したTLS終端とngx_mrubyによる大量ドメイン設定の効率化 nginxにおける大量ドメインの証明書を動的に処理する方法](https://speakerdeck.com/matsumoto_r/pfswokao-lu-sitatlszhong-duan-tongx-mrubyniyoruda-liang-domeinshe-ding-falsexiao-lu-hua)__, [第1回技術共有会](), 2016年1月.
-1. Ryosuke Matsumoto, __[The future of mruby in HTTP Server](https://speakerdeck.com/matsumoto_r/the-future-of-mruby-in-http-server-rubykaigi-2015)__, [RubyKaigi 2015](http://rubykaigi.org/2015), Dec 2015.
 1. 松本亮介, __[mruby in HTTP server, connect HTTP/1 and HTTP/2 servers](https://speakerdeck.com/matsumoto_r/mruby-in-http-server)__, [第1回 Hacker Tackle](https://hackertackle.github.io/#about), 2015年9月.
 1. 松本亮介, __[Middleware Configuration as Code](https://speakerdeck.com/matsumoto_r/middleware-configuration-as-code)__, [第68回 Ruby関西 勉強会](https://rubykansai.doorkeeper.jp/events/25948), 2015年8月.
 1. 松本亮介, __[たったひとつの教訓](https://speakerdeck.com/matsumoto_r/tatutahitotufalsejiao-xun)__, [Webオペレーション研修 キャリアキーノート](), 2015年7月.
@@ -223,7 +230,6 @@ layout: default
 1. 松本亮介, __[研究者と技術者とmruby](https://speakerdeck.com/matsumoto_r/yan-jiu-zhe-toji-shu-zhe-tomruby-xue-sheng-niyoruosskai-fa-toifalsebesiyon)__, [Rubyビジネスセミナー大阪　コミュニティーが先導する関西のイノベーション](http://rubyassociation.doorkeeper.jp/events/18493), 2015年1月.
 1. 松本亮介, __[Trusterd: mrubyで振る舞いを記述可能な高速に動作する次世代HTTP/2 Webサーバ](https://speakerdeck.com/matsumoto_r/2-web-server-scripting-with-mruby)__, [第７回フクオカRuby 大賞](http://www.digitalfukuoka.jp/events/45), 2015年1月.
 1. 松本亮介, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWeb サーバの機能拡張支援機構__, [Embedded Technology 2014スペシャルセッションC-2](http://www.jasa.or.jp/et/ET2014/conf/confpage-c02.html), 2014年11月.
-1. Ryosuke Matsumoto, __Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014.
 1. 松本亮介, __[今どきのWEBホスティングの高負荷対策](https://speakerdeck.com/matsumoto_r/jin-dokifalsewebhosuteingufalsegao-fu-he-dui-ce-hosting-casual-talk-number-1)__, [Hosting Casual Talks #1 at 株式会社はてな](http://www.zusaar.com/event/8427003), 2014年6月.
 1. 松本亮介, __mod_mruby × ngx_mruby: 組込みスクリプト言語mrubyで高速かつ省メモリに拡張可能なWebサーバの機機能拡張支援機構__, [Ruby・mrubyビジネスセミナーFUKUOKA2014）](http://www.digitalfukuoka.jp/topics/26?locale=ja), 2014年2月.
 1. 松本亮介, __mod_mruby × ngx_mruby: 組込みスクリプト言語mrubyで高速かつ省メモリに拡張可能なWebサーバの機機能拡張支援機構__, [Ruby・コンテンツフォーラムFUKUOKA2014](http://www.digitalfukuoka.jp/topics/26?locale=ja), 2014年2月.
@@ -232,7 +238,6 @@ layout: default
 1. 松本亮介, __mod_mruby × ngx_mruby: 組込みスクリプト言語mrubyで高速かつ省メモリに拡張可能なWebサーバの機機能拡張支援機構__, [第６回フクオカRuby 大賞](http://www.digitalfukuoka.jp/events/21?locale=ja), 2014年1月.
 1. 松本亮介・岡部寿男, __libcgroupとmrubyを使ったWebサーバのリソース制御アーキテクチャ__, [第2回 コンテナ型仮想化の情報交換会](http://atnd.org/events/40915), 2013年10月.
 1. 松本亮介・岡部寿男, __mrubyとWebサーバ__, [オープンソースカンファレンス名古屋2013](http://www.ospn.jp/osc2013-nagoya/), 2013年6月.
-1. Ryosuke Matsumoto, Yasuo Okabe, __Design and Implementation of Infrastructure Software for More Sophisticated Web Services__, The 35th IST seminar, 11 April 2013 (in English).
 1. 松本亮介・岡部寿男, __mod_mruby__, [Ruby東京プレゼンテーション2013](http://www.digitalfukuoka.jp/events/6), 2013年3月.
 1. 松本亮介・岡部寿男, __Webサービスの高度化に耐えうる基盤設計に関する研究__, [京都大学ICTイノベーション2013](http://ict-nw.i.kyoto-u.ac.jp/ict-innovation/2013/panel/panel.php?id=20), 2013年2月.
 
