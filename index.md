@@ -102,7 +102,7 @@ layout: default
 
 ### 論文誌論文
 1. 松本亮介, 栗林 健太郎, 岡部寿男, __リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会論文誌, Vol.59, No.3, pp.-](), 2018年3月. (to appear)
-1. 松本亮介, 栗林 健太郎, 岡部寿男, __招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術__, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.-](), 2018年1月. (to appear)
+1. 松本亮介, 栗林 健太郎, 岡部寿男, __招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術__, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.16-30](http://search.ieice.org/bin/summary.php?id=j101-b_1_16&category=B&year=2018&lang=J&abst=), 2018年1月.
 1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
 1. 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 1. 松本亮介, 川原将司, 松岡輝夫, __大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [情報処理学会論文誌, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013.
