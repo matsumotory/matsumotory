@@ -102,7 +102,7 @@ layout: default
 ***
 
 ### 論文誌論文
-1. 松本亮介, 栗林 健太郎, 岡部寿男, __リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会論文誌, Vol.59, No.3, pp.-](), 2018年3月. (to appear)
+1. 松本亮介, 栗林 健太郎, 岡部寿男, __リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会論文誌, Vol.59, No.3, pp.1016-1025](http://id.nii.ac.jp/1001/00186749/), 2018年3月.
 1. 松本亮介, 栗林 健太郎, 岡部寿男, __招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術__, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.16-30](http://search.ieice.org/bin/summary.php?id=j101-b_1_16&category=B&year=2018&lang=J&abst=), 2018年1月.
 1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
 1. 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
@@ -126,10 +126,13 @@ layout: default
 
 ### 国内発表（査読無し論文）
 
-1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[高集積マルチテナントWebサーバの大規模証明書管理と実運用上の評価]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-39, Vol.14, pp.1-8](), 2017年9月.
-1. 松本亮介, 近藤 宇智朗, 三宅 悠介, 力武 健次, 栗林 健太郎, __[FastContainer: Webアプリケーションコンテナの起動をリアクティブに決定するコンテナ管理アーキテクチャ]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00182376/), 2017年6月.
-1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, __[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.13, pp.1-8](http://id.nii.ac.jp/1001/00182375/), 2017年6月.
-1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[高集積マルチテナントWebサーバの大規模証明書管理]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178889/), 2017年5月.
+1. 笠原 義晃, 松本 亮介, 近藤 宇智朗, 小田 知央, 嶋吉 隆夫, 金子晃介, 岡村 耕二, __[軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築]()__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(2), pp.1-8](http://id.nii.ac.jp/1001/00186152/), 2018年3月.
+1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, __[精緻に解析可能な恒常性のあるメール基盤の設計](https://speakerdeck.com/matsumoto_r/iot40-matsumotory)__,[ 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(17), pp.1-8](http://id.nii.ac.jp/1001/00186167/), 2018年3月.
+1. 近藤 宇智朗, 松本 亮介, 栗林 健太郎, __[Haconiwa: プログラムによる，組み立て可能性と拡張性を持つLinuxコンテナ](https://speakerdeck.com/udzura/haconiwa-puroguramuniyoruzu-mili-teke-neng-xing-tokuo-zhang-xing-wochi-tulinuxkontena)__, 情報処理学会第80回全国大会, 2D-04, 2018年3月.
+1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[高集積マルチテナントWebサーバの大規模証明書管理と実運用上の評価](https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls)__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-39, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00183555/), 2017年9月.
+1. 松本亮介, 近藤 宇智朗, 三宅 悠介, 力武 健次, 栗林 健太郎, __[FastContainer: Webアプリケーションコンテナの起動をリアクティブに決定するコンテナ管理アーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-at-iot38)__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00182376/), 2017年6月.
+1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, __[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction)__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.13, pp.1-8](http://id.nii.ac.jp/1001/00182375/), 2017年6月.
+1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[高集積マルチテナントWebサーバの大規模証明書管理](https://speakerdeck.com/matsumoto_r/large-scale-certificate-management-on-highly-integrated-multi-tenant-web-servers)__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178889/), 2017年5月.
 1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, __[特徴抽出器の学習と購買履歴を必要としない類似画像による関連商品検索システム]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178892/), 2017年5月.
 1. 松本亮介, 田平 康朗, 山下 和彦, 栗林 健太郎, __[特徴量抽出と変化点検出に基づくWebサーバの高集積マルチテナント方式におけるリソースの自律制御アーキテクチャ]()__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-36(26), 1-8](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=177815&item_no=1&page_id=13&block_id=8), 2017年2月.
 1. 松本亮介, 栗林健太郎, __[特徴量抽出と変化点検出に基づくWebサーバリソースの自律制御アーキテクチャ](http://id.nii.ac.jp/1001/00176067/)__, [インターネットと運用技術シンポジウム2016論文集（IOTS2016）](http://www.iot.ipsj.or.jp/iots/2016), Vol.2016, pp.101,  2016年12月.
