@@ -111,6 +111,7 @@ layout: default
 ***
 
 ### 国際会議論文（査読付）
+1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, __Large-scale Certificate Management on Multi-tenant Web Servers__, [The 6th IEEE International COMPSAC Workshop on Architecture, Design, Deployment and Management of Networks and Applications (ADMNET 2018)](https://ieeecompsac.computer.org/2018/admnet/), Jul 2018. (to appear)
 1. Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 1. Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013.
 1. Ryosuke Matsumoto, Yasuo Okabe, __Access Control Architecture Separating Privilege by a Thread on a Web Server__, The 12th IEEE/IPSJ International Symposium on Applications and the Internet (SAINT2012), pp.178-183, July 2012.
@@ -125,8 +126,14 @@ layout: default
 ***
 
 ### 国内発表（査読無し論文）
-
-1. 笠原 義晃, 松本 亮介, 近藤 宇智朗, 小田 知央, 嶋吉 隆夫, 金子晃介, 岡村 耕二, __[軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築]()__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(2), pp.1-8](http://id.nii.ac.jp/1001/00186152/), 2018年3月.
+1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, 精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤, マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1, Jul 2018. (to appear)
+1. 栗林 健太郎, 三宅 悠介, 松本 亮介, なめらかなシステムを目指して, マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 4B-3, Jul 2018. (to appear)
+1. 松本 亮介, 中田 裕貴, 栗林 健太郎, 接続待ちソケット生成前のプロセスイメージを利用したWebサーバの汎用的な起動時間短縮手法, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. (to appear)
+1. 三宅悠介, 松本 亮介, Sanny: 大規模ECサイトのための精度と速度を両立した分散可能な近似近傍探索エンジン, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. (to appear)
+1. 松本 亮介, 田中 諒介, 栗林 健太郎, __[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa)__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-matsumotory.pdf), May 2018.
+1. 野村 孔命, 力武 健次, 松本 亮介, __[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-test)__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-komei.pdf), May 2018.
+1. 財津 大夏, 三宅 悠介, 松本 亮介, __[ハンドメイド作品を対象としたECサイトにおける大量生産品の検出](https://speakerdeck.com/zaimy/detection-of-mass-produced-goods-at-ec-site-to-trade-handmade-goods)__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-zaimy.pdf), May 2018.
+1. 笠原 義晃, 松本 亮介, 近藤 宇智朗, 小田 知央, 嶋吉 隆夫, 金子晃介, 岡村 耕二, __[軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築](https://rand.pepabo.com/slides/iot40-proceeding-kasahara.pdf)__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(2), pp.1-8](http://id.nii.ac.jp/1001/00186152/), 2018年3月.
 1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, __[精緻に解析可能な恒常性のあるメール基盤の設計](https://speakerdeck.com/matsumoto_r/iot40-matsumotory)__,[ 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(17), pp.1-8](http://id.nii.ac.jp/1001/00186167/), 2018年3月.
 1. 近藤 宇智朗, 松本 亮介, 栗林 健太郎, __[Haconiwa: プログラムによる，組み立て可能性と拡張性を持つLinuxコンテナ](https://speakerdeck.com/udzura/haconiwa-puroguramuniyoruzu-mili-teke-neng-xing-tokuo-zhang-xing-wochi-tulinuxkontena)__, 情報処理学会第80回全国大会, 2D-04, 2018年3月.
 1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, __[高集積マルチテナントWebサーバの大規模証明書管理と実運用上の評価](https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls)__, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-39, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00183555/), 2017年9月.
@@ -174,6 +181,7 @@ layout: default
 
 ### 口頭発表（国外）
 
+1. Ryosuke Matsumoto, __[ Design pattern for embedding mruby into middleware]()__, [RubyKaigi 2018](http://rubykaigi.org/2018/), May 2018. (to appear)
 1. Ryosuke Matsumoto, __[The future of mruby in HTTP Server](https://speakerdeck.com/matsumoto_r/the-future-of-mruby-in-http-server-rubykaigi-2015)__, [RubyKaigi 2015](http://rubykaigi.org/2015), Dec 2015.
 1. Ryosuke Matsumoto, __[Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request](https://speakerdeck.com/matsumoto_r/rubykaigi-2014-mod-mruby-ngx-mruby)__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014.
 1. Ryosuke Matsumoto, Yasuo Okabe, __[Design and Implementation of Infrastructure Software for More Sophisticated Web Services](https://speakerdeck.com/matsumoto_r/mod-mruby-and-mod-process-security)__, The 35th IST seminar, 11 April 2013.
@@ -181,7 +189,10 @@ layout: default
 ***
 
 ### 口頭発表（国内）
-
+1. 松本亮介, __[キャリアキーノート](https://speakerdeck.com/matsumoto_r/matumotorisutairu)__, 新卒研修2018, 2018年5月. 
+1. 松本亮介, __[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa-1)__, [第2回Web System Architecture研究会＠福岡](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018年5月.
+1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](https://speakerdeck.com/matsumoto_r/websabafalsegao-ji-ji-marutitenantoakitekutiyaniguan-suruyan-jiu)__, GMOペパボ株式会社社内講義, 2018年3月.
+1. 松本亮介, __[なめらかなシステムを目指したペパボ研究所の取り組みと研究紹介](https://speakerdeck.com/matsumoto_r/namerakanasisutemuwomu-zhi-sitapepaboyan-jiu-suo-falsequ-rizu-mitoyan-jiu-shao-jie)__, 九州大学ペパボ研究所説明会, 2018年3月.
 1. 松本亮介, __[実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](http://hb.matsumoto-r.jp/entry/2017/12/25/102234)__, [第一回 Webシステムアーキテクチャ研究会](http://websystemarchitecture.hatenablog.jp/entry/2017/12/17/133301), 2017年12月.
 1. 松本亮介, __[第2部：福岡で活躍するエンジニア4名によるパネルディスカッション](https://sakura-kyushu.doorkeeper.jp/events/67315)__, [はてな×さくら「エンジニア大忘年会」](http://hatenanews.com/articles/2017/11/17/110000), 2017年12月.
 1. 松本亮介, __[200万ドメインのHTTPS化を見据えた大規模証明書管理アーキテクチャ](https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls)__, [2017年 CKP-QGPOP合同研究会](), 2017年12月.
