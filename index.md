@@ -128,8 +128,8 @@ layout: default
 ### 国内発表（査読無し論文）
 1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, 精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤, マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1, Jul 2018. (to appear)
 1. 栗林 健太郎, 三宅 悠介, 松本 亮介, なめらかなシステムを目指して, マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 4B-3, Jul 2018. (to appear)
-1. 松本 亮介, 中田 裕貴, 栗林 健太郎, 接続待ちソケット生成前のプロセスイメージを利用したWebサーバの汎用的な起動時間短縮手法, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. (to appear)
-1. 三宅悠介, 松本 亮介, Sanny: 大規模ECサイトのための精度と速度を両立した分散可能な近似近傍探索エンジン, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. (to appear)
+1. 松本 亮介, 中田 裕貴, 栗林 健太郎, __[HTTPリクエスト単位でインスタンスの再配置が可能な低コストで高速なスケジューリング手法](http://id.nii.ac.jp/1001/00190206/)__, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018.
+1. 三宅悠介, 松本 亮介, __[Sanny: 大規模ECサイトのための精度と速度を両立した分散可能な近似近傍探索エンジン](http://id.nii.ac.jp/1001/00190207/)__, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. 
 1. 松本 亮介, 田中 諒介, 栗林 健太郎, __[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa)__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-matsumotory.pdf), May 2018.
 1. 野村 孔命, 力武 健次, 松本 亮介, __[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-test)__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-komei.pdf), May 2018.
 1. 財津 大夏, 三宅 悠介, 松本 亮介, __[ハンドメイド作品を対象としたECサイトにおける大量生産品の検出](https://speakerdeck.com/zaimy/detection-of-mass-produced-goods-at-ec-site-to-trade-handmade-goods)__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-zaimy.pdf), May 2018.
