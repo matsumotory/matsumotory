@@ -181,7 +181,7 @@ layout: default
 
 ### 口頭発表（国外）
 
-1. Ryosuke Matsumoto, __[ Design pattern for embedding mruby into middleware]()__, [RubyKaigi 2018](http://rubykaigi.org/2018/), May 2018. (to appear)
+1. Ryosuke Matsumoto, __[ Design pattern for embedding mruby into middleware](https://speakerdeck.com/matsumoto_r/design-pattern-for-embedding-mruby-into-middleware)__, [RubyKaigi 2018](http://rubykaigi.org/2018/), May 2018.
 1. Ryosuke Matsumoto, __[The future of mruby in HTTP Server](https://speakerdeck.com/matsumoto_r/the-future-of-mruby-in-http-server-rubykaigi-2015)__, [RubyKaigi 2015](http://rubykaigi.org/2015), Dec 2015.
 1. Ryosuke Matsumoto, __[Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request](https://speakerdeck.com/matsumoto_r/rubykaigi-2014-mod-mruby-ngx-mruby)__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014.
 1. Ryosuke Matsumoto, Yasuo Okabe, __[Design and Implementation of Infrastructure Software for More Sophisticated Web Services](https://speakerdeck.com/matsumoto_r/mod-mruby-and-mod-process-security)__, The 35th IST seminar, 11 April 2013.
