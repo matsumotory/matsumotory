@@ -20,8 +20,12 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 
 ## 経歴
 - 2018年04月 一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ 講師
+- 2018年03月 情報処理学会 論文誌「レジリエントな情報システム構築によるインターネットと運用技術」特集 編集委員
 - 2018年03月 GMOペパボ株式会社 研究開発チーム チーフエンジニア 昇格
+- 2017年12月 情報処理学会 インターネットと運用技術シンポジウム（IOTS2017）プログラム委員
+- 2017年05月 情報処理学会 インターネットと運用技術研究会(IOT37）プログラム委員長
 - 2017年05月 京都大学博士(情報学) 授与
+- 2017年01月 情報処理学会 インターネットと運用技術研究会 運営委員 就任
 - 2016年07月 ペパボ研究所 主席研究員 就任
 - 2016年01月 GMOペパボ株式会社 技術基盤チーム シニア・プリンシパルエンジニア 昇格
 - 2015年04月 GMOペパボ株式会社 技術基盤チーム プリンシパルエンジニア入社
@@ -92,12 +96,12 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 
 ***
 
-### 博士学位論文 京都大学博士(情報学)
+### 博士学位論文 京都大学博士（情報学）
 1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](http://rand.pepabo.com/article/2017/05/24/doctor-matsumotory/)__, [2017年度 京都大学大学院情報学研究科 博士論文学位審査公聴会 2017年5月京都大学博士(情報学)学位取得](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/225954), 2017年.
 
 ***
 
-### 論文誌論文
+### 論文誌論文（ジャーナル）
 1. 松本亮介, 栗林 健太郎, 岡部寿男, __リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会論文誌, Vol.59, No.3, pp.1016-1025](http://id.nii.ac.jp/1001/00186749/), 2018年3月.
 1. 松本亮介, 栗林 健太郎, 岡部寿男, __招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術__, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.16-30](http://search.ieice.org/bin/summary.php?id=j101-b_1_16&category=B&year=2018&lang=J&abst=), 2018年1月.
 1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
@@ -124,8 +128,8 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 ### 国内発表（査読無し論文）
 1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング, 第17回情報科学技術フォーラム(FIT2018), Sep 2018. (to appear)
 1. 野村 孔命, 力武 健次, 松本 亮介, Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法, 第17回情報科学技術フォーラム(FIT2018), Sep 2018. (to appear)
-1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, 精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤, マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1, Jul 2018. (to appear)
-1. 栗林 健太郎, 三宅 悠介, 松本 亮介, なめらかなシステムを目指して, マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 4B-3, Jul 2018. (to appear)
+1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, __[精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://speakerdeck.com/matsumoto_r/jing-zhi-najie-xi-tozhi-yu-gake-neng-na-heng-chang-xing-falsearumeruji-pan)__, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1](http://tsys.jp/dicomo/2018/program/7C_abst.html), Jul 2018.
+1. 栗林 健太郎, 三宅 悠介, 松本 亮介, __[なめらかなシステムを目指して](https://speakerdeck.com/kentaro/toward-the-coherently-fittable-system)__, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 4B-3](http://tsys.jp/dicomo/2018/program/4B_abst.html), Jul 2018.
 1. 松本 亮介, 中田 裕貴, 栗林 健太郎, __[HTTPリクエスト単位でインスタンスの再配置が可能な低コストで高速なスケジューリング手法](http://id.nii.ac.jp/1001/00190206/)__, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018.
 1. 三宅 悠介, 松本 亮介, __[Sanny: 大規模ECサイトのための精度と速度を両立した分散可能な近似近傍探索エンジン](http://id.nii.ac.jp/1001/00190207/)__, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. 
 1. 松本 亮介, 田中 諒介, 栗林 健太郎, __[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa)__, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-matsumotory.pdf), May 2018.
@@ -187,6 +191,7 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 ***
 
 ### 口頭発表（国内）
+1. 松本 亮介, 小田 知央, 近藤 宇智朗, 笠原 義晃, 岡村 耕二, 嶋吉 隆夫, 金子 晃介, __[mrubyをプロダクションに投入する](https://speakerdeck.com/udzura/hosting-on-mruby)__, [2017年度Rubyアソシエーション開発助成金成果報告](https://www.ruby.or.jp/ja/news/20180501), 2018年7月.
 1. 松本亮介, __[キャリアキーノート](https://speakerdeck.com/matsumoto_r/matumotorisutairu)__, 新卒研修2018, 2018年5月. 
 1. 松本亮介, __[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa-1)__, [第2回Web System Architecture研究会＠福岡](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018年5月.
 1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](https://speakerdeck.com/matsumoto_r/websabafalsegao-ji-ji-marutitenantoakitekutiyaniguan-suruyan-jiu)__, GMOペパボ株式会社社内講義, 2018年3月.
