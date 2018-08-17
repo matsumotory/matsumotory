@@ -80,6 +80,7 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 
 ### 受賞(博士課程入学の2012年4月 ～）
 
+1. [__情報処理学会 研究会推薦博士論文速報2017__](http://www.ipsj.or.jp/magazine/hakase/), 松本亮介, [Studies on Highly Integrated Multi-Tenant Architecture for Web Servers](http://www.ipsj.or.jp/magazine/hakase/2017/IOT01.html), 2018年8月.
 1. [__はてなブログ大賞2017__](http://blog.hatenablog.com/entry/2017/12/26/150000), 松本亮介, [エンジニアリングや研究開発について思うこと](http://hb.matsumoto-r.jp/entry/2017/09/18/001913), 2017年12月.
 1. [__第8回 フクオカRuby大賞 奨励賞__](http://www.digitalfukuoka.jp/topics/76?locale=ja), 松本亮介, HTTPサーバを支えるmruby, 2016年2月.
 1. [__Ruby Prize 2015 候補者__](http://www.ruby.or.jp/ja/news/20150911.html), 松本亮介, 松本氏は昨年度のRubyPrizeファイナルノミネート後も精力的に mruby 組み込みの Web サーバーの開発を続けてます。今年はさらに HTTP/2 サーバーである h2o に mruby handler を組み込むなど、RubyPrize にふさわしい, 2015年9月.
@@ -103,16 +104,16 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 ***
 
 ### 論文誌論文（ジャーナル）
-1. 松本亮介, 栗林 健太郎, 岡部寿男, __リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会論文誌, Vol.59, No.3, pp.1016-1025](http://id.nii.ac.jp/1001/00186749/), 2018年3月.
-1. 松本亮介, 栗林 健太郎, 岡部寿男, __招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術__, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.16-30](http://search.ieice.org/bin/summary.php?id=j101-b_1_16&category=B&year=2018&lang=J&abst=), 2018年1月.
-1. 松本亮介, 岡部 寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
+1. 松本亮介, 栗林健太郎, 岡部寿男, __リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ__, [情報処理学会論文誌, Vol.59, No.3, pp.1016-1025](http://id.nii.ac.jp/1001/00186749/), 2018年3月.
+1. 松本亮介, 栗林健太郎, 岡部寿男, __招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術__, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.16-30](http://search.ieice.org/bin/summary.php?id=j101-b_1_16&category=B&year=2018&lang=J&abst=), 2018年1月.
+1. 松本亮介, 岡部寿男, __mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構__, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
 1. 松本亮介, 岡部寿男,__スレッド単位で権限分離を行うWebサーバのアクセス制御アーキテクチャ__,[電子情報通信学会論文誌 Vol.J96-B, No.10, pp.1122-1130](http://search.ieice.org/bin/index.php?category=B&lang=J&curr=1), Oct 2013.
 1. 松本亮介, 川原将司, 松岡輝夫, __大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善__, [情報処理学会論文誌, Vol.54, No.3, pp.1077-1086](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=91315&item_no=1&page_id=13&block_id=8), Mar. 2013.
 
 ***
 
 ### 国際会議論文（査読付）
-1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, __Large-scale Certificate Management on Multi-tenant Web Servers__, [The 6th IEEE International COMPSAC Workshop on Architecture, Design, Deployment and Management of Networks and Applications (ADMNET 2018)](https://ieeecompsac.computer.org/2018/admnet/), Jul 2018. (to appear)
+1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, __[Large-scale Certificate Management on Multi-tenant Web Servers](https://speakerdeck.com/matsumoto_r/large-scale-certificate-management-on-multi-tenant-web-servers)__, [The 6th IEEE International COMPSAC Workshop on Architecture, Design, Deployment and Management of Networks and Applications (ADMNET 2018)](https://ieeexplore.ieee.org/document/8377862/), July 2018.
 1. Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, __A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails__, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 1. Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, __Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network__, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013.
 1. Ryosuke Matsumoto, Yasuo Okabe, __Access Control Architecture Separating Privilege by a Thread on a Web Server__, The 12th IEEE/IPSJ International Symposium on Applications and the Internet (SAINT2012), pp.178-183, July 2012.
@@ -192,7 +193,8 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 ***
 
 ### 口頭発表（国内）
-1. 松本 亮介, 小田 知央, 近藤 宇智朗, 笠原 義晃, 岡村 耕二, 嶋吉 隆夫, 金子 晃介, __[mrubyをプロダクションに投入する](https://speakerdeck.com/udzura/hosting-on-mruby)__, [2017年度Rubyアソシエーション開発助成金成果報告](https://www.ruby.or.jp/ja/news/20180501), 2018年7月.
+1. 松本亮介, __[クラウド・ホスティングサービスのセキュリティと運用技術の研究](https://www.ipa.go.jp/jinzai/camp/2018/zenkoku2018_program_list.html#list_d2-b1)__, [セキュリティ・キャンプ全国大会2018](https://www.ipa.go.jp/jinzai/camp/2018/zenkoku2018_index.html), 2018年8月.
+1. 松本亮介, 小田 知央, 近藤 宇智朗, 笠原 義晃, 岡村 耕二, 嶋吉 隆夫, 金子 晃介, __[mrubyをプロダクションに投入する](https://speakerdeck.com/udzura/hosting-on-mruby)__, [2017年度Rubyアソシエーション開発助成金成果報告](https://www.ruby.or.jp/ja/news/20180501), 2018年7月.
 1. 松本亮介, __[キャリアキーノート](https://speakerdeck.com/matsumoto_r/matumotorisutairu)__, 新卒研修2018, 2018年5月. 
 1. 松本亮介, __[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa-1)__, [第2回Web System Architecture研究会＠福岡](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018年5月.
 1. 松本亮介, __[Webサーバの高集積マルチテナントアーキテクチャに関する研究](https://speakerdeck.com/matsumoto_r/websabafalsegao-ji-ji-marutitenantoakitekutiyaniguan-suruyan-jiu)__, GMOペパボ株式会社社内講義, 2018年3月.
