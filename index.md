@@ -194,6 +194,7 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 
 ### 口頭発表（国内）
 1. 松本亮介, __[クラウド・ホスティングサービスのセキュリティと運用技術の研究](https://www.ipa.go.jp/jinzai/camp/2018/zenkoku2018_program_list.html#list_d2-b1)__, [セキュリティ・キャンプ全国大会2018](https://www.ipa.go.jp/jinzai/camp/2018/zenkoku2018_index.html), 2018年8月.
+1. 松本亮介, __[ペパボ研究所の近況と今後の展望](https://speakerdeck.com/matsumoto_r/pepaboyan-jiu-suo-falsejin-kuang-tojin-hou-falsezhan-wang)__, ペパボテックフライデー#3, 2018年7月.
 1. 松本亮介, 小田 知央, 近藤 宇智朗, 笠原 義晃, 岡村 耕二, 嶋吉 隆夫, 金子 晃介, __[mrubyをプロダクションに投入する](https://speakerdeck.com/udzura/hosting-on-mruby)__, [2017年度Rubyアソシエーション開発助成金成果報告](https://www.ruby.or.jp/ja/news/20180501), 2018年7月.
 1. 松本亮介, __[キャリアキーノート](https://speakerdeck.com/matsumoto_r/matumotorisutairu)__, 新卒研修2018, 2018年5月. 
 1. 松本亮介, __[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa-1)__, [第2回Web System Architecture研究会＠福岡](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018年5月.
