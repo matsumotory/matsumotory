@@ -16,8 +16,11 @@ layout: default
 
 ## 所属
 - 2015年04月 〜
-  - [ペパボ研究所 主席研究員 / GMOペパボ株式会社 チーフエンジニア](https://rand.pepabo.com/)
-  - [株式会社grooves Forkwell 技術顧問](https://www.grooves.com/news/1598)
+  - [GMOペパボ株式会社 チーフエンジニア](https://rand.pepabo.com/)
+  - [ペパボ研究所 主席研究員](https://rand.pepabo.com/)
+  - [株式会社grooves Forkwell技術顧問](https://www.grooves.com/news/1598)
+  - [一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ講師](https://www.security-camp.or.jp/instructor/index.html)
+  - [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
 
 ## 経歴
 - 2018年08月 株式会社grooves Forkwell技術顧問 就任
