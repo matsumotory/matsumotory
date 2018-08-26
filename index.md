@@ -120,6 +120,15 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 
 ***
 
+### 口頭発表（国外）
+
+1. Ryosuke Matsumoto, __[ Design pattern for embedding mruby into middleware](https://speakerdeck.com/matsumoto_r/design-pattern-for-embedding-mruby-into-middleware)__, [RubyKaigi 2018](http://rubykaigi.org/2018/), May 2018.
+1. Ryosuke Matsumoto, __[The future of mruby in HTTP Server](https://speakerdeck.com/matsumoto_r/the-future-of-mruby-in-http-server-rubykaigi-2015)__, [RubyKaigi 2015](http://rubykaigi.org/2015), Dec 2015.
+1. Ryosuke Matsumoto, __[Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request](https://speakerdeck.com/matsumoto_r/rubykaigi-2014-mod-mruby-ngx-mruby)__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014.
+1. Ryosuke Matsumoto, Yasuo Okabe, __[Design and Implementation of Infrastructure Software for More Sophisticated Web Services](https://speakerdeck.com/matsumoto_r/mod-mruby-and-mod-process-security)__, The 35th IST seminar, 11 April 2013.
+
+***
+
 ### 国内発表（査読付論文）
 1. 松本亮介, 近藤宇智朗, 三宅悠介, 力武健次, 栗林健太郎, __[FastContainer: 実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-shi-xing-huan-jing-falsebian-hua-nisu-zao-kushi-ying-dekiruheng-chang-xing-wochi-tusisutemuakitekutiya)__, [インターネットと運用技術シンポジウム2017論文集，2017，89-97（2017-11-30）](http://id.nii.ac.jp/1001/00184613/), 2017年12月.
 1. 松本亮介, 岡部 寿男, __[mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構](https://speakerdeck.com/matsumoto_r/mod-mruby-sukuriputoyan-yu-degao-su-katusheng-memorinikuo-zhang-ke-neng-nawebsabafalseji-neng-kuo-zhang-zhi-yuan-ji-gou)__, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
@@ -180,15 +189,6 @@ GMOペパボ株式会社チーフエンジニア、ペパボ研究所主席研�
 1. 松本亮介, 小田知央, 近藤宇智朗, 笠原義晃, 岡村耕二, 嶋吉隆夫, 金子晃介, mrubyを利用した軽量コンテナクラウド基盤の研究開発を介したmrubyの大規模・高負荷テスト, [2017年度Ruby Association開発助成](http://www.ruby.or.jp/ja/news/20171206), 2017年10月.
 1. 松本亮介, 小田知央, 近藤宇智朗, 笠原義晃, 岡村耕二, 嶋吉隆夫, 金子晃介, 軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築, 国立情報学研究所 NIIクラウド実証実験, 2017年7月.
 
-
-***
-
-### 口頭発表（国外）
-
-1. Ryosuke Matsumoto, __[ Design pattern for embedding mruby into middleware](https://speakerdeck.com/matsumoto_r/design-pattern-for-embedding-mruby-into-middleware)__, [RubyKaigi 2018](http://rubykaigi.org/2018/), May 2018.
-1. Ryosuke Matsumoto, __[The future of mruby in HTTP Server](https://speakerdeck.com/matsumoto_r/the-future-of-mruby-in-http-server-rubykaigi-2015)__, [RubyKaigi 2015](http://rubykaigi.org/2015), Dec 2015.
-1. Ryosuke Matsumoto, __[Resource Control Architecture for a Web Server Separating Computer Resources Virtually at Each HTTP Request](https://speakerdeck.com/matsumoto_r/rubykaigi-2014-mod-mruby-ngx-mruby)__, [RubyKaigi 2014](http://rubykaigi.org/2014), Sep 2014.
-1. Ryosuke Matsumoto, Yasuo Okabe, __[Design and Implementation of Infrastructure Software for More Sophisticated Web Services](https://speakerdeck.com/matsumoto_r/mod-mruby-and-mod-process-security)__, The 35th IST seminar, 11 April 2013.
 
 ***
 
