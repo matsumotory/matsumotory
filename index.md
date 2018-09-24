@@ -85,6 +85,7 @@ layout: default
 
 ### 受賞(博士課程入学の2012年4月 ～）
 
+1. [__マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム優秀論文賞__](http://dicomo.org/commendation/), 松本 亮介, 小田 知央 (GMOペパボ), 笠原 義晃, 嶋吉 隆夫, 金子 晃介 (九大), 栗林 健太郎 (GMOペパボ), 岡村 耕二 (九大), [精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://rand.pepabo.com/article/2018/07/25/dicomo2018/), 2018年9月.
 1. [__情報処理学会 研究会推薦博士論文速報2017__](http://www.ipsj.or.jp/magazine/hakase/), 松本亮介, [Studies on Highly Integrated Multi-Tenant Architecture for Web Servers](http://www.ipsj.or.jp/magazine/hakase/2017/IOT01.html), 2018年8月.
 1. [__はてなブログ大賞2017__](http://blog.hatenablog.com/entry/2017/12/26/150000), 松本亮介, [エンジニアリングや研究開発について思うこと](http://hb.matsumoto-r.jp/entry/2017/09/18/001913), 2017年12月.
 1. [__第8回 フクオカRuby大賞 奨励賞__](http://www.digitalfukuoka.jp/topics/76?locale=ja), 松本亮介, HTTPサーバを支えるmruby, 2016年2月.
@@ -142,8 +143,8 @@ layout: default
 ***
 
 ### 国内発表（査読無し論文）
-1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング, 第17回情報科学技術フォーラム(FIT2018), Sep 2018. (to appear)
-1. 野村 孔命, 力武 健次, 松本 亮介, Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法, 第17回情報科学技術フォーラム(FIT2018), Sep 2018. (to appear)
+1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング, 第17回情報科学技術フォーラム(FIT2018), Sep 2018.
+1. 野村 孔命, 力武 健次, 松本 亮介, Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法, 第17回情報科学技術フォーラム(FIT2018), Sep 2018.
 1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, __[精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://speakerdeck.com/matsumoto_r/jing-zhi-najie-xi-tozhi-yu-gake-neng-na-heng-chang-xing-falsearumeruji-pan)__, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1](http://tsys.jp/dicomo/2018/program/7C_abst.html), Jul 2018.
 1. 栗林 健太郎, 三宅 悠介, 松本 亮介, __[なめらかなシステムを目指して](https://speakerdeck.com/kentaro/toward-the-coherently-fittable-system)__, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 4B-3](http://tsys.jp/dicomo/2018/program/4B_abst.html), Jul 2018.
 1. 松本 亮介, 中田 裕貴, 栗林 健太郎, __[HTTPリクエスト単位でインスタンスの再配置が可能な低コストで高速なスケジューリング手法](http://id.nii.ac.jp/1001/00190206/)__, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018.
