@@ -173,6 +173,7 @@ layout: default
 
 ### 学会誌・商業誌等解説
 
+1. 松本亮介, **[自分の経験を言語化すると、周りの人に良い影響を与える　松本亮介様〜（Forkwell Portfolio スペシャルインタビュー）](https://press.forkwell.com/entry/2018/08/21/090000)**, [forkwell press エンジニアの生き方をウォッチするメディア](https://press.forkwell.com/), 2018年8月.
 1. 松本亮介, **[企業におけるエンジニアリングと研究開発](https://geek-out.jp/column/entry/2017/12/28/110000)**, [エンジニア向け求人フィード型転職サイトGeekOut](https://geek-out.jp/), 2017年12月.
 1. 松本亮介, **[100号記念選書 TOPエンジニアを支える1冊 超豪華23名！](http://gihyo.jp/magazine/wdpress/archive/2017/vol100)**, [WEB+DB PRESS Vol.100, pp.2-7, 技術評論社](http://gihyo.jp/magazine/wdpress/archive/2017/vol100), 2017年8月24日.
 1. 松本亮介, **[エンジニアのためのAI入門 第2部 事例編：AI最前線の現場から ～業界別AIへの取り組み GMOペパボ AIでWebシステムを自律制御する「なめらかなシステム」の取り組み](http://book.impress.co.jp/books/1116101165)**, インプレス Think IT 編集部, 2017年7月.
@@ -199,6 +200,8 @@ layout: default
 ***
 
 ### 口頭発表（国内）
+1. 松本亮介, **[EFCサポーターとしてコメント]()**, [エンジニア フレンドリーシティ 福岡 #1「Kickoff！」](https://efc.connpass.com/event/97810/), 2018年8月.
+1. 松本亮介, **[トークセッション「エンジニアと共に創る都市」]()**, [エンジニア フレンドリーシティ 福岡 #1「Kickoff！」](https://efc.connpass.com/event/97810/), 2018年8月.
 1. 松本亮介, **[クラウド・ホスティングサービスのセキュリティと運用技術の研究](https://www.ipa.go.jp/jinzai/camp/2018/zenkoku2018_program_list.html#list_d2-b1)**, [セキュリティ・キャンプ全国大会2018](https://www.ipa.go.jp/jinzai/camp/2018/zenkoku2018_index.html), 2018年8月.
 1. 松本亮介, **[ペパボ研究所の近況と今後の展望](https://speakerdeck.com/matsumoto_r/pepaboyan-jiu-suo-falsejin-kuang-tojin-hou-falsezhan-wang)**, ペパボテックフライデー#3, 2018年7月.
 1. 松本亮介, 小田 知央, 近藤 宇智朗, 笠原 義晃, 岡村 耕二, 嶋吉 隆夫, 金子 晃介, **[mrubyをプロダクションに投入する](https://speakerdeck.com/udzura/hosting-on-mruby)**, [2017年度Rubyアソシエーション開発助成金成果報告](https://www.ruby.or.jp/ja/news/20180501), 2018年7月.
