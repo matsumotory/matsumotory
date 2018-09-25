@@ -144,8 +144,8 @@ layout: default
 ***
 
 ### 国内発表（査読無し論文）
-1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング, 第17回情報科学技術フォーラム(FIT2018), Sep 2018.
-1. 野村 孔命, 力武 健次, 松本 亮介, Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法, 第17回情報科学技術フォーラム(FIT2018), Sep 2018.
+1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, **[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction-fit2018)**, [第17回情報科学技術フォーラム(FIT2018)](https://rand.pepabo.com/papers/fit2018-miyakey.pdf), Sep 2018.
+1. 野村 孔命, 力武 健次, 松本 亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa)**, [第17回情報科学技術フォーラム(FIT2018)](https://rand.pepabo.com/papers/fit2018-komei.pdf), Sep 2018.
 1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, **[精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://speakerdeck.com/matsumoto_r/jing-zhi-najie-xi-tozhi-yu-gake-neng-na-heng-chang-xing-falsearumeruji-pan)**, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1](http://tsys.jp/dicomo/2018/program/7C_abst.html), Jul 2018.
 1. 栗林 健太郎, 三宅 悠介, 松本 亮介, **[なめらかなシステムを目指して](https://speakerdeck.com/kentaro/toward-the-coherently-fittable-system)**, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 4B-3](http://tsys.jp/dicomo/2018/program/4B_abst.html), Jul 2018.
 1. 松本 亮介, 中田 裕貴, 栗林 健太郎, **[HTTPリクエスト単位でインスタンスの再配置が可能な低コストで高速なスケジューリング手法](http://id.nii.ac.jp/1001/00190206/)**, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018.
