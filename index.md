@@ -84,7 +84,7 @@ layout: default
 
 ## 論文・発表・受賞歴
 
-### 受賞(博士課程入学の2012年4月 ～）
+### 受賞
 
 1. [**マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム優秀論文賞**](http://dicomo.org/commendation/), 松本 亮介, 小田 知央 (GMOペパボ), 笠原 義晃, 嶋吉 隆夫, 金子 晃介 (九大), 栗林 健太郎 (GMOペパボ), 岡村 耕二 (九大), [精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://rand.pepabo.com/article/2018/07/25/dicomo2018/), 2018年9月.
 1. [**情報処理学会 研究会推薦博士論文速報2017**](http://www.ipsj.or.jp/magazine/hakase/), 松本亮介, [Studies on Highly Integrated Multi-Tenant Architecture for Web Servers](http://www.ipsj.or.jp/magazine/hakase/2017/IOT01.html), 2018年8月.
