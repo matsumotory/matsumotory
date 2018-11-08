@@ -182,6 +182,7 @@ layout: default
 
 ### 学会誌・商業誌等解説
 
+1. 松本亮介, **[なぜエンジニアはアウトプットすべきなのか？ 発信が自身のキャリアにもたらすもの](https://logmi.jp/tech/articles/319013), [ログミーTech](https://logmi.jp/tech), 2018年11月.
 1. 松本亮介, **[自分の経験を言語化すると、周りの人に良い影響を与える　松本亮介様〜（Forkwell Portfolio スペシャルインタビュー）](https://press.forkwell.com/entry/2018/08/21/090000)**, [forkwell press エンジニアの生き方をウォッチするメディア](https://press.forkwell.com/), 2018年8月.
 1. 松本亮介, **[企業におけるエンジニアリングと研究開発](https://geek-out.jp/column/entry/2017/12/28/110000)**, [エンジニア向け求人フィード型転職サイトGeekOut](https://geek-out.jp/), 2017年12月.
 1. 松本亮介, **[100号記念選書 TOPエンジニアを支える1冊 超豪華23名！](http://gihyo.jp/magazine/wdpress/archive/2017/vol100)**, [WEB+DB PRESS Vol.100, pp.2-7, 技術評論社](http://gihyo.jp/magazine/wdpress/archive/2017/vol100), 2017年8月24日.
