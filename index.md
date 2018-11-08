@@ -209,6 +209,9 @@ layout: default
 ***
 
 ### 口頭発表（国内）
+1. 松本亮介, **[インフラエンジニアとしてのわたしの研究開発とこれから注目のコンテナ技術](https://speakerdeck.com/matsumoto_r/inhuraenziniatositefalsewatasifalseyan-jiu-kai-fa-tokorekarazhu-mu-falsekontenaji-shu)**, [福岡ゆるっとIT交流会 vol.8「インフラエンジニアの話を聞こう」](https://yurutto-it.connpass.com/event/103262/), 2018年11月.
+1. 松本亮介, **[プログラミング・インフラ トークセッション]()**, [MANABIYA #2 - teratail developer days -](https://manabiya2.peatix.com/), 2018年10月.
+1. 松本亮介, **[なぜポートフォリオが必要なのか エンジニアと人事（評価・採用）両方向の視点から](https://speakerdeck.com/matsumoto_r/nazepotohuoriogabi-yao-nafalseka-enziniatoren-shi-ping-jia-cai-yong-liang-fang-xiang-falseshi-dian-kara)**, [【エンジニアのキャリアアップを語る】日々のアウトプットが変える！あなたのエンジニア・ライフ](https://forkwell.connpass.com/event/102045/), 2018年10月.
 1. 松本亮介, **[EFCサポーターとしてコメント]()**, [エンジニア フレンドリーシティ 福岡 #1「Kickoff！」](https://efc.connpass.com/event/97810/), 2018年8月.
 1. 松本亮介, **[トークセッション「エンジニアと共に創る都市」]()**, [エンジニア フレンドリーシティ 福岡 #1「Kickoff！」](https://efc.connpass.com/event/97810/), 2018年8月.
 1. 松本亮介, **[クラウド・ホスティングサービスのセキュリティと運用技術の研究](https://www.ipa.go.jp/jinzai/camp/2018/zenkoku2018_program_list.html#list_d2-b1)**, [セキュリティ・キャンプ全国大会2018](https://www.ipa.go.jp/jinzai/camp/2018/zenkoku2018_index.html), 2018年8月.
