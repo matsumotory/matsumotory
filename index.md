@@ -143,6 +143,8 @@ layout: default
 ***
 
 ### 国内発表（査読付論文）
+1. 野村 孔命, 阿部 博, 菅野 哲, 力武 健次, 松本 亮介, Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), Dec 2018. (to appear)
+1. 坪内 佑樹, 脇坂 朝人, 濱田 健, 松木 雅幸, 阿部 博, 松本 亮介, HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), Dec 2018. (to appear)
 1. 松本亮介, 近藤宇智朗, 三宅悠介, 力武健次, 栗林健太郎, **[FastContainer: 実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-shi-xing-huan-jing-falsebian-hua-nisu-zao-kushi-ying-dekiruheng-chang-xing-wochi-tusisutemuakitekutiya)**, [インターネットと運用技術シンポジウム2017論文集，2017，89-97（2017-11-30）](http://id.nii.ac.jp/1001/00184613/), 2017年12月.
 1. 松本亮介, 岡部 寿男, **[mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構](https://speakerdeck.com/matsumoto_r/mod-mruby-sukuriputoyan-yu-degao-su-katusheng-memorinikuo-zhang-ke-neng-nawebsabafalseji-neng-kuo-zhang-zhi-yuan-ji-gou)**, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
 1. 松本亮介, 川原将司, 松岡輝夫, **汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善**, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月.
