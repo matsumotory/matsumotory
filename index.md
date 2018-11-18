@@ -210,6 +210,7 @@ layout: default
 ***
 
 ### 口頭発表（国内）
+1. 松本亮介, **[FastContainerをメール基盤へ適用 - 精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://hb.matsumoto-r.jp/entry/2018/11/18/125024)**, [第3回Web System Architecture研究会＠東京](https://websystemarchitecture.hatenablog.jp/entry/2018/10/09/231937), 2018年11月.
 1. 松本亮介, **[インフラエンジニアとしてのわたしの研究開発とこれから注目のコンテナ技術](https://speakerdeck.com/matsumoto_r/inhuraenziniatositefalsewatasifalseyan-jiu-kai-fa-tokorekarazhu-mu-falsekontenaji-shu)**, [福岡ゆるっとIT交流会 vol.8「インフラエンジニアの話を聞こう」](https://yurutto-it.connpass.com/event/103262/), 2018年11月.
 1. 松本亮介, **[プログラミング・インフラ トークセッション]()**, [MANABIYA #2 - teratail developer days -](https://manabiya2.peatix.com/), 2018年10月.
 1. 松本亮介, **[なぜポートフォリオが必要なのか エンジニアと人事（評価・採用）両方向の視点から](https://speakerdeck.com/matsumoto_r/nazepotohuoriogabi-yao-nafalseka-enziniatoren-shi-ping-jia-cai-yong-liang-fang-xiang-falseshi-dian-kara)**, [【エンジニアのキャリアアップを語る】日々のアウトプットが変える！あなたのエンジニア・ライフ](https://forkwell.connpass.com/event/102045/), 2018年10月.
