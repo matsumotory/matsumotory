@@ -58,7 +58,7 @@ layout: default
 
 ## 連絡先
 - 仕事
-  - E-mail: mats1229 (at) gmail.com
+  - E-mail: matsu1229 (at) gmail.com
 - 研究関連
   - E-mail: matsumoto.ryosuke.s10 (at) kyoto-u.jp
 - SNS
