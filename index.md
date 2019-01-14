@@ -143,33 +143,33 @@ layout: default
 ***
 
 ### 国内発表（査読付論文）
-1. 野村 孔命, 阿部 博, 菅野 哲, 力武 健次, 松本 亮介, Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), Dec 2018. (to appear)
-1. 坪内 佑樹, 脇坂 朝人, 濱田 健, 松木 雅幸, 阿部 博, 松本 亮介, HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), Dec 2018. (to appear)
+1. 野村孔命, 阿部博, 菅野哲, 力武健次, 松本亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa-103e492b-c523-4fb2-97c2-eae0ad55c74e)**, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), [インターネットと運用技術シンポジウム2018論文集，2018，106-113 (2018-11-29)](http://id.nii.ac.jp/1001/00192589/)，2018年12月.
+1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, **[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)**, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), [インターネットと運用技術シンポジウム2018論文集，2018，7-15 (2018-11-29)](http://id.nii.ac.jp/1001/00192569/)，2018年12月.
 1. 松本亮介, 近藤宇智朗, 三宅悠介, 力武健次, 栗林健太郎, **[FastContainer: 実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-shi-xing-huan-jing-falsebian-hua-nisu-zao-kushi-ying-dekiruheng-chang-xing-wochi-tusisutemuakitekutiya)**, [インターネットと運用技術シンポジウム2017論文集，2017，89-97（2017-11-30）](http://id.nii.ac.jp/1001/00184613/), 2017年12月.
 1. 松本亮介, 岡部 寿男, **[mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構](https://speakerdeck.com/matsumoto_r/mod-mruby-sukuriputoyan-yu-degao-su-katusheng-memorinikuo-zhang-ke-neng-nawebsabafalseji-neng-kuo-zhang-zhi-yuan-ji-gou)**, [インターネットと運用技術シンポジウム2013論文集，2013，79-86（2013-12-5）](http://id.nii.ac.jp/1001/00096443/), 2013年12月.
-1. 松本亮介, 川原将司, 松岡輝夫, **汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善**, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月.
+1. 松本亮介, 川原将司, 松岡輝夫, **[汎用性の高い大規模共有型Webバーチャルホスティング基盤のセキュリティと運用技術の改善](https://www.slideshare.net/matsumoto_r/web-12240461)**, [インターネットと運用技術シンポジウム2011論文集,2011,31-38 (2011-11-24) ](http://id.nii.ac.jp/1001/00078710/), 2011年12月.
 
 ***
 
 ### 国内発表（査読無し論文）
-1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, **[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction-fit2018)**, [第17回情報科学技術フォーラム(FIT2018)](https://rand.pepabo.com/papers/fit2018-miyakey.pdf), Sep 2018.
-1. 野村 孔命, 力武 健次, 松本 亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa)**, [第17回情報科学技術フォーラム(FIT2018)](https://rand.pepabo.com/papers/fit2018-komei.pdf), Sep 2018.
-1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, **[精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://speakerdeck.com/matsumoto_r/jing-zhi-najie-xi-tozhi-yu-gake-neng-na-heng-chang-xing-falsearumeruji-pan)**, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1](http://tsys.jp/dicomo/2018/program/7C_abst.html), Jul 2018.
-1. 栗林 健太郎, 三宅 悠介, 松本 亮介, **[なめらかなシステムを目指して](https://speakerdeck.com/kentaro/toward-the-coherently-fittable-system)**, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 4B-3](http://tsys.jp/dicomo/2018/program/4B_abst.html), Jul 2018.
-1. 松本 亮介, 中田 裕貴, 栗林 健太郎, **[HTTPリクエスト単位でインスタンスの再配置が可能な低コストで高速なスケジューリング手法](http://id.nii.ac.jp/1001/00190206/)**, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018.
-1. 三宅 悠介, 松本 亮介, **[Sanny: 大規模ECサイトのための精度と速度を両立した分散可能な近似近傍探索エンジン](http://id.nii.ac.jp/1001/00190207/)**, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. 
-1. 松本 亮介, 田中 諒介, 栗林 健太郎, **[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa)**, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-matsumotory.pdf), May 2018.
-1. 野村 孔命, 力武 健次, 松本 亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-test)**, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-komei.pdf), May 2018.
-1. 財津 大夏, 三宅 悠介, 松本 亮介, **[ハンドメイド作品を対象としたECサイトにおける大量生産品の検出](https://speakerdeck.com/zaimy/detection-of-mass-produced-goods-at-ec-site-to-trade-handmade-goods)**, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-zaimy.pdf), May 2018.
-1. 笠原 義晃, 松本 亮介, 近藤 宇智朗, 小田 知央, 嶋吉 隆夫, 金子晃介, 岡村 耕二, **[軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築](https://rand.pepabo.com/slides/iot40-proceeding-kasahara.pdf)**, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(2), pp.1-8](http://id.nii.ac.jp/1001/00186152/), 2018年3月.
-1. 松本 亮介, 小田 知央, 笠原 義晃, 嶋吉 隆夫, 金子晃介, 栗林 健太郎, 岡村 耕二, **[精緻に解析可能な恒常性のあるメール基盤の設計](https://speakerdeck.com/matsumoto_r/iot40-matsumotory)**,[ 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(17), pp.1-8](http://id.nii.ac.jp/1001/00186167/), 2018年3月.
-1. 近藤 宇智朗, 松本 亮介, 栗林 健太郎, **[Haconiwa: プログラムによる，組み立て可能性と拡張性を持つLinuxコンテナ](https://speakerdeck.com/udzura/haconiwa-puroguramuniyoruzu-mili-teke-neng-xing-tokuo-zhang-xing-wochi-tulinuxkontena)**, 情報処理学会第80回全国大会, 2D-04, 2018年3月.
-1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, **[高集積マルチテナントWebサーバの大規模証明書管理と実運用上の評価](https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls)**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-39, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00183555/), 2017年9月.
-1. 松本亮介, 近藤 宇智朗, 三宅 悠介, 力武 健次, 栗林 健太郎, **[FastContainer: Webアプリケーションコンテナの起動をリアクティブに決定するコンテナ管理アーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-at-iot38)**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00182376/), 2017年6月.
-1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, **[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction)**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.13, pp.1-8](http://id.nii.ac.jp/1001/00182375/), 2017年6月.
-1. 松本亮介, 三宅 悠介, 力武 健次, 栗林 健太郎, **[高集積マルチテナントWebサーバの大規模証明書管理](https://speakerdeck.com/matsumoto_r/large-scale-certificate-management-on-highly-integrated-multi-tenant-web-servers)**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178889/), 2017年5月.
-1. 三宅 悠介, 松本 亮介, 力武 健次, 栗林 健太郎, **[特徴抽出器の学習と購買履歴を必要としない類似画像による関連商品検索システム]()**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178892/), 2017年5月.
-1. 松本亮介, 田平 康朗, 山下 和彦, 栗林 健太郎, **[特徴量抽出と変化点検出に基づくWebサーバの高集積マルチテナント方式におけるリソースの自律制御アーキテクチャ]()**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-36(26), 1-8](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=177815&item_no=1&page_id=13&block_id=8), 2017年2月.
+1. 三宅悠介, 松本亮介, 力武健次, 栗林健太郎, **[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction-fit2018)**, [第17回情報科学技術フォーラム(FIT2018)](https://rand.pepabo.com/papers/fit2018-miyakey.pdf), Sep 2018.
+1. 野村孔命, 力武健次, 松本亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa)**, [第17回情報科学技術フォーラム(FIT2018)](https://rand.pepabo.com/papers/fit2018-komei.pdf), Sep 2018.
+1. 松本亮介, 小田知央, 笠原義晃, 嶋吉隆夫, 金子晃介, 栗林健太郎, 岡村耕二, **[精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://speakerdeck.com/matsumoto_r/jing-zhi-najie-xi-tozhi-yu-gake-neng-na-heng-chang-xing-falsearumeruji-pan)**, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1](http://tsys.jp/dicomo/2018/program/7C_abst.html), Jul 2018.
+1. 栗林健太郎, 三宅悠介, 松本亮介, **[なめらかなシステムを目指して](https://speakerdeck.com/kentaro/toward-the-coherently-fittable-system)**, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 4B-3](http://tsys.jp/dicomo/2018/program/4B_abst.html), Jul 2018.
+1. 松本亮介, 中田裕貴, 栗林健太郎, **[HTTPリクエスト単位でインスタンスの再配置が可能な低コストで高速なスケジューリング手法](http://id.nii.ac.jp/1001/00190206/)**, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018.
+1. 三宅悠介, 松本亮介, **[Sanny: 大規模ECサイトのための精度と速度を両立した分散可能な近似近傍探索エンジン](http://id.nii.ac.jp/1001/00190207/)**, 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-42, pp.1-8, Jun 2018. 
+1. 松本亮介, 田中諒介, 栗林健太郎, **[HTTPリクエスト単位でコンテナを再配置する仮想化基盤の高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/httprikuesutodan-wei-dekontenawozai-pei-zhi-surujia-xiang-hua-ji-pan-falsegao-su-nasukeziyuringushou-fa)**, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-matsumotory.pdf), May 2018.
+1. 野村孔命, 力武健次, 松本亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-test)**, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-komei.pdf), May 2018.
+1. 財津大夏, 三宅悠介, 松本亮介, **[ハンドメイド作品を対象としたECサイトにおける大量生産品の検出](https://speakerdeck.com/zaimy/detection-of-mass-produced-goods-at-ec-site-to-trade-handmade-goods)**, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-41, pp.1-8](https://rand.pepabo.com/papers/iot41-proceeding-zaimy.pdf), May 2018.
+1. 笠原義晃, 松本亮介, 近藤宇智朗, 小田知央, 嶋吉隆夫, 金子晃介, 岡村耕二, **[軽量コンテナに基づく柔軟なホスティング・クラウド基盤の研究開発と大規模・高負荷テスト環境の構築](https://rand.pepabo.com/slides/iot40-proceeding-kasahara.pdf)**, [研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(2), pp.1-8](http://id.nii.ac.jp/1001/00186152/), 2018年3月.
+1. 松本亮介, 小田知央, 笠原義晃, 嶋吉隆夫, 金子晃介, 栗林健太郎, 岡村耕二, **[精緻に解析可能な恒常性のあるメール基盤の設計](https://speakerdeck.com/matsumoto_r/iot40-matsumotory)**,[ 研究報告インターネットと運用技術（IOT）, Vol.2018-IOT-40(17), pp.1-8](http://id.nii.ac.jp/1001/00186167/), 2018年3月.
+1. 近藤宇智朗, 松本 亮介, 栗林健太郎, **[Haconiwa: プログラムによる，組み立て可能性と拡張性を持つLinuxコンテナ](https://speakerdeck.com/udzura/haconiwa-puroguramuniyoruzu-mili-teke-neng-xing-tokuo-zhang-xing-wochi-tulinuxkontena)**, 情報処理学会第80回全国大会, 2D-04, 2018年3月.
+1. 松本亮介, 三宅悠介, 力武健次, 栗林健太郎, **[高集積マルチテナントWebサーバの大規模証明書管理と実運用上の評価](https://speakerdeck.com/matsumoto_r/ckp-qgpop-2milions-tls)**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-39, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00183555/), 2017年9月.
+1. 松本亮介, 近藤宇智朗, 三宅悠介, 力武健次, 栗林健太郎, **[FastContainer: Webアプリケーションコンテナの起動をリアクティブに決定するコンテナ管理アーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-at-iot38)**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.14, pp.1-8](http://id.nii.ac.jp/1001/00182376/), 2017年6月.
+1. 三宅 悠介, 松本亮介, 力武健次, 栗林健太郎, **[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction)**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-38, Vol.13, pp.1-8](http://id.nii.ac.jp/1001/00182375/), 2017年6月.
+1. 松本亮介, 三宅悠介, 力武健次, 栗林健太郎, **[高集積マルチテナントWebサーバの大規模証明書管理](https://speakerdeck.com/matsumoto_r/large-scale-certificate-management-on-highly-integrated-multi-tenant-web-servers)**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178889/), 2017年5月.
+1. 三宅 悠介, 松本亮介, 力武健次, 栗林健太郎, **[特徴抽出器の学習と購買履歴を必要としない類似画像による関連商品検索システム]()**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-37(1), 1-8](http://id.nii.ac.jp/1001/00178892/), 2017年5月.
+1. 松本亮介, 田平康朗, 山下和彦, 栗林健太郎, **[特徴量抽出と変化点検出に基づくWebサーバの高集積マルチテナント方式におけるリソースの自律制御アーキテクチャ]()**, [情報処理学会研究報告インターネットと運用技術（IOT）,2017-IOT-36(26), 1-8](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=177815&item_no=1&page_id=13&block_id=8), 2017年2月.
 1. 松本亮介, 栗林健太郎, **[特徴量抽出と変化点検出に基づくWebサーバリソースの自律制御アーキテクチャ](http://id.nii.ac.jp/1001/00176067/)**, [インターネットと運用技術シンポジウム2016論文集（IOTS2016）](http://www.iot.ipsj.or.jp/iots/2016), Vol.2016, pp.101,  2016年12月.
 1. 宮下剛輔・栗林健太郎・松本亮介，**serverspec: 宣言的記述でサーバの状態をテスト可能な汎用性の高いテストフレームワーク**, [情報処理学会研究報告インターネットと運用技術（IOT）, 2014-IOT-24(15), 1-6](http://id.nii.ac.jp/1001/00098598/), 2014年2月.
 1. 津﨑善晴・松本亮介・小谷大祐・宮崎修一・岡部寿男, **同一の送受信アドレスを持つ大量メールの効率的判定手法**, [信学技報, vol. 113, no. 443, IA2013-86, pp. 43-48](http://www.ieice.org/ken/paper/20140227jBKQ/), 2014年2月.
@@ -182,6 +182,7 @@ layout: default
 
 ### 学会誌・商業誌等解説
 
+1. 松本亮介, **[MANABIYA2 インフラXプログラミング](https://youtu.be/z1-Rw0Uj7As)**, [MANABIYA #2](https://teratail.connpass.com/event/99529/), 2019年1月.
 1. 松本亮介, **[なぜエンジニアはアウトプットすべきなのか？ 発信が自身のキャリアにもたらすもの](https://logmi.jp/tech/articles/319013)**, [ログミーTech](https://logmi.jp/tech), 2018年11月.
 1. 松本亮介, **[自分の経験を言語化すると、周りの人に良い影響を与える　松本亮介様〜（Forkwell Portfolio スペシャルインタビュー）](https://press.forkwell.com/entry/2018/08/21/090000)**, [forkwell press エンジニアの生き方をウォッチするメディア](https://press.forkwell.com/), 2018年8月.
 1. 松本亮介, **[企業におけるエンジニアリングと研究開発](https://geek-out.jp/column/entry/2017/12/28/110000)**, [エンジニア向け求人フィード型転職サイトGeekOut](https://geek-out.jp/), 2017年12月.
@@ -210,6 +211,8 @@ layout: default
 ***
 
 ### 口頭発表（国内）
+
+1. 松本亮介, **[まつもとりーのこれまでの研究開発と振り返り（2018年版）](https://speakerdeck.com/matsumoto_r/matumotorifalsekoremadefalseyan-jiu-kai-fa-tozhen-rifan-ri-2018nian-ban)**, [さくらインターネット研究所 研究会 2018/12/10](), 2018年12月.
 1. 松本亮介, **[FastContainerをメール基盤へ適用 - 精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://hb.matsumoto-r.jp/entry/2018/11/18/125024)**, [第3回Web System Architecture研究会＠東京](https://websystemarchitecture.hatenablog.jp/entry/2018/10/09/231937), 2018年11月.
 1. 松本亮介, **[インフラエンジニアとしてのわたしの研究開発とこれから注目のコンテナ技術](https://speakerdeck.com/matsumoto_r/inhuraenziniatositefalsewatasifalseyan-jiu-kai-fa-tokorekarazhu-mu-falsekontenaji-shu)**, [福岡ゆるっとIT交流会 vol.8「インフラエンジニアの話を聞こう」](https://yurutto-it.connpass.com/event/103262/), 2018年11月.
 1. 松本亮介, **[プログラミング・インフラ トークセッション]()**, [MANABIYA #2 - teratail developer days -](https://manabiya2.peatix.com/), 2018年10月.
