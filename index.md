@@ -293,19 +293,3 @@ layout: default
 - 松本亮介, **トラフィック特徴量の時系列データにおける相関特性を用いた変化点からの異常検出**, [平成19年度 後期雑誌会](https://speakerdeck.com/matsumoto_r/torahuitukute-zheng-liang-falseshi-xi-lie-detaniokeruxiang-guan-te-xing-woyong-itabian-hua-dian-karafalseyi-chang-jian-chu).
 - 松本亮介, **統計的手法による時系列からの外れ値と変化点の検出について**, [平成19年度 前期雑誌会](http://blog.matsumoto-r.jp/?p=54).
 
-***
-
-## 賞状・その他記念
-
-IOTS2013 優秀論文賞|第9回 日本OSS奨励賞|Ruby Prize 2014 最終ノミネート
--------------------|-------------------|----------------------------
-[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/iots2014_best_paper.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/iots2014_best_paper.png)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/9thjapanossaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/9thjapanossaward.png)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/RubyPrize2014FinalNominee.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/RubyPrize2014FinalNominee.png)
-
-第6回 フクオカRuby大賞 優秀賞|
------------------------------|
-[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/6thfukuokarubyaward.png)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/6thfukuokarubyaward.png)|
-
-2014年度 情報処理学会 山下記念研究賞|京都大学博士（情報学）証明書|第7回 フクオカRuby大賞 企業賞
--------------------|-------------------|----------------------------
-[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/yamashita.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/yamashita.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/doctor-cert.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/doctor-cert.jpg)|[![](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/small_images/fukuoka-iij-award.jpg)](https://raw.githubusercontent.com/matsumotory/matsumotory/master/images/large_images/fukuoka-iij-award.jpg)
-
