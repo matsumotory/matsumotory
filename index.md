@@ -130,6 +130,9 @@ layout: default
 ***
 
 ### 国際会議論文（査読付）
+1. Ryosuke Matsumoto, Uchio Kondo, Kentaro Kuribayashi, FastContainer: A Homeostatic System Architecture High-speed Adapting Execution Environment Changes, The 43rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2019), July 2019. (to appear)
+1. Yuuki Tsubouchi, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores, The 43rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2019), July 2019. (to appear)
+1. Komei Nomura, Kenji Rikitake, Ryosuke Matsumoto, Automatic Whitelist Generation for SQL Queries Using Web Application Tests, The 9th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2019), July 2019. (to appear)
 1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, **[Large-scale Certificate Management on Multi-tenant Web Servers](https://speakerdeck.com/matsumoto_r/large-scale-certificate-management-on-multi-tenant-web-servers)**, [The 6th IEEE International COMPSAC Workshop on Architecture, Design, Deployment and Management of Networks and Applications (ADMNET 2018)](https://ieeexplore.ieee.org/document/8377862/), July 2018.
 1. Yoshiharu Tsuzaki, Ryosuke Matsumoto, Daisuke Kotani, Shuichi Miyazaki, Yasuo Okabe, **A Mail Transfer System Selectively Restricting a Huge Amoount of E-mails**, Workshop on Resilient Internet based Systems (REIS 2013), Dec. 2013.
 1. Hiroki Okamoto, Ryosuke Matsumoto, Yasuo Okabe, **Design of Cooperative Load Distribution for Addressing Flash Crowds Using P2P File Sharing Network**, [IEEE 37th Annual International Computer Software and Applications Conference (COMPSAC2013)](http://compsac.cs.iastate.edu/), July 2013.
@@ -147,6 +150,7 @@ layout: default
 ***
 
 ### 国内発表（査読付論文）
+
 1. 野村孔命, 阿部博, 菅野哲, 力武健次, 松本亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa-103e492b-c523-4fb2-97c2-eae0ad55c74e)**, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), [インターネットと運用技術シンポジウム2018論文集，2018，106-113 (2018-11-29)](http://id.nii.ac.jp/1001/00192589/)，2018年12月.
 1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, **[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)**, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), [インターネットと運用技術シンポジウム2018論文集，2018，7-15 (2018-11-29)](http://id.nii.ac.jp/1001/00192569/)，2018年12月.
 1. 松本亮介, 近藤宇智朗, 三宅悠介, 力武健次, 栗林健太郎, **[FastContainer: 実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-shi-xing-huan-jing-falsebian-hua-nisu-zao-kushi-ying-dekiruheng-chang-xing-wochi-tusisutemuakitekutiya)**, [インターネットと運用技術シンポジウム2017論文集，2017，89-97（2017-11-30）](http://id.nii.ac.jp/1001/00184613/), 2017年12月.
@@ -157,10 +161,10 @@ layout: default
 
 ### 国内発表（査読無し論文）
 
-1. 熊谷将也, 松本亮介, **[侵入検知システムのためのグラフ構造に基づいた機械学習および可視化]()**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.52, pp.1-8](), 2018年3月. (to appear)
-1. 松本亮介, 坪内佑樹, 宮下剛輔, **[分散型データセンターOSを目指したリアクティブ性を持つコンテナ実行基盤技術]()**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.27, pp.1-8](), 2018年3月. (to appear)
-1. 松本亮介, 近藤宇智朗, **[CRIUを利用したHTTPリクエスト単位でコンテナを再配置できる低コストで高速なスケジューリング手法]()**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.21, pp.1-8](), 2018年3月. (to appear)
-1. 熊谷将也, 松本亮介, **[疎構造学習およびグラフ畳み込みニューラルネットワークによる異常検知]()**, 情報処理学会第81回全国大会, 6E-03, 2018年3月. (to appear)
+1. 熊谷将也, 松本亮介, **[侵入検知システムのためのグラフ構造に基づいた機械学習および可視化](https://speakerdeck.com/kumagallium/graph-based-machine-learning-and-visualization-for-intrusion-detection-system)**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.52, pp.1-8](http://id.nii.ac.jp/1001/00194772/), 2018年3月.
+1. 松本亮介, 坪内佑樹, 宮下剛輔, **[分散型データセンターOSを目指したリアクティブ性を持つコンテナ実行基盤技術](https://speakerdeck.com/matsumoto_r/chao-ge-ti-xing-detasentaoswomu-zhi-sitariakuteibuxing-wochi-tukontenashi-xing-ji-pan-ji-shu)**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.27, pp.1-8](http://id.nii.ac.jp/1001/00194721/), 2018年3月.
+1. 松本亮介, 近藤宇智朗, **[CRIUを利用したHTTPリクエスト単位でコンテナを再配置できる低コストで高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/criuwoli-yong-sitahttprikuesutodan-wei-dekontenawo-zai-pei-zhi-dekirudi-kosutodegao-su-nasukeziyuringushou-fa)**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.21, pp.1-8](http://id.nii.ac.jp/1001/00194747/), 2018年3月. 
+1. 熊谷将也, 松本亮介, **[疎構造学習およびグラフ畳み込みニューラルネットワークによる異常検知](https://speakerdeck.com/kumagallium/anomaly-detection-by-the-method-combined-with-sparse-structure-learn-ing-and-graph-convolutional-neural-network)**, [情報処理学会第81回全国大会, 6E-03](https://www.gakkai-web.net/gakkai/ipsj/81program/data/pdf/6E-03.html), 2018年3月.
 1. 三宅悠介, 松本亮介, 力武健次, 栗林健太郎, **[アクセス頻度予測に基づく仮想サーバの計画的オートスケーリング](https://speakerdeck.com/monochromegane/scheduled-autoscaling-of-virtual-servers-by-access-frequency-prediction-fit2018)**, [第17回情報科学技術フォーラム(FIT2018)](https://rand.pepabo.com/papers/fit2018-miyakey.pdf), Sep 2018.
 1. 野村孔命, 力武健次, 松本亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa)**, [第17回情報科学技術フォーラム(FIT2018)](https://rand.pepabo.com/papers/fit2018-komei.pdf), Sep 2018.
 1. 松本亮介, 小田知央, 笠原義晃, 嶋吉隆夫, 金子晃介, 栗林健太郎, 岡村耕二, **[精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://speakerdeck.com/matsumoto_r/jing-zhi-najie-xi-tozhi-yu-gake-neng-na-heng-chang-xing-falsearumeruji-pan)**, [マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム, 7C-1](http://tsys.jp/dicomo/2018/program/7C_abst.html), Jul 2018.
@@ -191,6 +195,8 @@ layout: default
 
 ### 学会誌・商業誌等解説
 
+1. 松本亮介, **[研究開発で、世界のトップカンファレンスに論文を通せるような技術やスキルを磨きたい](https://efc.isit.or.jp/interview/721)**, [エンジニアフレンドリーシティ福岡 インタビュー](https://efc.isit.or.jp/), 2019年4月.
+1. 松本亮介, **[まつもとりーがmod_mrubyを開発した理由 - 解決すべき課題は研究ではなく、実運用の中にあり](https://employment.en-japan.com/engineerhub/entry/2019/03/28/103000)**, [エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/), 2019年3月.
 1. 松本亮介, **[MANABIYA2 インフラXプログラミング](https://youtu.be/z1-Rw0Uj7As)**, [MANABIYA #2](https://teratail.connpass.com/event/99529/), 2019年1月.
 1. 松本亮介, **[なぜエンジニアはアウトプットすべきなのか？ 発信が自身のキャリアにもたらすもの](https://logmi.jp/tech/articles/319013)**, [ログミーTech](https://logmi.jp/tech), 2018年11月.
 1. 松本亮介, **[自分の経験を言語化すると、周りの人に良い影響を与える　松本亮介様〜（Forkwell Portfolio スペシャルインタビュー）](https://press.forkwell.com/entry/2018/08/21/090000)**, [forkwell press エンジニアの生き方をウォッチするメディア](https://press.forkwell.com/), 2018年8月.
@@ -221,6 +227,14 @@ layout: default
 
 ### 口頭発表（国内）
 
+1. 松本亮介, **[CRIUを利用したHTTPリクエスト単位でコンテナを再配置できる低コストで高速なスケジューリング手法]()**, [第4回Web System Architecture研究会＠京都](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月.
+1. 松本亮介, **[さくらインターネット研究所と松本の取り組み](https://speakerdeck.com/matsumoto_r/sakuraintanetutoyan-jiu-suo-tosong-ben-falsequ-rizu-mi)**, 京都大学訪問, 2019年4月.
+1. 松本亮介, **[コンテナと超個体型データセンターOS](https://speakerdeck.com/matsumoto_r/kontenatochao-ge-ti-xing-detasentaos)**, K-Ruby #22, 2019年3月.
+1. 松本亮介, **[Podとコンテナランタイムのアーキテクチャ](https://speakerdeck.com/matsumoto_r/podtokontenarantaimufalseakitekutiya)**, [Hosting Casual Talks #5](https://connpass.com/event/120048/), 2019年3月.
+1. 松本亮介, **[超個体型データセンターOSとOCIランタイム](https://speakerdeck.com/matsumoto_r/chao-ge-ti-xing-detasentaostoocirantaimu)**, [はてな×さくらが考えるテクノロジーの未来 〜コンテナ・分散型データセンター〜](https://sakura.doorkeeper.jp/events/87118), 2019年3月.
+1. 松本亮介, **[ディープライフ](https://speakerdeck.com/matsumoto_r/deipuraihu)**, [情報処理学会第81回全国大会 来たれ！ワークライフバランス伝道師](https://www.gakkai-web.net/gakkai/ipsj/81/event/html/event/B-9.html), 2019年3月.
+1. 松本亮介, **[クラウド・Webホスティングサービスのセキュリティと運用技術の研究](https://speakerdeck.com/matsumoto_r/kuraudowebhosuteingusabisufalsesekiyuriteitoyun-yong-ji-shu-falseyan-jiu)**, [セキュリティ・ミニキャンプ in 福岡 2019](https://www.security-camp.or.jp/minicamp/fukuoka2019.html), 2019年3月.
+1. 松本亮介, **[わたしとホスティング業界](https://speakerdeck.com/matsumoto_r/watasitohosuteinguye-jie)**, 専用サーバチーム交流会＠東京支社, 2019年3月.
 1. 松本亮介, **[企業に所属するエンジニアとしての社内と社外の実績の重ね方](https://speakerdeck.com/matsumoto_r/qi-ye-nisuo-shu-suruenziniatositefalseshe-nei-toshe-wai-falseshi-ji-falsezhong-nefang)**, [q-tech Meeting X #1](https://q-tech.connpass.com/event/115711/), 2019年1月.
 1. 松本亮介, **[コードと論文で世界を変える](https://speakerdeck.com/matsumoto_r/kodotolun-wen-deshi-jie-wobian-eru)**, [麻生情報ビジネス専門学校 講座](), 2019年1月.
 1. 松本亮介, **[企業に所属するエンジニアとしての社内と社外の実績の重ね方](https://speakerdeck.com/matsumoto_r/qi-ye-nisuo-shu-suruenziniatositefalseshe-nei-toshe-wai-falseshi-ji-falsezhong-nefang)**, [さくらインターネット大阪本社 レンサバチームの未来](), 2019年1月.
