@@ -197,6 +197,7 @@ layout: default
 
 1. 松本亮介, **[研究開発で、世界のトップカンファレンスに論文を通せるような技術やスキルを磨きたい](https://efc.isit.or.jp/interview/721)**, [エンジニアフレンドリーシティ福岡 インタビュー](https://efc.isit.or.jp/), 2019年4月.
 1. 松本亮介, **[まつもとりーがmod_mrubyを開発した理由 - 解決すべき課題は研究ではなく、実運用の中にあり](https://employment.en-japan.com/engineerhub/entry/2019/03/28/103000)**, [エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/), 2019年3月.
+1. 松本亮介, **[エンジニアにとっての“アウトプット”の意味 発信し続けるために必要なこと 企業に所属するエンジニアとしての社内と社外の実績の重ね方](https://logmi.jp/tech/articles/320694)**, [ログミーTech](https://logmi.jp/tech), 2019年2月.
 1. 松本亮介, **[MANABIYA2 インフラXプログラミング](https://youtu.be/z1-Rw0Uj7As)**, [MANABIYA #2](https://teratail.connpass.com/event/99529/), 2019年1月.
 1. 松本亮介, **[なぜエンジニアはアウトプットすべきなのか？ 発信が自身のキャリアにもたらすもの](https://logmi.jp/tech/articles/319013)**, [ログミーTech](https://logmi.jp/tech), 2018年11月.
 1. 松本亮介, **[自分の経験を言語化すると、周りの人に良い影響を与える　松本亮介様〜（Forkwell Portfolio スペシャルインタビュー）](https://press.forkwell.com/entry/2018/08/21/090000)**, [forkwell press エンジニアの生き方をウォッチするメディア](https://press.forkwell.com/), 2018年8月.
@@ -227,7 +228,7 @@ layout: default
 
 ### 口頭発表（国内）
 
-1. 松本亮介, **[CRIUを利用したHTTPリクエスト単位でコンテナを再配置できる低コストで高速なスケジューリング手法]()**, [第4回Web System Architecture研究会＠京都](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月.
+1. 松本亮介, **[CRIUを利用したHTTPリクエスト単位でコンテナを再配置できる低コストで高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/criuwoli-yong-sitahttprikuesutodan-wei-dekontenawozai-pei-zhi-dekirudi-kosutodegao-su-nasukeziyuringushou-fa)**, [第4回Web System Architecture研究会＠京都](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月.
 1. 松本亮介, **[さくらインターネット研究所と松本の取り組み](https://speakerdeck.com/matsumoto_r/sakuraintanetutoyan-jiu-suo-tosong-ben-falsequ-rizu-mi)**, 京都大学訪問, 2019年4月.
 1. 松本亮介, **[コンテナと超個体型データセンターOS](https://speakerdeck.com/matsumoto_r/kontenatochao-ge-ti-xing-detasentaos)**, K-Ruby #22, 2019年3月.
 1. 松本亮介, **[Podとコンテナランタイムのアーキテクチャ](https://speakerdeck.com/matsumoto_r/podtokontenarantaimufalseakitekutiya)**, [Hosting Casual Talks #5](https://connpass.com/event/120048/), 2019年3月.
