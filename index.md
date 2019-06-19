@@ -30,6 +30,7 @@ layout: default
   - 松本亮介事務所所長
 
 ## 経歴
+- 2019年04月 インターネット技術第163委員会 委員 運営委員 就任
 - 2018年11月 さくらインターネット研究所 上級研究員 就任
 - 2018年11月 さくらインターネット株式会社 入社
 - 2018年11月 ペパボ研究所 客員研究員 就任
@@ -121,6 +122,7 @@ layout: default
 ***
 
 ### 論文誌論文（ジャーナル）
+1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, Large-scale Certificate Management on Multi-tenant Web Servers,  Journal of Information Processing, Vol. 27, No. 5, pp. -, Sep 2019. (to appear) 
 1. 松本亮介, 栗林健太郎, 岡部寿男, **リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ**, [情報処理学会論文誌, Vol.59, No.3, pp.1016-1025](http://id.nii.ac.jp/1001/00186749/), 2018年3月.
 1. 松本亮介, 栗林健太郎, 岡部寿男, **招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術**, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.16-30](http://search.ieice.org/bin/summary.php?id=j101-b_1_16&category=B&year=2018&lang=J&abst=), 2018年1月.
 1. 松本亮介, 岡部寿男, **mod_mruby: スクリプト言語で高速かつ省メモリに拡張可能なWebサーバの機能拡張支援機構**, [情報処理学会論文誌，Vol.55, No.11, pp.2451-2460](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=106989&item_no=1&page_id=13&block_id=8), Nov 2014.
@@ -161,6 +163,12 @@ layout: default
 
 ### 国内発表（査読無し論文）
 
+1. 松本亮介, (招待講演) 超個体型データセンターOSを目指したさくらインターネット研究所の取り組みと未来を見据えた研究組織設計, マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 6A-1, pp 1168, Jul 2019. (to appear)
+1. 坪内佑樹, 松本亮介, 超個体型データセンターを目指したネットワークサービス間依存関係の自動追跡の構想, マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 6A-2, pp. 1169-1174, Jul 2019. (to appear)
+1. 菊地俊介, 佐々木健, 大木裕介, 松本 亮介, ノード間通信の優位性評価を目的としたFog コンピューティングテストベッドの構築に関する一検討, マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 1D-5, pp. 97-104, Jul 2019. (to appear)
+1. 野村孔命, 力武健次, 松本亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-tests)**, [研究報告インターネットと運用技術（IOT）,Vol.2019-IOT-46, pp.1-8](http://id.nii.ac.jp/1001/00197499/), Jun 2019.
+1. 三宅悠介, 松本亮介, **[利用者の文脈に応じて継続的に推薦手法の選択を最適化する推薦システム](https://speakerdeck.com/monochromegane/iot45-synapse)**, [研究報告インターネットと運用技術（IOT）, Vol.2019-IOT-45, pp.1-7](http://id.nii.ac.jp/1001/00195696/), May 2019.
+1. 坪内佑樹, 松本亮介, **[超個体型データセンターにおける分散協調クエリキャッシュ構想](https://speakerdeck.com/yuukit/quorumcache-architecture)**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.14, pp.1-7](http://id.nii.ac.jp/1001/00195697/), 2019年5月.
 1. 熊谷将也, 松本亮介, **[侵入検知システムのためのグラフ構造に基づいた機械学習および可視化](https://speakerdeck.com/kumagallium/graph-based-machine-learning-and-visualization-for-intrusion-detection-system)**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.52, pp.1-8](http://id.nii.ac.jp/1001/00194772/), 2018年3月.
 1. 松本亮介, 坪内佑樹, 宮下剛輔, **[分散型データセンターOSを目指したリアクティブ性を持つコンテナ実行基盤技術](https://speakerdeck.com/matsumoto_r/chao-ge-ti-xing-detasentaoswomu-zhi-sitariakuteibuxing-wochi-tukontenashi-xing-ji-pan-ji-shu)**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.27, pp.1-8](http://id.nii.ac.jp/1001/00194721/), 2018年3月.
 1. 松本亮介, 近藤宇智朗, **[CRIUを利用したHTTPリクエスト単位でコンテナを再配置できる低コストで高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/criuwoli-yong-sitahttprikuesutodan-wei-dekontenawo-zai-pei-zhi-dekirudi-kosutodegao-su-nasukeziyuringushou-fa)**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-44, Vol.21, pp.1-8](http://id.nii.ac.jp/1001/00194747/), 2018年3月. 
@@ -195,6 +203,9 @@ layout: default
 
 ### 学会誌・商業誌等解説
 
+1. 松本亮介, **[まつもとりーのインフラ入門－第二回 「WebサーバとWebホスティングシステム」](https://pr.forkwell.com/2019-05-29-matsumoto/)**, Forkwell Press 連載, 2019年5月.
+1. 松本亮介, **[フレッシュマンに向けたプログラミングのススメ：6．プロダクト開発や技術的課題の解決を抽象化して社内外のプログラミングの活動を重ね合わせよう](http://id.nii.ac.jp/1001/00195490/)**, [会誌「情報処理」, Vol. 60, No. 6](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_snippet&page_id=13&block_id=8&index_id=9586&pn=1&count=20&order=7&lang=japanese), 2019年5月.
+1. 松本亮介, **[まつもとりーのインフラ入門－序章「インフラとの出会い・興味を持つに至った理由」](https://pr.forkwell.com/2019-04-23-matsumoto/)**, Forkwell Press 連載, 2019年4月.
 1. 松本亮介, **[研究開発で、世界のトップカンファレンスに論文を通せるような技術やスキルを磨きたい](https://efc.isit.or.jp/interview/721)**, [エンジニアフレンドリーシティ福岡 インタビュー](https://efc.isit.or.jp/), 2019年4月.
 1. 松本亮介, **[まつもとりーがmod_mrubyを開発した理由 - 解決すべき課題は研究ではなく、実運用の中にあり](https://employment.en-japan.com/engineerhub/entry/2019/03/28/103000)**, [エンジニアHub｜若手Webエンジニアのキャリアを考える！](https://employment.en-japan.com/engineerhub/), 2019年3月.
 1. 松本亮介, **[エンジニアにとっての“アウトプット”の意味 発信し続けるために必要なこと 企業に所属するエンジニアとしての社内と社外の実績の重ね方](https://logmi.jp/tech/articles/320694)**, [ログミーTech](https://logmi.jp/tech), 2019年2月.
@@ -228,6 +239,10 @@ layout: default
 
 ### 口頭発表（国内）
 
+1. 松本亮介, **[さくらインターネット研究所の研究開発の最新動向](https://speakerdeck.com/matsumoto_r/sakuraintanetutoyan-jiu-suo-falseyan-jiu-kai-fa-falsezui-xin-dong-xiang)**, [FGNエンジニアMeetup vol.1](https://fgn.connpass.com/event/129569/), 2019年6月.
+1. 松本亮介, **[(招待講演) さくらインターネット研究所のコンセプトおよび取り組みの紹介](https://speakerdeck.com/matsumoto_r/sakuraintanetutoyan-jiu-suo-falsekonseputooyobiqu-rizu-mifalseshao-jie)**, [第45回インターネット技術第 163 委員会研究会 (ITRC meet45) 招待講演](https://www.itrc.net/meet/45-program/), 2019年5月.
+1. 松本亮介, **[分散リソースマネージメントミドルウェアの設計と実装](https://speakerdeck.com/matsumoto_r/fen-san-risosumanezimentomidoruueafalseshe-ji-toshi-zhuang)**, 公立はこだて未来大学松原研究室訪問, 2019年4月.
+1. 松本亮介, **[ディープライフ（研究室訪問バージョン）](https://speakerdeck.com/matsumoto_r/deipuraihu-yan-jiu-shi-fang-wen-baziyon)**, 公立はこだて未来大学訪問, 2019年4月.
 1. 松本亮介, **[CRIUを利用したHTTPリクエスト単位でコンテナを再配置できる低コストで高速なスケジューリング手法](https://speakerdeck.com/matsumoto_r/criuwoli-yong-sitahttprikuesutodan-wei-dekontenawozai-pei-zhi-dekirudi-kosutodegao-su-nasukeziyuringushou-fa)**, [第4回Web System Architecture研究会＠京都](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月.
 1. 松本亮介, **[さくらインターネット研究所と松本の取り組み](https://speakerdeck.com/matsumoto_r/sakuraintanetutoyan-jiu-suo-tosong-ben-falsequ-rizu-mi)**, 京都大学訪問, 2019年4月.
 1. 松本亮介, **[コンテナと超個体型データセンターOS](https://speakerdeck.com/matsumoto_r/kontenatochao-ge-ti-xing-detasentaos)**, K-Ruby #22, 2019年3月.
