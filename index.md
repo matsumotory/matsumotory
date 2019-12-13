@@ -98,6 +98,8 @@ layout: default
 
 ### 受賞
 
+1. **情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞**, 坪内 佑樹, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
+1. **情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞**, 坪内 佑樹, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
 1. [**マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム優秀論文賞**](http://dicomo.org/commendation/), 松本 亮介, 小田 知央 (GMOペパボ), 笠原 義晃, 嶋吉 隆夫, 金子 晃介 (九大), 栗林 健太郎 (GMOペパボ), 岡村 耕二 (九大), [精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://rand.pepabo.com/article/2018/07/25/dicomo2018/), 2018年9月.
 1. [**情報処理学会 研究会推薦博士論文速報2017**](http://www.ipsj.or.jp/magazine/hakase/), 松本亮介, [Studies on Highly Integrated Multi-Tenant Architecture for Web Servers](http://www.ipsj.or.jp/magazine/hakase/2017/IOT01.html), 2018年8月.
 1. [**はてなブログ大賞2017**](http://blog.hatenablog.com/entry/2017/12/26/150000), 松本亮介, [エンジニアリングや研究開発について思うこと](http://hb.matsumoto-r.jp/entry/2017/09/18/001913), 2017年12月.
@@ -123,6 +125,7 @@ layout: default
 ***
 
 ### 論文誌論文（ジャーナル）
+1. 宮下剛輔, 松本亮介, **Serverspec: 宣言的記述でサーバの設定状態をテスト可能な汎用性の高いテストフレームワーク**,  情報処理学会論文誌, Vol.61, No.3, pp.-, 2020年3月. (to appear)
 1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, **Large-scale Certificate Management on Multi-tenant Web Servers**, [Journal of Information Processing, Vol. 27, No. 5, pp. 650-657](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_650/_pdf), Sep 2019. 
 1. 松本亮介, 栗林健太郎, 岡部寿男, **リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ**, [情報処理学会論文誌, Vol.59, No.3, pp.1016-1025](http://id.nii.ac.jp/1001/00186749/), 2018年3月.
 1. 松本亮介, 栗林健太郎, 岡部寿男, **招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術**, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.16-30](http://search.ieice.org/bin/summary.php?id=j101-b_1_16&category=B&year=2018&lang=J&abst=), 2018年1月.
@@ -155,8 +158,8 @@ layout: default
 
 ### 国内発表（査読付論文）
 
-1. 坪内 佑樹, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信 の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, , 2019年12月. (to appear)
-1. 鶴田 博文, 松本 亮介, sshr: ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバ, インターネットと運用技術シンポジウム論文集, 2019, , 2019年12月. (to appear)
+1. 坪内 佑樹, 古川 雅大, 松本 亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信 の終端点の監視によるプロセス間依存関係の自動追跡](://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)**, [インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28)](https://yuuk.io/papers/transtracer_iots2019.pdf), 2019年12月.
+1. 鶴田 博文, 松本 亮介, **[sshr: ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバ](https://speakerdeck.com/tsurubee/sshr-yuzanibian-geng-woyao-qiu-sezunisisutemubian-hua-nizhui-cong-ke-neng-nasshpurokisisaba)**, [インターネットと運用技術シンポジウム論文集, 2019, 87-94 (2019-11-28)](https://research.sakura.ad.jp/wp-content/uploads/2019/12/iots2019-hi-tsuruta.pdf), 2019年12月.
 1. 野村孔命, 阿部博, 菅野哲, 力武健次, 松本亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa-103e492b-c523-4fb2-97c2-eae0ad55c74e)**, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), [インターネットと運用技術シンポジウム2018論文集，2018，106-113 (2018-11-29)](http://id.nii.ac.jp/1001/00192589/)，2018年12月.
 1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, **[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)**, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), [インターネットと運用技術シンポジウム2018論文集，2018，7-15 (2018-11-29)](http://id.nii.ac.jp/1001/00192569/)，2018年12月.
 1. 松本亮介, 近藤宇智朗, 三宅悠介, 力武健次, 栗林健太郎, **[FastContainer: 実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャ](https://speakerdeck.com/matsumoto_r/fastcontainer-shi-xing-huan-jing-falsebian-hua-nisu-zao-kushi-ying-dekiruheng-chang-xing-wochi-tusisutemuakitekutiya)**, [インターネットと運用技術シンポジウム2017論文集，2017，89-97（2017-11-30）](http://id.nii.ac.jp/1001/00184613/), 2017年12月.
@@ -207,6 +210,7 @@ layout: default
 
 ### 学会誌・商業誌等解説
 
+1. 松本亮介, 坪内佑樹 ,宮下剛輔, 青山真也, **[「超個体型データセンター」コンセプトで目指す未来像、チームで研究に取り組む理由【後編】研究員たちが考える、さくらインターネット研究所「これから」の10年](https://ascii.jp/elem/000/001/963/1963013/)**, ASCII.jp TECH 連載,2019年10月.
 1. 松本亮介, **[まつもとりーのインフラ入門－第七回「高集積マルチテナントアーキテクチャのセキュリティ（２）」](https://pr.forkwell.com/2019-10-30-matsumoto/)**, Forkwell Press 連載, 2019年10月.
 1. 松本亮介, **[まつもとりーのインフラ入門－第六回「高集積マルチテナントアーキテクチャのセキュリティ（１）」](https://pr.forkwell.com/2019-10-03-matsumoto/)**, Forkwell Press 連載, 2019年10月.
 1. 松本亮介, **[まつもとりーのインフラ入門－第五回「高集積マルチテナントアーキテクチャのリソース分離（２）」](https://pr.forkwell.com/2019-07-30-matsumoto/)**, Forkwell Press 連載, 2019年9月.
