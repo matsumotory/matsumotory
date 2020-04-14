@@ -141,6 +141,10 @@ layout: default
 ***
 
 ### 国際会議論文（査読付）
+
+1. Ryosuke Matsumoto, Uchio Kondo, **[Rapid Container Scheduling for Reactive Relocation of Individual HTTP Requests]()**, [The 44rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2020)](), July 2020. (to appear)
+1. Hirofumi Tsuruta, Ryosuke Matsumoto, **[sshr: An SSH Proxy Server Responsive to System Changes without Forcing Clients to Change]()**, [The 15th IEEE International Workshop on Security, Trust & Privacy for Software Applications (STPSA 2020)](), July 2020. (to appear)
+1. Yuuki Tsubouchi, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications]()**, [The 1st IEEE International Workshop on Advanced IoT Computing (AIOT 2020)](), July 2020. (to appear)
 1. Ryosuke Matsumoto, Uchio Kondo, Kentaro Kuribayashi, **[FastContainer: A Homeostatic System Architecture High-speed Adapting Execution Environment Changes](https://speakerdeck.com/matsumoto_r/fastcontainer-a-homeostatic-system-architecture-high-speed-adapting-execution-environment-changes)**, [The 43rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2019)](https://rand.pepabo.com/papers/compsac2019-matsumotory.pdf), July 2019.
 1. Yuuki Tsubouchi, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, **[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)**, [The 43rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2019)](https://yuuk.io/papers/heterotsdb_compsac2019.pdf), July 2019.
 1. Komei Nomura, Kenji Rikitake, Ryosuke Matsumoto, **[Automatic Whitelist Generation for SQL Queries Using Web Application Tests]()**, The 9th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2019), July 2019.
