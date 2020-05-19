@@ -179,6 +179,10 @@ layout: default
 
 ### 国内発表（査読無し論文）
 
+1. 鶴田博文, 松本亮介, **[アニーリングマシンを活用したエッジAIにおける生成モデルの学習効率化のためのアーキテクチャ]()**, [マルチメディア、分散、協調とモバイル（DICOMO2020）シンポジウム](), 2020年6月. (to appear)
+1. 松本亮介, 坪内佑樹, **[クライアントプロセスの権限情報に基づくTCPを介した透過的な権限分離方式の設計](https://speakerdeck.com/matsumoto_r/kuraiantopurosesufalsequan-xian-qing-bao-niji-dukutcpwojie-sitatou-guo-de-naquan-xian-fen-li-fang-shi-falseshe-ji)**, [情報処理学会研究報告インターネットと運用技術（IOT）, Vol. 2020-IOT-49, No. 11, pp. 1-6](http://id.nii.ac.jp/1001/00204468/), 2020年5月.
+1. 林友佳, 伊勢田蓮, 松原克弥, 鷲北賢, 坪内佑樹, 松本亮介, **[動的適応性を持つ分散システムを対象としたシステム状態可視化手法の検討]()**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2020-IOT-48, Vol.22, pp.1-8](http://id.nii.ac.jp/1001/00203418/), 2020年3月.
+1. 中田 裕貴, 松原 克弥, 松本 亮介, **[マルチテナント向けコンテナ環境における軽量かつ柔軟なARPスプーフィング対策の実現]()**, [情報処理学会研究報告システムソフトウェアとオペレーティング・システム（OS）, No.2020-OS-148, Vol.12, pp.1-8](http://id.nii.ac.jp/1001/00203250/), 2020年2月.
 1. 松本亮介, **[(招待講演) 超個体型データセンターOSを目指したさくらインターネット研究所の取り組みと未来を見据えた研究組織設計](https://speakerdeck.com/matsumoto_r/zhao-dai-jiang-yan-chao-ge-ti-xing-detasentaoswomu-zhi-sitasakuraintanetutoyan-jiu-suo-falsequ-rizu-mitowei-lai-wojian-ju-etayan-jiu-zu-zhi-she-ji)**, マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 6A-1, pp 1168, Jul 2019.
 1. 坪内佑樹, 松本亮介, **[超個体型データセンターを目指したネットワークサービス間依存関係の自動追跡の構想](https://speakerdeck.com/yuukit/a-concept-of-superorganism-tracing)**, [マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 6A-2, pp. 1169-1174](https://yuuk.io/papers/transtracer_dicomo2019.pdf), Jul 2019.
 1. 菊地俊介, 佐々木健, 大木裕介, 松本 亮介, **[ノード間通信の優位性評価を目的としたFog コンピューティングテストベッドの構築に関する一検討](https://www.slideshare.net/ShunsukeKikuchi1/fog-153532606)**, [マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 1D-5, pp. 97-104](https://research.sakura.ad.jp/wp-content/uploads/2019/08/dicomo2019-s-kikuchi.pdf), Jul 2019.
@@ -262,6 +266,7 @@ layout: default
 
 ### 口頭発表（国内）
 
+1. 松本亮介, **[クライアントプロセスの権限情報に基づくTCPを介した透過的な権限分離方式の設計](https://speakerdeck.com/matsumoto_r/kuraiantopurosesufalsequan-xian-qing-bao-niji-dukutcpwojie-sitatou-guo-de-naquan-xian-fen-li-fang-shi-falseshe-ji)**, [第6回WebSystemArchitecture研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月.
 1. 松本亮介, **トークセッション**, [Fukuoka Research Meetup](https://1017garrawayf.peatix.com/), 2019年10月.
 1. 松本亮介, **[超個体型データセンターOSを目指した選択性を持つコンテナ実行基盤](https://speakerdeck.com/matsumoto_r/chao-ge-ti-xing-detasentaoswomu-zhi-sitaxuan-ze-xing-wochi-tukontenashi-xing-ji-pan)**, [第5回WebSystemArchitecture研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/07/30/172650), 2019年9月.
 1. 松本亮介, **[IEEE Computer Society flagship international conference登壇・参加報告](https://speakerdeck.com/matsumoto_r/ieee-computer-society-flagship-international-conference-compsac-2019-deng-tan-can-jia-bao-gao)**, [FGNエンジニアMeetup vol.2](https://fgn.connpass.com/event/138373/), 2019年8月.
