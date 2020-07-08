@@ -130,7 +130,7 @@ layout: default
 ***
 
 ### 論文誌論文（ジャーナル）
-1. 宮下剛輔, 松本亮介, **Serverspec: 宣言的記述でサーバの設定状態をテスト可能な汎用性の高いテストフレームワーク**,  情報処理学会論文誌, Vol.61, No.3, pp.-, 2020年3月. (to appear)
+1. 宮下剛輔, 松本亮介, **Serverspec: 宣言的記述でサーバの設定状態をテスト可能な汎用性の高いテストフレームワーク**,  [情報処理学会論文誌, Vol.61, No.3, pp.677-686](http://id.nii.ac.jp/1001/00204179/), 2020年3月.
 1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, **Large-scale Certificate Management on Multi-tenant Web Servers**, [Journal of Information Processing, Vol. 27, No. 5, pp. 650-657](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_650/_pdf), Sep 2019. 
 1. 松本亮介, 栗林健太郎, 岡部寿男, **リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ**, [情報処理学会論文誌, Vol.59, No.3, pp.1016-1025](http://id.nii.ac.jp/1001/00186749/), 2018年3月.
 1. 松本亮介, 栗林健太郎, 岡部寿男, **招待論文: Webサーバの高集積マルチテナントアーキテクチャと運用技術**, [電子情報通信学会論文誌, Vol.J101-B, No.1, pp.16-30](http://search.ieice.org/bin/summary.php?id=j101-b_1_16&category=B&year=2018&lang=J&abst=), 2018年1月.
