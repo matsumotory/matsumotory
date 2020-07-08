@@ -179,7 +179,7 @@ layout: default
 
 ### 国内発表（査読無し論文）
 
-1. 鶴田博文, 松本亮介, **[アニーリングマシンを活用したエッジAIにおける生成モデルの学習効率化のためのアーキテクチャ]()**, [マルチメディア、分散、協調とモバイル（DICOMO2020）シンポジウム](), 2020年6月. (to appear)
+1. 鶴田博文, 松本亮介, **[アニーリングマシンを活用したエッジAIにおける生成モデルの学習効率化のためのアーキテクチャ](https://speakerdeck.com/tsurubee/aniringumasinwohuo-yong-sitaetuziainiokeru-sheng-cheng-moderufalsexue-xi-xiao-lu-hua-falsetamefalseakitekutiya)**, [マルチメディア、分散、協調とモバイル（DICOMO2020）シンポジウム](http://tsys.jp/dicomo/2020/program/program_abst.html#6G-3), 2020年6月.
 1. 松本亮介, 坪内佑樹, **[クライアントプロセスの権限情報に基づくTCPを介した透過的な権限分離方式の設計](https://speakerdeck.com/matsumoto_r/kuraiantopurosesufalsequan-xian-qing-bao-niji-dukutcpwojie-sitatou-guo-de-naquan-xian-fen-li-fang-shi-falseshe-ji)**, [情報処理学会研究報告インターネットと運用技術（IOT）, Vol. 2020-IOT-49, No. 11, pp. 1-6](http://id.nii.ac.jp/1001/00204468/), 2020年5月.
 1. 林友佳, 伊勢田蓮, 松原克弥, 鷲北賢, 坪内佑樹, 松本亮介, **[動的適応性を持つ分散システムを対象としたシステム状態可視化手法の検討]()**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2020-IOT-48, Vol.22, pp.1-8](http://id.nii.ac.jp/1001/00203418/), 2020年3月.
 1. 中田 裕貴, 松原 克弥, 松本 亮介, **[マルチテナント向けコンテナ環境における軽量かつ柔軟なARPスプーフィング対策の実現]()**, [情報処理学会研究報告システムソフトウェアとオペレーティング・システム（OS）, No.2020-OS-148, Vol.12, pp.1-8](http://id.nii.ac.jp/1001/00203250/), 2020年2月.
@@ -223,6 +223,10 @@ layout: default
 
 ### 学会誌・商業誌等解説
 
+1. 松本亮介, **[mrubyを採用したソフトウェアを広げた第一人者・松本亮介が、面倒を感じながらもC言語を愛する理由とは？](https://offers.jp/media/interviews/a_1759)**, Offers Magagine インタビュー, 2020年07月.
+1. 松本亮介, **[まつもとりーのインフラ入門－最終回「高集積マルチテナントアーキテクチャの運用技術（２）」](https://pr.forkwell.com/2020-02-27-matsumoto/)**, Forkwell Press 連載, 2020年02月.
+1. 松本亮介, **[まつもとりーのインフラ入門－第九回「高集積マルチテナントアーキテクチャの運用技術（１）」](https://pr.forkwell.com/2019-12-27-matsumoto/)**, Forkwell Press 連載, 2019年12月.
+1. 松本亮介, **[まつもとりーのインフラ入門－第八回「高集積マルチテナントアーキテクチャのセキュリティ（３）」](https://pr.forkwell.com/2019-11-26-matsumoto/)**, Forkwell Press 連載, 2019年11月.
 1. 松本亮介, 坪内佑樹 ,宮下剛輔, 青山真也, **[「超個体型データセンター」コンセプトで目指す未来像、チームで研究に取り組む理由【後編】研究員たちが考える、さくらインターネット研究所「これから」の10年](https://ascii.jp/elem/000/001/963/1963013/)**, ASCII.jp TECH 連載,2019年10月.
 1. 松本亮介, **[まつもとりーのインフラ入門－第七回「高集積マルチテナントアーキテクチャのセキュリティ（２）」](https://pr.forkwell.com/2019-10-30-matsumoto/)**, Forkwell Press 連載, 2019年10月.
 1. 松本亮介, **[まつもとりーのインフラ入門－第六回「高集積マルチテナントアーキテクチャのセキュリティ（１）」](https://pr.forkwell.com/2019-10-03-matsumoto/)**, Forkwell Press 連載, 2019年10月.
@@ -266,6 +270,10 @@ layout: default
 
 ### 口頭発表（国内）
 
+1. 松本亮介, **[Infra Study Meetup #4「インフラの面白い技術とこれから」司会](https://forkwell.connpass.com/event/179755/)**, [Infra Study Meetup](https://forkwell.connpass.com/), 2020年07月.
+1. 松本亮介, **[Infra Study Meetup #3「SREのこれまでとこれから」司会](https://forkwell.connpass.com/event/176885/)**, [Infra Study Meetup](https://forkwell.connpass.com/), 2020年06月.
+1. 松本亮介, **[Infra Study Meetup #2「VM時代の開発とCloud Native時代の開発」司会](https://forkwell.connpass.com/event/173289/)**, [Infra Study Meetup](https://forkwell.connpass.com/), 2020年05月.
+1. 松本亮介, **[Infra Study Meetup #1「Infrastructure as Code」司会](https://forkwell.connpass.com/event/171560/)**, [Infra Study Meetup](https://forkwell.connpass.com/), 2020年04月.
 1. 松本亮介, **[クライアントプロセスの権限情報に基づくTCPを介した透過的な権限分離方式の設計](https://speakerdeck.com/matsumoto_r/kuraiantopurosesufalsequan-xian-qing-bao-niji-dukutcpwojie-sitatou-guo-de-naquan-xian-fen-li-fang-shi-falseshe-ji)**, [第6回WebSystemArchitecture研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月.
 1. 松本亮介, **トークセッション**, [Fukuoka Research Meetup](https://1017garrawayf.peatix.com/), 2019年10月.
 1. 松本亮介, **[超個体型データセンターOSを目指した選択性を持つコンテナ実行基盤](https://speakerdeck.com/matsumoto_r/chao-ge-ti-xing-detasentaoswomu-zhi-sitaxuan-ze-xing-wochi-tukontenashi-xing-ji-pan)**, [第5回WebSystemArchitecture研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/07/30/172650), 2019年9月.
