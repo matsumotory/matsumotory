@@ -23,10 +23,10 @@ layout: default
 ## 所属
 - 2018年11月 〜
   - [さくらインターネット研究所 上級研究員](https://research.sakura.ad.jp/about/)
-  - [ペパボ研究所 客員研究員](https://rand.pepabo.com/)
+  - [GMOペパボ株式会社 ペパボ研究所 客員研究員](https://rand.pepabo.com/)
   - [株式会社grooves Forkwell技術顧問](https://www.grooves.com/news/1598)
+  - [株式会社ネットフォレスト 技術顧問](https://www.netforest.ad.jp/corporate/)
   - [一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ講師](https://www.security-camp.or.jp/instructor/index.html)
-  - [株式会社ネットフォレスト 技術顧問 就任](https://www.netforest.ad.jp/corporate/)
   - [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
   - [インターネット技術第163委員会 委員 運営委員 就任](https://www.itrc.net/about/)
   - [松本亮介事務所 所長](https://twitter.com/matsumotory)
