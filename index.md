@@ -26,6 +26,7 @@ layout: default
   - [GMOペパボ株式会社 ペパボ研究所 客員研究員](https://rand.pepabo.com/)
   - [株式会社grooves Forkwell技術顧問](https://www.grooves.com/news/1598)
   - [株式会社ネットフォレスト 技術顧問](https://www.netforest.ad.jp/corporate/)
+  - [株式会社ハウテレビジョン 相談室回答者](https://howtelevision.co.jp/)
   - [一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ講師](https://www.security-camp.or.jp/instructor/index.html)
   - [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
   - [インターネット技術第163委員会 委員 運営委員 就任](https://www.itrc.net/about/)
