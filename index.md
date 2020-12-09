@@ -171,7 +171,7 @@ layout: default
 ***
 
 ### 国内発表（査読付論文）
-1. 中田裕貴, 松本亮介, 松原克弥, **[（ポスター）マルチテナント向けコンテナ集積型クラウドサービスにおけるネットワーク分離・制御方式の検討]()**, [インターネットと運用技術シンポジウム論文集, 2020, 117-118 (2020-11-26)](http://id.nii.ac.jp/1001/00208130/), 2020年12月.
+1. 中田裕貴, 松本亮介, 松原克弥, **[（優秀ポスター賞）マルチテナント向けコンテナ集積型クラウドサービスにおけるネットワーク分離・制御方式の検討]()**, [インターネットと運用技術シンポジウム論文集, 2020, 117-118 (2020-11-26)](http://id.nii.ac.jp/1001/00208130/), 2020年12月.
 1. 坪内佑樹, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信 の終端点の監視によるプロセス間依存関係の自動追跡](://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)**, [インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28)](https://yuuk.io/papers/transtracer_iots2019.pdf), 2019年12月.
 1. 鶴田博文, 松本亮介, **[sshr: ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバ](https://speakerdeck.com/tsurubee/sshr-yuzanibian-geng-woyao-qiu-sezunisisutemubian-hua-nizhui-cong-ke-neng-nasshpurokisisaba)**, [インターネットと運用技術シンポジウム論文集, 2019, 87-94 (2019-11-28)](https://research.sakura.ad.jp/wp-content/uploads/2019/12/iots2019-hi-tsuruta.pdf), 2019年12月.
 1. 野村孔命, 阿部博, 菅野哲, 力武健次, 松本亮介, **[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa-103e492b-c523-4fb2-97c2-eae0ad55c74e)**, [第11回 インターネットと運用技術シンポジウム（IOTS2018）](https://www.iot.ipsj.or.jp/symposium/2018-program/), [インターネットと運用技術シンポジウム2018論文集，2018，106-113 (2018-11-29)](http://id.nii.ac.jp/1001/00192589/)，2018年12月.
@@ -183,7 +183,7 @@ layout: default
 ***
 
 ### 国内発表（査読無し論文）
-1. 中田裕貴, 松原克弥, 松本亮介, **[コンテナ型クラウドサービス基盤におけるハードウェア仮想化技術の併用によるネットワーク制御の検討]()**, [コンピュータシステム・シンポジウム論文集,2020,18-25 (2020-11-24)](http://id.nii.ac.jp/1001/00207985/), 2020年12月.
+1. 中田裕貴, 松原克弥, 松本亮介, **[(最優秀若手発表賞)コンテナ型クラウドサービス基盤におけるハードウェア仮想化技術の併用によるネットワーク制御の検討]()**, [コンピュータシステム・シンポジウム論文集,2020,18-25 (2020-11-24)](http://id.nii.ac.jp/1001/00207985/), 2020年12月.
 1. 鶴田博文, 松本亮介, **[アニーリングマシンを活用したエッジAIにおける生成モデルの学習効率化のためのアーキテクチャ](https://speakerdeck.com/tsurubee/aniringumasinwohuo-yong-sitaetuziainiokeru-sheng-cheng-moderufalsexue-xi-xiao-lu-hua-falsetamefalseakitekutiya)**, [マルチメディア、分散、協調とモバイル（DICOMO2020）シンポジウム](http://tsys.jp/dicomo/2020/program/program_abst.html#6G-3), 2020年6月.
 1. 松本亮介, 坪内佑樹, **[クライアントプロセスの権限情報に基づくTCPを介した透過的な権限分離方式の設計](https://speakerdeck.com/matsumoto_r/kuraiantopurosesufalsequan-xian-qing-bao-niji-dukutcpwojie-sitatou-guo-de-naquan-xian-fen-li-fang-shi-falseshe-ji)**, [情報処理学会研究報告インターネットと運用技術（IOT）, Vol. 2020-IOT-49, No. 11, pp. 1-6](http://id.nii.ac.jp/1001/00204468/), 2020年5月.
 1. 林友佳, 伊勢田蓮, 松原克弥, 鷲北賢, 坪内佑樹, 松本亮介, **[動的適応性を持つ分散システムを対象としたシステム状態可視化手法の検討]()**, [情報処理学会研究報告インターネットと運用技術（IOT）, No.2020-IOT-48, Vol.22, pp.1-8](http://id.nii.ac.jp/1001/00203418/), 2020年3月.
