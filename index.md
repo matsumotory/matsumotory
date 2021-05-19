@@ -23,17 +23,19 @@ layout: default
 ## 所属
 - 2018年11月 〜
   - [さくらインターネット研究所 上級研究員](https://research.sakura.ad.jp/about/)
-  - [GMOペパボ株式会社 ペパボ研究所 客員研究員](https://rand.pepabo.com/)
   - [株式会社grooves Forkwell技術顧問](https://www.grooves.com/news/1598)
   - [株式会社ネットフォレスト 技術顧問](https://www.netforest.ad.jp/corporate/)
   - [株式会社ハウテレビジョン 相談室回答者](https://howtelevision.co.jp/)
   - [株式会社COGNANO 技術顧問](http://www.cognano.co.jp/)
+  - [情報処理学会 インターネットと運用技術研究会 幹事](https://www.iot.ipsj.or.jp/)
+  - [情報処理学会 システムソフトウェアとオペレーティング・システム研究会 運営委員](http://www.ipsj.or.jp/sig/os/index.php?2021%C7%AF%C5%D9+%B1%BF%B1%C4%B0%D1%B0%F7)
+  - [インターネット技術第163委員会 委員 運営委員](https://www.itrc.net/about/)
   - [一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ講師](https://www.security-camp.or.jp/instructor/index.html)
-  - [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
-  - [インターネット技術第163委員会 委員 運営委員 就任](https://www.itrc.net/about/)
   - [松本亮介事務所 所長](https://twitter.com/matsumotory)
 
 ## 経歴
+- 2021年04月 情報処理学会 システムソフトウェアとオペレーティング・システム研究会 運営委員 就任
+- 2021年04月 ペパボ研究所 客員研究員 退任
 - 2021年01月 株式会社COGNANO 技術顧問 就任
 - 2020年12月 株式会社ハウテレビジョン 相談室回答者 就任
 - 2020年08月 株式会社ネットフォレスト 技術顧問 就任 
