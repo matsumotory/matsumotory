@@ -23,6 +23,7 @@ layout: default
 ## 所属
 - 2018年11月 〜
   - [さくらインターネット研究所 上級研究員](https://research.sakura.ad.jp/about/)
+  - [balconia株式会社 技術顧問](https://www.balconia.co.jp/about/)
   - [株式会社grooves Forkwell技術顧問](https://www.grooves.com/news/1598)
   - [株式会社ネットフォレスト 技術顧問](https://www.netforest.ad.jp/corporate/)
   - [株式会社ハウテレビジョン 相談室回答者](https://howtelevision.co.jp/)
@@ -34,6 +35,7 @@ layout: default
   - [松本亮介事務所 所長](https://twitter.com/matsumotory)
 
 ## 経歴
+- 2021年06月 balconia株式会社 技術顧問 就任
 - 2021年04月 情報処理学会 システムソフトウェアとオペレーティング・システム研究会 運営委員 就任
 - 2021年04月 ペパボ研究所 客員研究員 退任
 - 2021年01月 株式会社COGNANO 技術顧問 就任
@@ -41,9 +43,9 @@ layout: default
 - 2020年08月 株式会社ネットフォレスト 技術顧問 就任 
 - 2020年04月 情報処理学会 インターネットと運用技術研究会 幹事 就任
 - 2020年01月 情報処理学会 論文誌 インターネットと運用技術特集号 編集委員
-- 2020年01月 情報処理学会 第12回インターネットと運用技術シンポジウム（IOTS2020）プログラム副委員長
+- 2020年01月 情報処理学会 インターネットと運用技術シンポジウム（IOTS）実行委員 就任
 - 2020年01月 マルチメディア・分散・協調とモバイル DICOMO プログラム委員 就任
-- 2019年07月 情報処理学会 第12回インターネットと運用技術シンポジウム（IOTS2019）プログラム委員
+- 2019年07月 情報処理学会 インターネットと運用技術シンポジウム（IOTS）プログラム委員 就任
 - 2019年04月 インターネット技術第163委員会 委員 運営委員 就任
 - 2018年11月 さくらインターネット研究所 上級研究員 就任
 - 2018年11月 さくらインターネット株式会社 入社
@@ -139,7 +141,8 @@ layout: default
 ***
 
 ### 論文誌論文（ジャーナル）
-1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース**, [情報処理学会論文誌, Vol.62, No.3](), 2021年3月. (to appear)
+1. 松本亮介, 近藤宇智朗, 栗林健太郎, **招待論文: コンテナを利用した実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャの設計と実装**, [会誌「情報処理」Vol.62 No.8 Aug. 2021 「デジタルプラクティスコーナー」](), 2021年7月.(to appear)
+1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース**, [情報処理学会論文誌, Vol.62, No.3](http://doi.org/10.20729/00210244), 2021年3月.
 1. 宮下剛輔, 松本亮介, **Serverspec: 宣言的記述でサーバの設定状態をテスト可能な汎用性の高いテストフレームワーク**,  [情報処理学会論文誌, Vol.61, No.3, pp.677-686](http://id.nii.ac.jp/1001/00204179/), 2020年3月.
 1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, **Large-scale Certificate Management on Multi-tenant Web Servers**, [Journal of Information Processing, Vol. 27, No. 5, pp. 650-657](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_650/_pdf), Sep 2019. 
 1. 松本亮介, 栗林健太郎, 岡部寿男, **リクエスト単位で仮想的にハードウェアリソースを分離するWebサーバのリソース制御アーキテクチャ**, [情報処理学会論文誌, Vol.59, No.3, pp.1016-1025](http://id.nii.ac.jp/1001/00186749/), 2018年3月.
@@ -176,6 +179,7 @@ layout: default
 ***
 
 ### 国内発表（査読付論文）
+1. 宮下剛輔, 松本亮介, **[状況に応じた最適なサーバ構成管理を実現するためのポリシー定義と振る舞い制御を中間言語で分離する手法](http://id.nii.ac.jp/1001/00209428/)**, [研究報告インターネットと運用技術（IOT）, Vol. 2021-IOT-52, No. 35, pp. 1-6](http://id.nii.ac.jp/1001/00209428/), 2021年2月.
 1. 中田裕貴, 松本亮介, 松原克弥, **[（優秀ポスター賞）マルチテナント向けコンテナ集積型クラウドサービスにおけるネットワーク分離・制御方式の検討]()**, [インターネットと運用技術シンポジウム論文集, 2020, 117-118 (2020-11-26)](http://id.nii.ac.jp/1001/00208130/), 2020年12月.
 1. 坪内佑樹, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信 の終端点の監視によるプロセス間依存関係の自動追跡](://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)**, [インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28)](https://yuuk.io/papers/transtracer_iots2019.pdf), 2019年12月.
 1. 鶴田博文, 松本亮介, **[sshr: ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバ](https://speakerdeck.com/tsurubee/sshr-yuzanibian-geng-woyao-qiu-sezunisisutemubian-hua-nizhui-cong-ke-neng-nasshpurokisisaba)**, [インターネットと運用技術シンポジウム論文集, 2019, 87-94 (2019-11-28)](https://research.sakura.ad.jp/wp-content/uploads/2019/12/iots2019-hi-tsuruta.pdf), 2019年12月.
