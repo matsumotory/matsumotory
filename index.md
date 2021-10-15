@@ -25,9 +25,9 @@ layout: default
   - [さくらインターネット研究所 上級研究員](https://research.sakura.ad.jp/about/)
   - [balconia株式会社 技術顧問](https://www.balconia.co.jp/about/)
   - [株式会社スリーシェイク 技術顧問](https://3-shake.com/about/)
-  - [株式会社grooves Forkwell技術顧問](https://www.grooves.com/news/1598)
+  - [株式会社grooves Forkwell 技術顧問](https://www.grooves.com/news/1598)
   - [株式会社COGNANO 技術顧問](http://www.cognano.co.jp/)
-  - [株式会社ハウテレビジョン 相談室回答者](https://howtelevision.co.jp/)
+  - [株式会社ハウテレビジョン Mond 回答者](https://howtelevision.co.jp/)
   - [情報処理学会 インターネットと運用技術研究会 幹事](https://www.iot.ipsj.or.jp/)
   - [情報処理学会 システムソフトウェアとオペレーティング・システム研究会 運営委員](http://www.ipsj.or.jp/sig/os/index.php?2021%C7%AF%C5%D9+%B1%BF%B1%C4%B0%D1%B0%F7)
   - [インターネット技術第163委員会 委員 運営委員](https://www.itrc.net/about/)
@@ -114,9 +114,9 @@ layout: default
 
 ### 受賞
 
-1. **2020年度情報処理学会インターネットと運用技術研究会 藤村記念ベストプラクティス賞**, 鶴田 博文, 松本 亮介, sshr: ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバ, [インターネットと運用技術シンポジウム論文集, 2019, 87-94 (2019-11-28)](http://id.nii.ac.jp/1001/00200768/), 2020年07月.
-1. **情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞**, 坪内 佑樹, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
-1. **情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞**, 坪内 佑樹, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
+1. [**2020年度情報処理学会インターネットと運用技術研究会 藤村記念ベストプラクティス賞**](https://www.ipsj.or.jp/award/iot-award.html), 鶴田 博文, 松本 亮介, sshr: ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバ, [インターネットと運用技術シンポジウム論文集, 2019, 87-94 (2019-11-28)](http://id.nii.ac.jp/1001/00200768/), 2020年07月.
+1. [**情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞**](https://www.iot.ipsj.or.jp/awards/symposium/), 坪内 佑樹, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
+1. [**情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞**](https://www.iot.ipsj.or.jp/awards/symposium/), 坪内 佑樹, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
 1. [**マルチメディア、分散、協調とモバイル（DICOMO2018）シンポジウム優秀論文賞**](http://dicomo.org/commendation/), 松本 亮介, 小田 知央 (GMOペパボ), 笠原 義晃, 嶋吉 隆夫, 金子 晃介 (九大), 栗林 健太郎 (GMOペパボ), 岡村 耕二 (九大), [精緻に制御可能な恒常性のある高集積マルチアカウント型のメール基盤](https://rand.pepabo.com/article/2018/07/25/dicomo2018/), 2018年9月.
 1. [**情報処理学会 研究会推薦博士論文速報2017**](http://www.ipsj.or.jp/magazine/hakase/), 松本亮介, [Studies on Highly Integrated Multi-Tenant Architecture for Web Servers](http://www.ipsj.or.jp/magazine/hakase/2017/IOT01.html), 2018年8月.
 1. [**はてなブログ大賞2017**](http://blog.hatenablog.com/entry/2017/12/26/150000), 松本亮介, [エンジニアリングや研究開発について思うこと](http://hb.matsumoto-r.jp/entry/2017/09/18/001913), 2017年12月.
@@ -142,7 +142,8 @@ layout: default
 ***
 
 ### 論文誌論文（ジャーナル）
-1. 松本亮介, 近藤宇智朗, 栗林健太郎, **招待論文: コンテナを利用した実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャの設計と実装**, [会誌「情報処理」Vol.62 No.8 Aug. 2021 「デジタルプラクティスコーナー」](), 2021年7月.(to appear)
+1. 鶴田博文, 松本亮介, **ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバsshrの開発**, [会誌「情報処理」Vol.62 No.11 Nov. 2021「デジタルプラクティスコーナー」](https://www.ipsj.or.jp/dp/contents/publication/48/TR0204-06.html), 2021年10月.
+1. 松本亮介, 近藤宇智朗, 栗林健太郎, **招待論文: コンテナを利用した実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャの設計と実装**, [会誌「情報処理」Vol.62 No.8 Aug. 2021 「デジタルプラクティスコーナー」](https://www.ipsj.or.jp/dp/contents/publication/47/S1203-S02.html), 2021年7月.
 1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース**, [情報処理学会論文誌, Vol.62, No.3](http://doi.org/10.20729/00210244), 2021年3月.
 1. 宮下剛輔, 松本亮介, **Serverspec: 宣言的記述でサーバの設定状態をテスト可能な汎用性の高いテストフレームワーク**,  [情報処理学会論文誌, Vol.61, No.3, pp.677-686](http://id.nii.ac.jp/1001/00204179/), 2020年3月.
 1. Ryosuke Matsumoto, Kenji Rikitake, Kentaro Kuribayashi, **Large-scale Certificate Management on Multi-tenant Web Servers**, [Journal of Information Processing, Vol. 27, No. 5, pp. 650-657](https://www.jstage.jst.go.jp/article/ipsjjip/27/0/27_650/_pdf), Sep 2019. 
@@ -156,9 +157,10 @@ layout: default
 
 ### 国際会議論文（査読付）
 
-1. Ryosuke Matsumoto, Uchio Kondo, **[Rapid Container Scheduling for Reactive Relocation of Individual HTTP Requests]()**, [The 44rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2020)](), July 2020. (to appear)
-1. Hirofumi Tsuruta, Ryosuke Matsumoto, **[sshr: An SSH Proxy Server Responsive to System Changes without Forcing Clients to Change]()**, [The 15th IEEE International Workshop on Security, Trust & Privacy for Software Applications (STPSA 2020)](), July 2020. (to appear)
-1. Yuuki Tsubouchi, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications]()**, [The 1st IEEE International Workshop on Advanced IoT Computing (AIOT 2020)](), July 2020. (to appear)
+1. Yuuki Nakata, Katsuya Matsubara, Ryosuke Matsumoto, **[Concentrated Isolation for Container Networks Toward Application-aware Sandbox Tailoring]()**, [14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2021)](https://www.cs.le.ac.uk/events/UCC2021/index.htm), Dec 2021. (to appear)
+1. Ryosuke Matsumoto, Uchio Kondo, **[Rapid Container Scheduling for Reactive Relocation of Individual HTTP Requests](https://ieeexplore.ieee.org/abstract/document/9202795/)**, [The 44rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2020)](https://ieeecompsac.computer.org/2020/nciw/), July 2020.
+1. Hirofumi Tsuruta, Ryosuke Matsumoto, **[sshr: An SSH Proxy Server Responsive to System Changes without Forcing Clients to Change](https://ieeexplore.ieee.org/abstract/document/9202744/)**, [The 15th IEEE International Workshop on Security, Trust & Privacy for Software Applications (STPSA 2020)](https://ieeecompsac.computer.org/2020/stpsa/), July 2020.
+1. Yuuki Tsubouchi, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications](https://ieeexplore.ieee.org/abstract/document/9202851/)**, [The 1st IEEE International Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020.
 1. Ryosuke Matsumoto, Uchio Kondo, Kentaro Kuribayashi, **[FastContainer: A Homeostatic System Architecture High-speed Adapting Execution Environment Changes](https://speakerdeck.com/matsumoto_r/fastcontainer-a-homeostatic-system-architecture-high-speed-adapting-execution-environment-changes)**, [The 43rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2019)](https://rand.pepabo.com/papers/compsac2019-matsumotory.pdf), July 2019.
 1. Yuuki Tsubouchi, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, **[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)**, [The 43rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2019)](https://yuuk.io/papers/heterotsdb_compsac2019.pdf), July 2019.
 1. Komei Nomura, Kenji Rikitake, Ryosuke Matsumoto, **[Automatic Whitelist Generation for SQL Queries Using Web Application Tests]()**, The 9th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2019), July 2019.
