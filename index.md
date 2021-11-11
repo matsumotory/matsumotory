@@ -23,11 +23,12 @@ layout: default
 ## 所属
 - 2018年11月 〜
   - [さくらインターネット研究所 上級研究員](https://research.sakura.ad.jp/about/)
-  - [balconia株式会社 技術顧問](https://www.balconia.co.jp/about/)
-  - [株式会社スリーシェイク 技術顧問](https://3-shake.com/about/)
-  - [株式会社grooves Forkwell 技術顧問](https://www.grooves.com/news/1598)
-  - [株式会社COGNANO 技術顧問](http://www.cognano.co.jp/)
+  - [balconia株式会社 技術顧問](https://www.balconia.co.jp/about/) - [[プレスリリース]](https://www.m-field.co.jp/news/detail/20211028_3348/)
+  - [株式会社スリーシェイク 技術顧問](https://3-shake.com/about/) - [[プレスリリース]](https://3-shake.com/humanresources-matsumoto/)
+  - [株式会社grooves Forkwell 技術顧問](https://www.grooves.com/news/1598) - [[プレスリリース]](https://www.grooves.com/news/1598)
+  - [株式会社COGNANO 技術顧問](https://www.cognano.co.jp/company/)
   - [株式会社ハウテレビジョン Mond 回答者](https://howtelevision.co.jp/)
+  - [科学技術振興機構JST CREST 研究領域「信頼されるAIシステムを支える基盤技術」D3-AIプロジェクトメンバー](https://d3-ai.github.io/members/)
   - [情報処理学会 インターネットと運用技術研究会 幹事](https://www.iot.ipsj.or.jp/)
   - [情報処理学会 システムソフトウェアとオペレーティング・システム研究会 運営委員](http://www.ipsj.or.jp/sig/os/index.php?2021%C7%AF%C5%D9+%B1%BF%B1%C4%B0%D1%B0%F7)
   - [インターネット技術第163委員会 委員 運営委員](https://www.itrc.net/about/)
@@ -238,8 +239,12 @@ layout: default
 
 ***
 
-### 学会誌・商業誌等解説
+### 学会誌・商業誌・Webメディア等解説
 
+1. 松本亮介, **[Security LAB設立の背景セキュリティには翻訳が必要だ！](https://colors.m-field.co.jp/why-we-start-security-lab/), エム・フィールドの色々な人・仕事・考え方を発信するメディア COLORS, 2021年10月.
+1. 松本亮介, **[エンジニア・研究者が再びプロモデラーを目指す - 「好きなこと」を持続的な事業にするために考えたこと【寄稿：まつもとりー】](https://and-engineer.com/articles/YRHyTRAAACIAxac-)**, &アンドエンジニア, 2021年09月.
+1. 松本亮介, **[「革新的な情報通信技術でも、人間が使えなければ役に立たない」。ビジネスと研究を行き来する男のキャリア論](https://liiga.me/columns/754)**, 若手プロフェッショナルのキャリア支援ならLiiga, 2021年07月.
+1. 松本亮介, **[エンジニア・研究者のまつもとりーさんがブログを長く続けられた「考え方」とは【エンジニアのブログ探訪】](https://blog.hatenablog.com/entry/2021/05/10/110000)**, 週刊はてなブログ, 2021年05月.
 1. 松本亮介, **[松本亮介（まつもとりー）「お互いに尊重し合い、自分がやっていることに自信を持つことが大切」](https://sakumaga.sakura.ad.jp/entry/2020/09/30/120000)**, さくマガ, 2020年09月.
 1. 松本亮介, **[mrubyを採用したソフトウェアを広げた第一人者・松本亮介が、面倒を感じながらもC言語を愛する理由とは？](https://offers.jp/media/interviews/a_1759)**, Offers Magagine インタビュー, 2020年07月.
 1. 松本亮介, **[まつもとりーのインフラ入門－最終回「高集積マルチテナントアーキテクチャの運用技術（２）」](https://pr.forkwell.com/2020-02-27-matsumoto/)**, Forkwell Press 連載, 2020年02月.
@@ -289,6 +294,17 @@ layout: default
 
 ### 口頭発表（国内）
 
+1. 松本亮介, **[Infra Study 2nd #6「インフラ技術とキャリア」](https://www.youtube.com/watch?v=wC1itypcCZo&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=1)**,[Infra Study Meetup](https://forkwell.connpass.com/), 2021年10月. 
+1. 松本亮介, **[Infra Study 2nd #5「低レイヤーの世界への誘い」](https://www.youtube.com/watch?v=j-rAGNokNRU&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=6)**,[Infra Study Meetup](https://forkwell.connpass.com/), 2021年9月. 
+1. 松本亮介, **[Infra Study 2nd #4「セキュリティエンジニアリングの世界」](https://www.youtube.com/watch?v=pwCbfa1MU0g&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=5)**,[Infra Study Meetup](https://forkwell.connpass.com/), 2021年8月. 
+1. 松本亮介, **[Infra Study 2nd #3「いまさら聞けないIPv6ネットワーク」](https://www.youtube.com/watch?v=NliJWPcgZJg&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=4)**,[Infra Study Meetup](https://forkwell.connpass.com/), 2021年7月. 
+1. 松本亮介, **[Infra Study 2nd #2「クラウドネイティブを支えるインフラ技術」](https://www.youtube.com/watch?v=poQ-Yf0PtME&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=3)**,[Infra Study Meetup](https://forkwell.connpass.com/), 2021年6月. 
+1. 松本亮介, **[Infra Study 2nd #1「インフラ技術者・研究者としてのキャリア」](https://www.youtube.com/watch?v=iwmxa0WdKSI&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=2)**,[Infra Study Meetup](https://forkwell.connpass.com/), 2021年5月. 
+1. 松本亮介, **[開発者体験をさらに向上させる事業と研究との連携](https://speakerdeck.com/matsumoto_r/kai-fa-zhe-ti-yan-wosaranixiang-shang-saseru-shi-ye-toyan-jiu-tofalselian-xi)**, [Developer eXperience Day CTO/VPoE Conference 2021](https://dxd2021.cto-a.org/program/time-table/c-6), 2021年4月.
+1. 松本亮介, **[企業研究の価値と事業との連携](https://speakerdeck.com/matsumoto_r/qi-ye-yan-jiu-falsejia-zhi-toshi-ye-tofalselian-xi)**, [第8回さくらインターネット研究会](), 2021年2月.
+1. 松本亮介, **[Infra Study Meetup #10 「202X年のインフラ技術」](https://www.youtube.com/watch?v=izcE60DnfPw&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=16)**, [Infra Study Meetup](https://forkwell.connpass.com/), 2021年1月.
+1. 松本亮介, **[Infra Study Meetup #9 「インフラ技術のこれまでとこれから」](https://www.youtube.com/watch?v=tntZo8j38GY&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=15)**, [Infra Study Meetup](https://forkwell.connpass.com/), 2020年12月.
+1. 松本亮介, **[誇りを持って研究していくために](https://speakerdeck.com/matsumoto_r/kua-riwochi-tuteyan-jiu-siteikutameni)**, [さくらの聖夜2020](), 2020年12月.
 1. 松本亮介, **[Infra Study Meetup #8「インフラの研究開発](https://speakerdeck.com/matsumoto_r/inhurafalseqi-ye-yan-jiu-falsejia-zhi-tokorekara)**, [Infra Study Meetup](https://forkwell.connpass.com/), 2020年11月.
 2. 松本亮介, **[Infra Study Meetup #7「エッジ・フォグコンピューティングとこれから司会](https://www.youtube.com/watch?v=iw_bSiv2Vl0)**, [Infra Study Meetup](https://forkwell.connpass.com/), 2020年10月.
 1. 松本亮介, 山下和彦, **[Forkwell Tech Cast #2 ― ITエンジニアのための日替わりニュースピックラジオ](https://forkwell.connpass.com/event/191326/)**, 2020年10月.
