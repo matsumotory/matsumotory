@@ -143,6 +143,7 @@ layout: default
 ***
 
 ### 論文誌論文（ジャーナル）
+1. Yuuki Tsubouchi, Masayoshi Furukawa, Ryosuke Matsumoto, **Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies**, [Journal of Information Processing, Vol. 30](), 2022. (to appear)
 1. 鶴田博文, 松本亮介, **ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバsshrの開発**, [会誌「情報処理」Vol.62 No.11 Nov. 2021「デジタルプラクティスコーナー」](https://www.ipsj.or.jp/dp/contents/publication/48/TR0204-06.html), 2021年10月.
 1. 松本亮介, 近藤宇智朗, 栗林健太郎, **招待論文: コンテナを利用した実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャの設計と実装**, [会誌「情報処理」Vol.62 No.8 Aug. 2021 「デジタルプラクティスコーナー」](https://www.ipsj.or.jp/dp/contents/publication/47/S1203-S02.html), 2021年7月.
 1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース**, [情報処理学会論文誌, Vol.62, No.3](http://doi.org/10.20729/00210244), 2021年3月.
@@ -158,7 +159,7 @@ layout: default
 
 ### 国際会議論文（査読付）
 
-1. Yuuki Nakata, Katsuya Matsubara, Ryosuke Matsumoto, **[Concentrated Isolation for Container Networks Toward Application-aware Sandbox Tailoring]()**, [14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2021)](https://www.cs.le.ac.uk/events/UCC2021/index.htm), Dec 2021. (to appear)
+1. Yuuki Nakata, Katsuya Matsubara, Ryosuke Matsumoto, **[Concentrated Isolation for Container Networks Toward Application-aware Sandbox Tailoring](https://dl.acm.org/doi/abs/10.1145/3468737.3494092)**, [14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2021)](https://www.cs.le.ac.uk/events/UCC2021/index.htm), Dec 2021.
 1. Ryosuke Matsumoto, Uchio Kondo, **[Rapid Container Scheduling for Reactive Relocation of Individual HTTP Requests](https://ieeexplore.ieee.org/abstract/document/9202795/)**, [The 44rd Annual IEEE International Computers, Software, and Applications Conference (COMPSAC2020)](https://ieeecompsac.computer.org/2020/nciw/), July 2020.
 1. Hirofumi Tsuruta, Ryosuke Matsumoto, **[sshr: An SSH Proxy Server Responsive to System Changes without Forcing Clients to Change](https://ieeexplore.ieee.org/abstract/document/9202744/)**, [The 15th IEEE International Workshop on Security, Trust & Privacy for Software Applications (STPSA 2020)](https://ieeecompsac.computer.org/2020/stpsa/), July 2020.
 1. Yuuki Tsubouchi, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications](https://ieeexplore.ieee.org/abstract/document/9202851/)**, [The 1st IEEE International Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020.
@@ -241,6 +242,7 @@ layout: default
 
 ### 学会誌・商業誌・Webメディア等解説
 
+1. 松本亮介, **[大規模クラウド・Webホスティングサービスから学ぶ実践的なLinuxのセキュリティと仮想化技術 〜Vol.1 本連載のミッションとビジョン〜](https://colors.m-field.co.jp/security-lab-vol1-mission-and-vision/)**, エム・フィールドの色々な人・仕事・考え方を発信するメディア COLORS, 2021年12月. 
 1. 松本亮介, **[Security LAB設立の背景セキュリティには翻訳が必要だ！](https://colors.m-field.co.jp/why-we-start-security-lab/)**, エム・フィールドの色々な人・仕事・考え方を発信するメディア COLORS, 2021年10月.
 1. 松本亮介, **[エンジニア・研究者が再びプロモデラーを目指す - 「好きなこと」を持続的な事業にするために考えたこと【寄稿：まつもとりー】](https://and-engineer.com/articles/YRHyTRAAACIAxac-)**, &アンドエンジニア, 2021年09月.
 1. 松本亮介, **[「革新的な情報通信技術でも、人間が使えなければ役に立たない」。ビジネスと研究を行き来する男のキャリア論](https://liiga.me/columns/754)**, 若手プロフェッショナルのキャリア支援ならLiiga, 2021年07月.
@@ -294,6 +296,8 @@ layout: default
 
 ### 口頭発表（国内）
 
+1. 松本亮介, **[Infra Study 2nd #8「エンジニアのアウトプット」](https://www.youtube.com/watch?v=EHb7bY1h7wM)**, [【最終回】Infra Study 2nd #8「エンジニアのアウトプット」〜インフラ技術の「これまで」と「これから」を網羅！インフラ勉強会シリーズ 2nd 最終回〜](https://forkwell.connpass.com/event/231212/), 2021年12月.
+1. 松本亮介, **[Engineer Career Lounge #1「エンジニアの成長戦略を考える」](https://www.youtube.com/watch?v=3MjszDn76-I)**, [Engineer Career Lounge #1「エンジニアの成長戦略を考える」〜まつもとりー氏 × potato4d氏 × ゆずたそ氏 × iwashi氏によるキャリア談義〜](https://forkwell.connpass.com/event/231606/), 2021年12月.
 1. 松本亮介, **[松本亮介氏が語る、できないことを見つけ続けるキャリアの重ね方 - Forkwell Engineer Career Study #1](https://www.youtube.com/watch?v=M-LUvYCSEbA)**, [Forkwell公式 ITエンジニアのキャリアと学び](https://www.youtube.com/channel/UCWHQMR_g93ZcbJLLHBoEp3A), 2021年11月.
 1. 松本亮介, **[Infra Study 2nd #6「インフラ技術とキャリア」](https://www.youtube.com/watch?v=wC1itypcCZo&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=1)**,[Infra Study Meetup](https://forkwell.connpass.com/), 2021年10月. 
 1. 松本亮介, **[Infra Study 2nd #5「低レイヤーの世界への誘い」](https://www.youtube.com/watch?v=j-rAGNokNRU&list=PLa7KKuU8Ysnv3cJJUMCeG8fECnhGYRvBo&index=6)**,[Infra Study Meetup](https://forkwell.connpass.com/), 2021年9月. 
