@@ -143,7 +143,7 @@ layout: default
 ***
 
 ### 論文誌論文（ジャーナル）
-1. Yuuki Tsubouchi, Masayoshi Furukawa, Ryosuke Matsumoto, **Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies**, [Journal of Information Processing, Vol. 30](), 2022. (to appear)
+1. Yuuki Tsubouchi, Masayoshi Furukawa, Ryosuke Matsumoto, **Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies**, [Journal of Information Processing, Vol. 30](https://www.jstage.jst.go.jp/article/ipsjjip/30/0/30_260/_article/-char/ja/), Mar 2022.
 1. 鶴田博文, 松本亮介, **ユーザに変更を要求せずにシステム変化に追従可能なSSHプロキシサーバsshrの開発**, [会誌「情報処理」Vol.62 No.11 Nov. 2021「デジタルプラクティスコーナー」](https://www.ipsj.or.jp/dp/contents/publication/48/TR0204-06.html), 2021年10月.
 1. 松本亮介, 近藤宇智朗, 栗林健太郎, **招待論文: コンテナを利用した実行環境の変化に素早く適応できる恒常性を持つシステムアーキテクチャの設計と実装**, [会誌「情報処理」Vol.62 No.8 Aug. 2021 「デジタルプラクティスコーナー」](https://www.ipsj.or.jp/dp/contents/publication/47/S1203-S02.html), 2021年7月.
 1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース**, [情報処理学会論文誌, Vol.62, No.3](http://doi.org/10.20729/00210244), 2021年3月.
@@ -242,6 +242,7 @@ layout: default
 
 ### 学会誌・商業誌・Webメディア等解説
 
+1. 松本亮介, **[大規模クラウド・Webホスティングサービスから学ぶ実践的なLinuxのセキュリティと仮想化技術 〜Vol.2 本連載の流れと筆者の専門領域の紹介〜](https://colors.ambl.co.jp/https-colors-ambl-co-jp-security-lab-vol2-about-the-author/)**, エム・フィールドの色々な人・仕事・考え方を発信するメディア COLORS, 2022年3月. 
 1. 松本亮介, **[大規模クラウド・Webホスティングサービスから学ぶ実践的なLinuxのセキュリティと仮想化技術 〜Vol.1 本連載のミッションとビジョン〜](https://colors.m-field.co.jp/security-lab-vol1-mission-and-vision/)**, エム・フィールドの色々な人・仕事・考え方を発信するメディア COLORS, 2021年12月. 
 1. 松本亮介, **[Security LAB設立の背景セキュリティには翻訳が必要だ！](https://colors.m-field.co.jp/why-we-start-security-lab/)**, エム・フィールドの色々な人・仕事・考え方を発信するメディア COLORS, 2021年10月.
 1. 松本亮介, **[エンジニア・研究者が再びプロモデラーを目指す - 「好きなこと」を持続的な事業にするために考えたこと【寄稿：まつもとりー】](https://and-engineer.com/articles/YRHyTRAAACIAxac-)**, &アンドエンジニア, 2021年09月.
@@ -296,6 +297,8 @@ layout: default
 
 ### 口頭発表（国内）
 
+1. 松本亮介, **[2022年さくらインターネット研究所の活動内容]()**, [FGN Tech Meetup #2 ~みなさん最近どうですかvol.2~](https://fgn-tech-meetup2.peatix.com/), 2022年03月.
+1. 松本亮介, **[コンテナの研究開発から学ぶLinuxの要素技術](https://speakerdeck.com/matsumoto_r/kontenafalseyan-jiu-kai-fa-karaxue-bulinuxfalseyao-su-ji-shu)**, [3-shake SRE Tech Talk #3](https://3-shake.connpass.com/event/241284/), 2022年03月.
 1. 松本亮介, **[Infra Study 2nd #8「エンジニアのアウトプット」](https://www.youtube.com/watch?v=EHb7bY1h7wM)**, [【最終回】Infra Study 2nd #8「エンジニアのアウトプット」〜インフラ技術の「これまで」と「これから」を網羅！インフラ勉強会シリーズ 2nd 最終回〜](https://forkwell.connpass.com/event/231212/), 2021年12月.
 1. 松本亮介, **[Engineer Career Lounge #1「エンジニアの成長戦略を考える」](https://www.youtube.com/watch?v=3MjszDn76-I)**, [Engineer Career Lounge #1「エンジニアの成長戦略を考える」〜まつもとりー氏 × potato4d氏 × ゆずたそ氏 × iwashi氏によるキャリア談義〜](https://forkwell.connpass.com/event/231606/), 2021年12月.
 1. 松本亮介, **[松本亮介氏が語る、できないことを見つけ続けるキャリアの重ね方 - Forkwell Engineer Career Study #1](https://www.youtube.com/watch?v=M-LUvYCSEbA)**, [Forkwell公式 ITエンジニアのキャリアと学び](https://www.youtube.com/channel/UCWHQMR_g93ZcbJLLHBoEp3A), 2021年11月.
