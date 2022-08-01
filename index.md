@@ -14,6 +14,8 @@ layout: default
 
 2018年11月より現職のさくらインターネット研究所で主席研究員を務める。その他、複数社の技術顧問。
 
+2022年05月より株式会社COGNANOの取締役CTOに就任。
+
 第9回日本OSS奨励賞や2014年度情報処理学会山下記念研究賞など、その他受賞多数。2016年に情報処理学会IPSJ-ONEにおいて時流に乗る日本の若手トップ研究者19名に選出される。
 
 ### 略歴（ショートバージョン）
@@ -23,10 +25,10 @@ layout: default
 ## 所属
 - 2018年11月 〜
   - [さくらインターネット研究所 主席研究員](https://research.sakura.ad.jp/about/)
-  - [balconia株式会社 技術顧問](https://www.balconia.co.jp/about/) - [[プレスリリース]](https://www.m-field.co.jp/news/detail/20211028_3348/)
+  - [株式会社COGNANO 取締役CTO](https://www.cognano.co.jp/company/) - [[ニュース]](https://www.cognano.co.jp/2022/05/02/%e5%8f%96%e7%b7%a0%e5%bd%b9%e5%b0%b1%e4%bb%bb%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/) [[プレスリリース]](https://prtimes.jp/main/html/rd/p/000000002.000104790.html)
+  - [AMBL株式会社 技術顧問](https://www.ambl.co.jp/about/) - [[プレスリリース]](https://www.m-field.co.jp/news/detail/20211028_3348/)
   - [株式会社スリーシェイク 技術顧問](https://3-shake.com/about/) - [[プレスリリース]](https://3-shake.com/humanresources-matsumoto/)
   - [株式会社grooves Forkwell 技術顧問](https://www.grooves.com/news/1598) - [[プレスリリース]](https://www.grooves.com/news/1598)
-  - [株式会社COGNANO 技術顧問](https://www.cognano.co.jp/company/)
   - [株式会社ハウテレビジョン Mond 回答者](https://howtelevision.co.jp/)
   - [科学技術振興機構JST CREST 研究領域「信頼されるAIシステムを支える基盤技術」D3-AIプロジェクトメンバー](https://d3-ai.github.io/members/)
   - [情報処理学会 インターネットと運用技術研究会 幹事](https://www.iot.ipsj.or.jp/)
@@ -35,11 +37,13 @@ layout: default
   - [松本亮介事務所 所長](https://twitter.com/matsumotory)
 
 ## 経歴
+- 2022年05月 株式会社COGNANO 取締役CTO 就任
 - 2022年04月 さくらインターネット研究所 主席研究員 就任
 - 2021年10月 株式会社スリーシェイク 技術顧問 就任
-- 2021年06月 balconia株式会社 技術顧問 就任
+- 2021年06月 AMBL株式会社 技術顧問 就任
 - 2021年04月 情報処理学会 システムソフトウェアとオペレーティング・システム研究会 運営委員 就任
 - 2021年04月 ペパボ研究所 客員研究員 退任
+- 2021年03月 株式会社ネットフォレスト 技術顧問 退任
 - 2021年01月 株式会社COGNANO 技術顧問 就任
 - 2020年12月 株式会社ハウテレビジョン 相談室回答者 就任
 - 2020年08月 株式会社ネットフォレスト 技術顧問 就任 
