@@ -1,39 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <title>
-    
-      松本 亮介（まつもと りょうすけ） &middot; 松本亮介の研究・開発業績ページ
-    
-  </title>
-
-  <link rel="stylesheet" href="/styles.css">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
-  <link rel="shortcut icon" href="/public/favicon.ico">
-  <link rel="alternate" type="application/atom+xml" title="松本亮介の研究・開発業績ページ" href="/atom.xml">
-</head>
-
-
-  <body>
-
-    <div class="container content">
-      <header class="masthead">
-        <h3 class="masthead-title">
-          <a href="/" title="Home">松本亮介の研究・開発業績ページ</a>
-          <small></small>
-        </h3>
-      </header>
-
-      <main>
-        <h1 id="松本-亮介まつもと-りょうすけ">松本 亮介（まつもと りょうすけ）</h1>
+I"��<h1 id="松本-亮介まつもと-りょうすけ">松本 亮介（まつもと りょうすけ）</h1>
 
 <h2 id="略歴">略歴</h2>
 
-<p>京都大学博士（情報学）、さくらインターネット研究所主席研究員、株式会社COGNANO取締役CTO、情報処理学会各種幹事・委員、ITRC各種委員、松本亮介事務所所長、その他複数社の技術顧問。</p>
+<p>京都大学博士（情報学）、さくらインターネット研究所主席研究員、情報処理学会各種委員、ITRC各種委員、松本亮介事務所所長、その他複数社の技術顧問。2023年よりゲーム配信活動開始。</p>
 
 <p>2008年に現場の技術を知るため修士に行かずにホスティング系企業に就職したのち、2012年に修士課程を飛ばしで京都大学大学院の博士課程に入学。インターネット基盤技術の研究に取り組み、mod_mrubyやngx_mrubyなどのOSSを始めとした多数のOSSへの貢献や学術的成果を修める。</p>
 
@@ -41,19 +10,20 @@
 
 <p>2018年11月より現職のさくらインターネット研究所で主席研究員を務める。その他、複数社の技術顧問。</p>
 
-<p>2022年05月より株式会社COGNANOの取締役CTOに就任。</p>
+<p>2022年05月より株式会社COGNANOの取締役CTOに就任。2024年05月任期満了退任。</p>
 
 <p>第9回日本OSS奨励賞や2014年度情報処理学会山下記念研究賞など、その他受賞多数。2016年に情報処理学会IPSJ-ONEにおいて時流に乗る日本の若手トップ研究者19名に選出される。</p>
 
 <h3 id="略歴ショートバージョン">略歴（ショートバージョン）</h3>
 
-<p>京都大学博士（情報学）、さくらインターネット研究所主席研究員、株式会社COGNANO取締役CTO、情報処理学会各種幹事・委員、ITRC各種委員、松本亮介事務所所長、その他複数社の技術顧問。2018年11月より現職のさくらインターネット研究所で主席研究員、2022年05月より株式会社COGNANOで取締役CTOを務める。第9回日本OSS奨励賞や2014年度情報処理学会山下記念研究賞など、その他受賞多数。2016年に情報処理学会IPSJ-ONEにおいて時流に乗る日本の若手トップ研究者19名に選出される。</p>
+<p>京都大学博士（情報学）、さくらインターネット研究所主席研究員、情報処理学会各種委員、ITRC各種委員、松本亮介事務所所長、その他複数社の技術顧問。2018年11月より現職のさくらインターネット研究所で主席研究員を務める。第9回日本OSS奨励賞や2014年度情報処理学会山下記念研究賞など、その他受賞多数。2016年に情報処理学会IPSJ-ONEにおいて時流に乗る日本の若手トップ研究者19名に選出される。2023年からゲーム配信活動開始。</p>
 
-<h2 id="所属">所属</h2>
+<h2 id="所属歴">所属歴</h2>
 <ul>
   <li>2018年11月 〜
     <ul>
       <li><a href="https://research.sakura.ad.jp/about/">さくらインターネット研究所 主席研究員</a></li>
+      <li><a href="https://www.twitch.tv/matsumotory">Twitchにてゲーム配信開始</a></li>
       <li><a href="https://www.cognano.co.jp/company/">株式会社COGNANO 取締役CTO</a> - <a href="https://www.cognano.co.jp/2022/05/02/%e5%8f%96%e7%b7%a0%e5%bd%b9%e5%b0%b1%e4%bb%bb%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/">[ニュース]</a> <a href="https://prtimes.jp/main/html/rd/p/000000002.000104790.html">[プレスリリース]</a></li>
       <li><a href="https://www.ambl.co.jp/about/">AMBL株式会社 技術顧問</a> - <a href="https://www.m-field.co.jp/news/detail/20211028_3348/">[プレスリリース]</a></li>
       <li><a href="https://3-shake.com/about/">株式会社スリーシェイク 技術顧問</a> - <a href="https://3-shake.com/humanresources-matsumoto/">[プレスリリース]</a></li>
@@ -70,6 +40,12 @@
 
 <h2 id="経歴">経歴</h2>
 <ul>
+  <li>2025年03月 情報処理学会 システムソフトウェアとオペレーティング・システム研究会 運営委員 退任</li>
+  <li>2025年03月 株式会社スリーシェイク 技術顧問 退任</li>
+  <li>2024年12月 情報処理学会 インターネットと運用技術研究会 幹事 退任</li>
+  <li>2024年08月 AMBL株式会社 技術顧問 退任</li>
+  <li>2024年05月 株式会社COGNANO 取締役CTO 退任</li>
+  <li>2023年03月 ゲーム配信活動開始</li>
   <li>2022年05月 株式会社COGNANO 取締役CTO 就任</li>
   <li>2022年04月 さくらインターネット研究所 主席研究員 就任</li>
   <li>2021年10月 株式会社スリーシェイク 技術顧問 就任</li>
@@ -517,16 +493,4 @@
   <li>松本亮介, <strong>統計的手法による時系列からの外れ値と変化点の検出について</strong>, <a href="http://blog.matsumoto-r.jp/?p=54">平成19年度 前期雑誌会</a>.</li>
 </ul>
 
-
-      </main>
-
-      <footer class="footer">
-        <small>
-          &copy; <time datetime="2022-11-16T02:55:37-06:00">2022</time>. All rights reserved.
-        </small>
-      </footer>
-    </div>
-
-    
-  </body>
-</html>
+:ET

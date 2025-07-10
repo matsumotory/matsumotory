@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+gem "webrick", "~> 1.9"
+gem "jekyll-paginate", "~> 1.1.0"
+gem "jekyll-gist"
+gem "kramdown-parser-gfm"
+gem "jekyll-watch"

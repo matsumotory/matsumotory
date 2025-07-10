@@ -1,8 +1,7 @@
-version: '3.7'
 services:
   app:
-    image: jekyll/jekyll:pages
-    command: jekyll serve --force_polling
+    image: jekyll/jekyll:latest
+    command: jekyll serve --watch --force_polling --verbose
     volumes:
       - $PWD:/srv/jekyll
     ports:

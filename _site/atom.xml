@@ -4,7 +4,7 @@
  <title>松本亮介の研究・開発業績ページ</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000/"/>
- <updated>2022-11-16T02:55:37-06:00</updated>
+ <updated>2025-07-10T07:01:35-05:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -40,7 +40,7 @@
 &lt;ul&gt;
   &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+  &lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
   &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
   &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
   &lt;li&gt;Syntax highlighting, courtesy Jekyll’s built-in support for Rouge&lt;/li&gt;
@@ -61,7 +61,7 @@
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
+   <title>What&apos;s Jekyll?</title>
    <link href="http://0.0.0.0:4000/2016/01/01/whats-jekyll/"/>
    <updated>2016-01-01T00:00:00-06:00</updated>
    <id>http://0.0.0.0:4000/2016/01/01/whats-jekyll</id>
